@@ -981,11 +981,12 @@
 # Bank 57
 - Withdraw: 10 buckets, leather gloves, 3x beer (obtainable during quest), Archaeology journal, 2 waterskins, some food
 - Complete The Feud, use house portal to get to Pollnivneach quickly
-  - Collect 10 ugthanki dung
-  - Safe spot tough guy/bandit champion
-  - Complete Rogue Trader Miniquest, talk to Ali Morrisane again
-  - Open small/large runes, buy 150 nature runes, 100 cosmic runes, 100 law runes, 1 soul rune [Legends' Quest]
-  - Complete Penguin Hide and Seek if you haven't already -Spend Penguin Points with Larry (or Chuck) at Ardougne Zoo, buy large, huge XP lamp put them into herblore.
+- Collect 10 ugthanki dung
+- Safe spot tough guy/bandit champion
+- Complete Rogue Trader Miniquest, talk to Ali Morrisane again
+- Open small/large runes, buy 150 nature runes, 100 cosmic runes, 100 law runes, 1 soul rune [Legends' Quest]
+- Buy two tinderboxes
+- Complete Penguin Hide and Seek if you haven't already -Spend Penguin Points with Larry (or Chuck) at Ardougne Zoo, buy large, huge XP lamp put them into herblore.
 
 # Bank 58
 - Train Magic to 33 and ranged to 40 and defence lvl 40 at shattered worlds, use prayers, choose mutators that heal you as much as you can.
@@ -1503,4 +1504,4 @@
 - Deposit inventory, teleport to Varrock Lodestone, mine 11 mithril ore
 - We need at least 1 mithril bar for the upcoming quest, but if you can make 10 we need that many for quest eventually. Deposit them into bank
 - Equip: keep full mystics and weapons on, salve amulet
-- Withdraw: 
+- Withdraw:
