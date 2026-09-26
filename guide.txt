@@ -1045,6 +1045,7 @@
 - Kill a snail take the loot, click the snail shell and craft it [Mory Easy Task]
 - We cannot make a silver sickle until Grotto request it in the quest [go to a furnace to make it when the time comes]
 - Complete [[Nature Spirit]]
+- After quest is complete pray at the Altar of Nature [Morytania Easy Task]
 - 125 Quest Points, claim reward from May
 - Teleport to Lumbridge, bank
 
@@ -1516,11 +1517,6 @@
 - Go to Bank
 
 # Bank 94
-- Equip: full Rune Armour, salve amulet, grimoire, explorers ring, silver sickle (b), adamant off hand sword
-- Refer to [In Aid of the Myreque] for item requirements. you should have everything but just make sure, so you dont have to run back. 10 fat snails we can kill during the quest if we get that item
-- Withdraw: 50 nails (any type), 5x buckets, 6x planks, one log, one thin snail, charged druid pouch/druid pouch, fill the rest of your inventory with trout or a cheap food source
-- Teleport to Canifis, use Statue of Juna if you need prayer points
-- In the hideout behind the Canifis pub, go through the secret wall and squeeze past the stalagmite on the east side of the cave
-- Talk to Veliaf Hurtz. (Chat 1•3•✓•1) Accept Quest
-- Complete [[In Aid of the Myreque]]
-- when you exit the double doors light a fire and cook the snail [Morytania Easy Task]
+- Equip: keep full mystics and weapons on, salve amulet
+- Refer to [In Aid of the Myreque] for item requirements. you should have everything but just make sure
+- Withdraw: 50 nails (any type), 5x buckets, 6x planks, one log, one thin snail, charged druid pouch/pouch
