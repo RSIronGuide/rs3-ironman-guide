@@ -1496,6 +1496,11 @@
 * Before boss fight activate excalibur
 * During the boss fight protect from melee and use overcharge and mystic might prayers
 * You can drop the femur bone, we've completed [Rag and Bone]/[Fur n' Seek], the item has no use
+- House teleport 
+* WARNING do not stay in the cave, you will start to take damage, HCIM
 
 # Bank 93
-- Equip: keep full mystics on, salve amulet, two prayer potions,
+- Deposit inventory, teleport to Varrock Lodestone, mine 11 mithril ore
+- We need at least 1 mithril bar for the upcoming quest, but if you can make 10 we need that many for quest eventually. Deposit them into bank
+- Equip: keep full mystics and weapons on, salve amulet
+- Withdraw: 
