@@ -985,7 +985,6 @@
 - Safe spot tough guy/bandit champion
 - Complete Rogue Trader Miniquest, talk to Ali Morrisane again
 - Open small/large runes, buy 150 nature runes, 100 cosmic runes, 100 law runes, 1 soul rune [Legends' Quest]
-- Buy three tinderboxes from Ali's general stock [In Aid of the Myreque]
 - Complete Penguin Hide and Seek if you haven't already -Spend Penguin Points with Larry (or Chuck) at Ardougne Zoo, buy large, huge XP lamp put them into herblore.
 
 # Bank 58
@@ -1064,7 +1063,6 @@
 - Kill a monkey during quest take Monkey paw [[Rag and Bone Man Quest]]
 - Use surge across the bridge, you will take a lot of damage if you fail. Heads up HCIM
 - Bank at shilo village
-- Go to Obli's General store West, trade, buy three tinderbox, 10 bronze hatchets [[In Aid of the Myreque]]
 
 # Bank 65
 - Withdraw: feathers
