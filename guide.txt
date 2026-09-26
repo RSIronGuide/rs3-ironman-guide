@@ -1064,6 +1064,7 @@
 - Kill a monkey during quest take Monkey paw [[Rag and Bone Man Quest]]
 - Use surge across the bridge, you will take a lot of damage if you fail. Heads up HCIM
 - Bank at shilo village
+- Go to Obli's General store West, trade, buy three tinderbox, 10 bronze hatchets [[In Aid of the Myreque]]
 
 # Bank 65
 - Withdraw: feathers
