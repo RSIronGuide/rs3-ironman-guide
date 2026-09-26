@@ -1504,4 +1504,5 @@
 - Deposit inventory, teleport to Varrock Lodestone, mine 11 mithril ore
 - We need at least 1 mithril bar for the upcoming quest, but if you can make 10 we need that many for quest eventually. Deposit them into bank
 - Equip: keep full mystics and weapons on, salve amulet
-- Withdraw:
+- Refer to [In Aid of the Myreque] for item requirements. you should have everything but just make sure
+- Withdraw: 50 nails (any type), 5x buckets, 6x planks,
