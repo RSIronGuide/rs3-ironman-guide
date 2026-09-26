@@ -17,7 +17,7 @@
 - North, play the organ [Lumbridge Beginner Task]
 - Climb to the top floor and ring the bell. [Lumbridge Beginner Task]
 - Go back down, Head South to Graveyard and speak to Xenia, (💬 1•1) to Accept Quest, The Blood Pact
-- Complete The Blood Pact open lamps, equip staff train magic, we don't need to add abilites to our revolution bar. it's all auto, you can practice working on defence abilites as you get them if you would like. 
+- Complete The Blood Pact open lamps, equip staff train magic, we don't need to add abilites to our revolution bar for a long time. it's all auto, you can practice working abilites as you get them if you would like. 
 - Chop down the swamp tree south of you [Lumbridge Easy Task]
 - Kill a giant rat in the Swamp, Pick up ALL items [Lumbridge Easy Task]
 - Light a campfire using standard logs [Lumbridge Easy Task]
@@ -1498,4 +1498,4 @@
 * You can drop the femur bone, we've completed [Rag and Bone]/[Fur n' Seek], the item has no use
 
 # Bank 93
-- Equip: keep full mystics on, salve amulet, two prayer potions, 
+- Equip: keep full mystics on, salve amulet, two prayer potions,
