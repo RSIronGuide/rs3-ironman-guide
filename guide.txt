@@ -1503,6 +1503,20 @@
 # Bank 93
 - Deposit inventory, teleport to Varrock Lodestone, mine 11 mithril ore
 - We need at least 1 mithril bar for the upcoming quest, but if you can make 10 we need that many for quest eventually. Deposit them into bank
+- Withdraw: fruit tree, supercompost [I would start storing supercompost in the Tool leprechaun]
+- Teleport to Catherby, trade with harry buy a Big fishing net
+- Plant the fruit tree, drop the bucket and pot plant
+- USE the big fishing net on a "Net fishing spot" to catch raw mackerel [Seers' Easy Task] we need 10 raw mackerel total [[In Aid of the Myreque]]
+- I would grab at leaset two of the following in case it gets burnt:
+- We need one cooked tuna, one cooked bass, one cooked swordfish, cooked shrimp/salmon we should have in bank [[Family Crest]]
+- We need 1 raw tuna, you will harpoon for this [[The Fremmennik Isles]]
+- We need 1 raw cod [[RFD: Freeing Pirate Pete]]
+* I would catch a few of each in case we burn one
+- Teleport to Edgeville and cook two bass [Seers' Medium Task] (if you aren't 43 cooking yet come back to this step after you fly fish to 53 and cook all the trout and salmon you get]
+- Cook one tuna
+- Go to Bank
+
+# Bank 94
 - Equip: keep full mystics and weapons on, salve amulet
 - Refer to [In Aid of the Myreque] for item requirements. you should have everything but just make sure
-- Withdraw: 50 nails (any type), 5x buckets, 6x planks,
+- Withdraw: 50 nails (any type), 5x buckets, 6x planks, one log, one thin snail, charged druid pouch/pouch
