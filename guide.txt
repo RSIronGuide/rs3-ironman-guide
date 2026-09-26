@@ -1483,7 +1483,7 @@
 - Keep everything equipped
 - Withdraw: air runes and water runes, wicked hood, wilderness sword 1, full inventory of trout
 - Go to the abyss, kill abyssal creatures until we get a chaos talisman. Dump 1 talisman into your wicked hood as you get them. 
-- we need one extra earth taliman for task, keep all stackable charms,and keep as many abyssal charms as you can
+- we need one extra earth taliman for task, keep all stackable charms,and keep as many abyssal charms as you can, grab binding necklace if it drops
 - You can safespot abyssal creatures at the southeast corner there a good spot, quick teleport out with House teleport, then use wilderness sword 1 to get back to edgeville, bank, repeat
 - after done go to bank
 
