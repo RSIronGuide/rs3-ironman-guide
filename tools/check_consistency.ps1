@@ -72,6 +72,7 @@ $Misspellings = @(
   @{ Wrong = 'explorers ring';  Right = "Explorer's ring" }
   @{ Wrong = 'anti dragon';     Right = 'anti-dragon' }
   @{ Wrong = 'Mytic';           Right = 'Mystic' }
+  @{ Wrong = 'taliman';         Right = 'talisman' }
   @{ Wrong = "Champion's Guild"; Right = "Champions' Guild" }
   @{ Wrong = '\btheres\b';      Right = "there's"; Rx = $true }
 )

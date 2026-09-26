@@ -1476,20 +1476,20 @@
 - You should receive an empty folder in inventory
 - Complete What Lies Below
 * You do NOT need a chaos talisman to complete this quest, use the Abyss to enter chaos altar
-* After quest is complete drop the beacon ring, Zaff's instructions, and Sin'keth's diary 
+* After quest is complete drop the beacon ring, Zaff's instructions, and Sin'keth's diary
 - Teleport to Edgeville and bank
 
 # Bank 91
 - Keep everything equipped
 - Withdraw: air runes and water runes, wicked hood, wilderness sword 1, full inventory of trout
-- Go to the abyss, kill abyssal creatures until we get a chaos talisman. Dump 1 talisman into your wicked hood as you get them. 
-- we need one extra earth taliman for task, keep all stackable charms,and keep as many abyssal charms as you can, grab binding necklace if it drops
-- You can safespot abyssal creatures at the southeast corner there a good spot, quick teleport out with House teleport, then use wilderness sword 1 to get back to edgeville, bank, repeat
-- after done go to bank
+- Go to the abyss, kill abyssal creatures until we get a chaos talisman. Dump 1 talisman into your wicked hood as you get them.
+- We need one extra earth talisman for task, keep all stackable charms, and keep as many abyssal charms as you can, grab binding necklace if it drops
+- You can safespot abyssal creatures at the southeast corner, there's a good spot, quick teleport out with House teleport, then use wilderness sword 1 to get back to Edgeville, bank, repeat
+- After done go to bank
 
-# Bank 92 
-- Withdraw: air and earth runes (use earth blast), chaos talisman, 3 prayer potions, anti dragon shield and full inventory of food
-- if no prayer pots, do an herb run, collect rannars and plant more rannars. Teleport to Rimmington go Northwest to snape grass spawn and grab as many as you can bear. 20 would be nice. 
-- make some prayer potions
-- Complete [The Hunt for Surok]
-- before boss fight activate mage prayers, protect from melee, and activate excalibur
+# Bank 92
+- Withdraw: air and earth runes (use earth blast), chaos talisman, 3 prayer potions, anti-dragon shield and full inventory of food
+- If no prayer pots, do an herb run, collect ranarrs and plant more ranarrs. Teleport to Rimmington, go Northwest to snape grass spawn and grab as many as you can bear. 20 would be nice.
+- Make some prayer potions
+- Complete The Hunt for Surok
+- Before boss fight, activate mage prayers, protect from melee, and activate Excalibur
