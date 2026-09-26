@@ -17,7 +17,7 @@
 - North, play the organ [Lumbridge Beginner Task]
 - Climb to the top floor and ring the bell. [Lumbridge Beginner Task]
 - Go back down, Head South to Graveyard and speak to Xenia, (💬 1•1) to Accept Quest, The Blood Pact
-- Complete The Blood Pact open lamps, equip staff train magic, add abilities as you unlock
+- Complete The Blood Pact open lamps, equip staff train magic, we don't need to add abilites to our revolution bar. it's all auto, you can practice working on defence abilites as you get them if you would like. 
 - Chop down the swamp tree south of you [Lumbridge Easy Task]
 - Kill a giant rat in the Swamp, Pick up ALL items [Lumbridge Easy Task]
 - Light a campfire using standard logs [Lumbridge Easy Task]
@@ -1491,8 +1491,11 @@
 - Withdraw: air and earth runes (use earth blast), chaos talisman, 3 prayer potions, anti dragon shield and full inventory of food
 - if no prayer pots, do an herb run, collect rannars and plant more rannars. Teleport to Rimmington go Northwest to snape grass spawn and grab as many as you can bear. 20 would be nice. 
 - make some prayer potions
-- Complete [The Hunt for Surok]
+- Complete [The Hunt for Surok], we still don't need to put anything in our revolution bar, it's all auto. But test it out if you'd like.
 * protect from melee when running through the cave, you will take a lot of damage. I didn't protect from melee but I still had 10 food remaining after the fight. Some parts of the care you will take more damage than others. 
 * Before boss fight activate excalibur
 * During the boss fight protect from melee and use overcharge and mystic might prayers
-* You can drop the femur bone, we've completed Rag and Bone/Fur n Seek, the item has no use
+* You can drop the femur bone, we've completed [Rag and Bone]/[Fur n' Seek], the item has no use
+
+# Bank 93
+- Equip: keep full mystics on, salve amulet, two prayer potions, 
