@@ -132,7 +132,7 @@
 - [Note: you will take the supplies to the same place you defeat Map.]
 - Use one lamp on agility (if you didn't reach lvl 5) one on smithing, one on farming
 - Attempt Troll Invasion, Talk to Captain Jute, (💬 1•1•1•1) YES. If you don't watch the video, Basically repair broken walls, broken spikes, refill oil, repair ballista, and fire the ballista. At the start, fill buckets with oil, grab hammer, and go upstairs. The goal is to gain Firemaking, Crafting, Construction XP.
-- Put reward book on agility (return every month)
+- Put reward book on agility (return every month), used reward on herblore from now on
 
 # Bank 5
 - Go Southeast deposit all
@@ -179,7 +179,7 @@
 - Teleport to Taverley Lodestone
 - Go Southeast across the bridge and talk to Sanfew again to complete Druidic Ritual
 - Go South, Talk to Pikkupstix, (💬 2), Complete Wolf Whistle, rub lamp
-- Go North buy 1 compost, harvest potato patch, trade take 3 free potato seeds, buy 10 potato seeds. Plant new potato's, use potato on tool leprechaun
+- Go North buy 1 compost, harvest potato patch, trade and take 3 free potato seeds, buy 10 potato seeds. Plant new potato's, use potato on tool leprechaun
 - Rake Tree Patch
 
 # Bank 8
@@ -190,8 +190,8 @@
 - Drop weeds/bucket, Mine Clay Northeast (Lumbridge Beginner Task)
 - Run back, go to the water pump and make soft clay (Lumbridge Beginner Task)
 - Go to the pottery wheel building, make one unfired pot at Potter's Wheel (Lumbridge Beginner Task)
-- Make sure to keep one unfired bowl (Dragon Slayer)
-- Fire one pot at the oven, keep this one you, we will use it to make a pot of flour(Lumbridge Beginner Task)
+* Make sure to keep one unfired bowl (Dragon Slayer)
+- Fire one pot at the oven, keep this one you, we will use it to make a pot of flour (Lumbridge Beginner Task)
 - Click soft clay, click ring mould, make 2 clay rings (unfired), fire them in oven (Lumbridge Easy Task)
 - At Level 7 make Pie Dish, at Level 8 Make Bowls, go until 15 crafting.
 - Bank items after first round, fill bowls with water, on the way, sell one clay ring to Morgan. (Lumbridge Easy Task) Keep one empty pot on you
@@ -220,14 +220,14 @@
 - Go back to coffin, open coffin, use skull on coffin, cutscene, Restless Ghost Quest Completed
 - Rub prayer XP lamp, bury ancient bones.
 - Go north to Father Aereck in Church, use clay ring on him. (Lumbridge Easy Task)
-- [Note: Ring of Devotion works as a Saradomin item in God Wars]
+* Ring of Devotion works as a Saradomin item in God Wars
 - Right click Father Aereck, view gravestone, (💬 1) (Lumbridge Beginner Task)
 - Enter Lumbridge Castle, Talk to Cook, (💬 1), Accept Quest, Cook's Assistant
 - Hand-in items, Complete Quest Cook's Assistant, 5 cooking
 - Climb up staircase, once
 - Speak to Duke Horacio (Lumbridge Beginner Task)
 - Climb up staircase, pick up 4 logs, climb up ladder (Lumbridge Beginner Task)
-- Raise the flag(Lumbridge Beginner Task)
+- Raise the flag (Lumbridge Beginner Task)
 
 # Bank 10
 - Withdraw: 20 balls of wool, one raw shrimp
@@ -268,7 +268,7 @@
 - Climb vine to get out
 - Head West, to the Rough stone block, (💬 1), Juna Guthix, (💬 1), Pray at altar, kill enemy [We want to always choose Juna Guthix it gives prayer and slayer XP]
 - Head back to Barbarian Village
-- [Optional: complete Player Safety for extra GP]
+* Optional: complete Player Safety for extra GP
 - Go North to Edgeville, Activate Lodestone
 - Head East, Talk to Jeffery, (💬 1•1•1•1•1) Gunnar's Ground
 - Go into building West of Moldark, Emissary of Zamorak, Quest Icon is in the building. Go up ladder, Talk to Caelyn Kadaan, (💬 2•1•1), Accept Quest, Heartstealer (💬 1•3)
@@ -354,7 +354,7 @@
 - Teleport to Falador run north, Accept Quest, What's Mine Is Yours
 - Before going into Dwarven Mine, Talk to Lakki The Delivery Dwarf at the stairs
 - (💬 1•2), Accept Quest, Perils of Ice Mountain
-- [Note: do this step for Perils of Ice Mountain before continuing]
+* Do this step for Perils of Ice Mountain before continuing
 - Search bushes to the west, you will get a crate, Go up to the Dwarven Mine, [Before you climb down ladder to mine] to the West, enter the building and speak to Drorkar, (💬 1•2). After conversation, pickpocket Drorkar, you should get a key (Perils of Ice Mountain)
 - Continue What's Mine Is Yours [Note: Go to Artisan's Workshop then Falador Castle]
 - When you go to Varrock East Mine, pick three cadava berries [Soul Searching]
@@ -381,8 +381,8 @@
 - [Note: If you still aren't 10 smithing, just mine a few more tin and copper, keep making bronze arrowheads for fletching] ==g:we need bronze bars for quest==
 - Make two iron bars, make iron ore box at anvil
 - Mine full inventory of iron ore, fill ore box, at lvl 20 mining add steel pickaxe to toolbelt, keep iron pickaxe
-- [Note: we need 20mining and 20 smithing before moving on]
-- [Note: we need 30mining for pure essence eventually, you can get 30 mining now or later, you can also mine some coal too]
+* We need 20 mining and 20 smithing before moving on]
+* We need 30 mining for pure essence eventually, you can get 30 mining now or later, you can also mine some coal too]
 - Smelt 60 iron bars total, deposit in anvil
 - Make one iron full helm
 - Click anvil, withdraw two iron bars
@@ -396,7 +396,7 @@
 # Bank 16
 - Withdraw: ore box, two iron bars if you still have
 - Go back to anvil south, make iron full helm +1, iron chestplate +1, iron platelegs +1 [Demon Slayer armour]
-- [Note: While smithing, keep an eye on the item's heat. As it cools, you'll make less progress with each swing. Click the forge to reheat the item before continuing at the anvil]
+* While smithing, keep an eye on the item's heat. As it cools, you'll make less progress with each swing. Click the forge to reheat the item before continuing at the anvil]
 - Make iron chestplate +1 until 20 smithing
 - Go south, buy 1 compost from Head farm jones, take free potato seeds, Harvest potatoes, drop potatoes, use compost bucket on patch, replant seeds.
 - Trade with Head Farmer Jones, buy 10 compost, 10 plant pots
@@ -410,18 +410,18 @@
 - Climb down the ladder and go west, fill water bucket with water, Complete Perils of Ice Mountain, Quest Completed use lamp
 - Teleport back to Edgeville, go south, mine 20 coal.
 - Teleport to Burthorpe make 12 steel bars (Lumbridge Easy Task), withdraw, ==ALL bronze bars (upcoming quest), ALL iron bars, all steel bars==. Deposit everything into bank.
-  * Complete one Runesphere every day. I can't stress this enough. After two Runespheres im 44RC, its OP. When a runesphere shows up Talk to a wizard within Runespan and ask for the location, it will tell you above, middle, or on the low level. We can only do the lower level. Middle lvl access 33 Runecrafting, you'll need a higher RC just to reach the runesphere sometimes. Just train
-- The Achievement Help Discord server has a role for it. If you sign up for that role in the #role- sign-up channel, you'll get a notification when someone calls out a runesphere in the #call-outs channel.
-- Then have a ton of such roles, which can be super handy if you want to be notified about various randomly occurring events, spawns, group activities, etc.
-- https://discord.gg/ahelp
-- Runespheres spawn at a high-tier layer (up to level 92 for the Soul layer) and automatically sheds its layers roughly every 2 to 3.5 minutes. As it breaks down, it moves backward through the Runecrafting tiers until it reaches the final Air layer (level 1) before finally exposing its core. (I wasn't aware of this)
-- Early Level Node Strategy Runespan (Levels 1-33)
-- Level 1-9: Target Cyclones and Mind storms for roughly 56,000 XP per hour.
-  - Level 5+: Switch to Water pools (~64,500 XP/hr).
-  - Level 9+: Move to Rock fragments (~68,500 XP/hr).
-  - Level 14+: Siphon Fireballs (~76,000 XP/hr).
-  - Level 17-32: Use Vines, which peak around 83,000 XP per hour at optimal efficiency
-  - [Also note, shiny crystal is in low-level runespan when you go in there grab it [Benedict's Around the World]]
+* Complete one Runesphere every day. I can't stress this enough. After two Runespheres im 44RC, its OP. When a runesphere shows up Talk to a wizard within Runespan and ask for the location, it will tell you above, middle, or on the low level. We can only do the lower level. Middle lvl access 33 Runecrafting, you'll need a higher RC just to reach the runesphere sometimes. Just train
+* The Achievement Help Discord server has a role for it. If you sign up for that role in the #role- sign-up channel, you'll get a notification when someone calls out a runesphere in the #call-outs channel.
+* Then have a ton of such roles, which can be super handy if you want to be notified about various randomly occurring events, spawns, group activities, etc.
+* https://discord.gg/ahelp
+* Runespheres spawn at a high-tier layer (up to level 92 for the Soul layer) and automatically sheds its layers roughly every 2 to 3.5 minutes. As it breaks down, it moves backward through the Runecrafting tiers until it reaches the final Air layer (level 1) before finally exposing its core. (I wasn't aware of this)
+* Early Level Node Strategy Runespan (Levels 1-33)
+* Level 1-9: Target Cyclones and Mind storms for roughly 56,000 XP per hour.
+* Level 5+: Switch to Water pools (~64,500 XP/hr).
+* Level 9+: Move to Rock fragments (~68,500 XP/hr).
+* Level 14+: Siphon Fireballs (~76,000 XP/hr).
+* Level 17-32: Use Vines, which peak around 83,000 XP per hour at optimal efficiency
+* Also note, shiny crystal is in low-level runespan when you go in there grab it [Benedict's Around the World]]
 
 # Bank 18
 - Withdraw: 2 bronze bars, 10 steel bars
@@ -439,13 +439,13 @@
 # Bank 19
 - Withdraw: Necro gear, equip it
 - Train your Necromancy and Defense to level 24 inside the City of Um troll cave (Underworld Easy Task)
-- [Note: Equip Deathstorm Drape when it drops]
-- [We want 24 necromancy 20 defense minimum, deposit big bones for rituals later. ]
-- [They are safespottable, use the rocks. ][link to image of safespot]
-- [At Lvl 13 Necro, add touch of death to revolution bar, set finger of death for manual use. Perform Touch of death for two kills then Manually use Finger of Death. If it doesn't work just keep trying. (Underworld Easy Task)]
-- [You can also bury regular bones to reach 11-13 prayer, optional.]
-- [I would keep all drops, seeds, grimy herbs and uncooked meat]
-- [Once you hit 20 defense you can search"combat XP" in settings and turn off defence in necromancy XP. To speed up necro to lvl 24. Switch back after though. ]
+* Equip Deathstorm Drape when it drops
+* We want 24 necromancy 20 defense minimum, deposit big bones for rituals later. 
+* They are safespottable, use the rocks. ][link to image of safespot
+* At Lvl 13 Necro, add touch of death to revolution bar, set finger of death for manual use. Perform Touch of death for two kills then Manually use Finger of Death. If it doesn't work just keep trying. (Underworld Easy Task)
+* You can also bury regular bones to reach 11-13 prayer, optional.
+* I would keep all drops, seeds, grimy herbs and uncooked meat
+* Once you hit 20 defense you can search"combat XP" in settings and turn off defence in necromancy XP. To speed up necro to lvl 24. Switch back after though. 
 - Go to bank, deposit All
 
 # Bank 20
