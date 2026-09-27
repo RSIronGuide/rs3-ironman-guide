@@ -1535,3 +1535,4 @@
 - Complete [[Lair of Tarn Razorlor]]
 * Protect from Melee while running through the maze as needed
 * Search for spikes in the walls, adjust camera angle, you can get stacked really quickly in certain areas HCIM, eat up
+* Image of spikes along the wall here - https://imgur.com/a/N6MK9nV
