@@ -196,9 +196,9 @@
 - At Level 7 make Pie Dish, at Level 8 Make Bowls, go until 15 crafting.
 - Bank items after first round, fill bowls with water, on the way, sell one clay ring to Morgan. (Lumbridge Easy Task) Keep one empty pot on you
 - Teleport to Draynor Lodestone, inventory of clay again, until 15 crafting. Lvl 10 Mining should be obtained.
-- Note: Go to Maggie's cauldron with a bowl, drink it to get 5 smithing (should only need to drink it twice hopefully)
-- [Note Do these while collecting clay:]
-- [We need 7 clay, and 10 soft clay for quest. Make sure that is in the bank]
+* Go to Maggie's cauldron with a bowl, drink it to get 5 smithing (should only need to drink it twice hopefully)
+* Do these while collecting clay:
+- We need 7 clay, and 10 soft clay for quest. Make sure that is in the bank
 - Go to the wheat field grab one wheat
 - Go into the mill and make a pot of flour, use wheat on hopper on the top floor, pull level, go downstairs and use pot on flour bin. (Lumbridge Beginner Task)
 
