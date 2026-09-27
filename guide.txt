@@ -1534,3 +1534,4 @@
 - Withdraw: Air runes (use air blast), three prayer potions, the rest good food (there is a bank in the maze if needed)
 - Complete [[Liar of Tarn Razorlor]]
 * Protect from Melee while running through the maze as needed
+* Look for spikes in the walls, adjust camera angle, you can get stacked really quickly in certain areas HCIM, eat up
