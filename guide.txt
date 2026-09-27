@@ -256,7 +256,7 @@
 - Complete Duck Quest, Quest Completed, rub Herblore XP Lamp
 - Run North,grab Doogle leaves, Speak to Gertrude, Accept Quest, Gertrude's Cat
 
-# Bank 12
+# Bank 12 25 Quest Points
 - Deposit all
 - Withdraw: soft clay, bones, look for stray dog if its around. If not we will be back later
 - Run west to Barbarian Village, when you cross the bridge, Speak to Dororan, (💬 Any•1•Any•2•1), Accept Quest, Gunnar's Ground [Love poem should go into inventory]
