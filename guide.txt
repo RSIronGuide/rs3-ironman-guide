@@ -1541,7 +1541,7 @@
 - Keep everything equipped
 * If you haven't made presets start using them for your loadouts
 - Withdraw: air runes, excalibur, food (we need 5 free inventory slots)
-- Teleport to Port Sarim, Talk to Gudrik, east of Gerrant's Fishy Business in Port Sarim. (Chat 1•✓) Accept Quest [[A Shadow over Ashdale]
+- Teleport to Port Sarim, Talk to [[Gudrik]], east of Gerrant's Fishy Business in Port Sarim. (Chat 1•✓) Accept Quest [[A Shadow over Ashdale]
 * Members can fight Agoroth twice a week from the dead man's chest in the Ashdale Caves. It resets on Wednesdays.
 * Dying to Agoroth is a safe death for HCIM
 - Unequip all, deposit all, send follower home
