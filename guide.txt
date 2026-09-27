@@ -1547,7 +1547,7 @@
 * Quest is a safe death and Agoroth is a safe death for HCIM
 * You need 7 free inventory slots at the end of the quest to complete
 - [[A Shadow over Ashdale]] completed, use black pearls on herblore, read journals then drop
-- Kill [[Agoroth]] two times, on the way to fight unlock Ashdale Lodestone, go directly west down the cliff side to get to the fight. Agoroth Location - https://imgur.com/a/hknbPX0
+- Kill [[Agoroth]] two times, on the way to fight unlock Ashdale Lodestone, go directly west down the cliff side to get to the fight, Search Dead man's chest to start fight. Agoroth Location - https://imgur.com/a/hknbPX0
 * Games necklace Agoroth teleport, for getting back each week.
 - Unequip all, deposit all, send follower home
 - Withdraw: Ammo mould, Nulodion's notes, woad leaves, 1 law rune, 1 fire rune, three air runes
