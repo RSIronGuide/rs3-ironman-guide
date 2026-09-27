@@ -17,7 +17,7 @@
 - North, play the organ [Lumbridge Beginner Task]
 - Climb to the top floor and ring the bell. [Lumbridge Beginner Task]
 - Go back down, Head South to Graveyard and speak to Xenia, (💬 1•1) to Accept Quest, The Blood Pact
-- Complete The Blood Pact open lamps, equip staff train magic, we don't need to add abilites to our revolution bar for a long time. it's all auto, you can practice working abilites as you get them if you would like. 
+- Complete The Blood Pact open lamps, equip staff train magic, we don't need to add abilities to our revolution bar for a long time. It's all auto, you can practice working abilities as you get them if you would like.
 - Chop down the swamp tree south of you [Lumbridge Easy Task]
 - Kill a giant rat in the Swamp, Pick up ALL items [Lumbridge Easy Task]
 - Light a campfire using standard logs [Lumbridge Easy Task]
@@ -1367,7 +1367,7 @@
 - After Shadow of the Storm is completed, drop Demonic tome, Demonic sigil, Demonic sigil mould, and the Strange implement
 - Teleport to Seers' Village Lodestone
 - Go to Forester's Arms, trade with bartender, buy 10 stews minimum
-- Go to Bank, Deposit all
+- Go to bank, Deposit all
 
 # Bank 83
 - Withdraw: 10 stews, cat (teleport to house and get cat if in Pet House)
@@ -1439,7 +1439,7 @@
 - Equip: Full Mystics, wand and orb, grimoire, jewellery
 - Withdraw: air runes, two steel bars(if anvil is empty), steel dagger, steel mace, 2x steel sword, steel longsword, 6 regular planks, 75 steel nails, 1 silver sickle (b), 1 druid pouch
 - Teleport to a furnace, make a steel warhammer, make four silver tiaras, deposit silver tiaras (future area tasks)
-- withdraw a few more steel bars from anvil, deposit silver tiaras and steel bars into bank [In Aid of the Myreque/Area Task]
+- Withdraw a few more steel bars from anvil, deposit silver tiaras and steel bars into bank [In Aid of the Myreque/Area Task]
 - Complete In Search of the Myreque [Morytania Medium Task]
 - While running thru the Mort Myre swamp collect 6 fungus, do not add them to your druid pouch yet.
 - Before talking to Cyreg Paddlehorn fill your druid pouch
@@ -1477,61 +1477,61 @@
 - You should receive an empty folder in inventory
 - Complete What Lies Below
 * You do NOT need a chaos talisman to complete this quest, use the Abyss to enter chaos altar
-* After quest is complete drop the beacon ring, Zaff's instructions, and Sin'keth's diary 
+* After quest is complete drop the beacon ring, Zaff's instructions, and Sin'keth's diary
 - Teleport to Edgeville and bank
 
 # Bank 91
 - Keep everything equipped
 - Withdraw: air runes and water runes, wicked hood, wilderness sword 1, full inventory of trout
-- Go to the abyss, kill abyssal creatures until we get a chaos talisman. Dump 1 talisman into your wicked hood as you get them. 
-- we need one extra earth taliman for task, keep all stackable charms,and keep as many abyssal charms as you can
-- You can safespot abyssal creatures at the southeast corner there a good spot, quick teleport out with House teleport, then use wilderness sword 1 to get back to edgeville, bank, repeat
-- after done go to bank
+- Go to the abyss, kill abyssal creatures until we get a chaos talisman. Dump 1 talisman into your wicked hood as you get them.
+- We need one extra earth talisman for task, keep all stackable charms, and keep as many abyssal charms as you can, grab binding necklace if it drops
+- You can safespot abyssal creatures at the southeast corner, there's a good spot, quick teleport out with House teleport, then use wilderness sword 1 to get back to Edgeville, bank, repeat
+- After done go to bank
 
-# Bank 92 
-- Withdraw: air and earth runes (use earth blast), chaos talisman, 3 prayer potions, anti dragon shield and full inventory of food
-- if no prayer pots, do an herb run, collect rannars and plant more rannars. Teleport to Rimmington go Northwest to snape grass spawn and grab as many as you can bear. 20 would be nice. 
-- make some prayer potions
-- Complete [The Hunt for Surok], we still don't need to put anything in our revolution bar, it's all auto. But test it out if you'd like.
-* protect from melee when running through the cave, you will take a lot of damage. I didn't protect from melee but I still had 10 food remaining after the fight. Some parts of the care you will take more damage than others. 
-* Before boss fight activate excalibur
-* During the boss fight protect from melee and use overcharge and mystic might prayers
-* You can drop the femur bone, we've completed [Rag and Bone]/[Fur n' Seek], the item has no use
-- House teleport 
+# Bank 92
+- Withdraw: air and earth runes (use earth blast), chaos talisman, 3 prayer potions, anti-dragon shield and full inventory of food
+- If no prayer pots, do an herb run, collect ranarrs and plant more ranarrs. Teleport to Rimmington, go Northwest to snape grass spawn and grab as many as you can bear. 20 would be nice.
+- Make some prayer potions
+- Complete The Hunt for Surok, we still don't need to put anything in our revolution bar, it's all auto. But test it out if you'd like.
+* Protect from Melee when running through the cave, you will take a lot of damage. I didn't Protect from Melee but I still had 10 food remaining after the fight. Some parts of the cave you will take more damage than others.
+* Before boss fight, activate Excalibur
+* During the boss fight protect from Melee and use Overcharge and Mystic Might prayers
+* You can drop the Femur bone, we've completed [Rag and Bone]/[Fur 'n Seek], the item has no use
+- House teleport
 * WARNING do not stay in the cave, you will start to take damage, HCIM
 
 # Bank 93
 - Deposit inventory, teleport to Varrock Lodestone, mine 11 mithril ore
 - We need at least 1 mithril bar for the upcoming quest, but if you can make 10 we need that many for quest eventually. Deposit them into bank
 - Withdraw: fruit tree, supercompost [I would start storing supercompost in the Tool leprechaun]
-- Teleport to Catherby, trade with harry buy a Big fishing net
+- Teleport to Catherby, trade with Harry, buy a Big fishing net
 - Plant the fruit tree, drop the bucket and pot plant
 - USE the big fishing net on a "Net fishing spot" to catch raw mackerel [Seers' Easy Task] we need 10 raw mackerel total [[In Aid of the Myreque]]
-- I would grab at leaset two of the following in case it gets burnt:
+- I would grab at least two of the following in case it gets burnt:
 - We need one cooked tuna, one cooked bass, one cooked swordfish, cooked shrimp/salmon we should have in bank [[Family Crest]]
-- We need 1 raw tuna, you will harpoon for this [[The Fremmennik Isles]]
-- We need 1 raw cod [[RFD: Freeing Pirate Pete]]
+- We need 1 raw tuna, you will harpoon for this [[The Fremennik Isles]]
+- We need 1 raw cod [[Recipe for Disaster: Freeing Pirate Pete|RFD: Freeing Pirate Pete]]
 * I would catch a few of each in case we burn one
-- Teleport to Edgeville and cook two bass [Seers' Medium Task] (if you aren't 43 cooking yet come back to this step after you fly fish to 53 and cook all the trout and salmon you get]
+- Teleport to Edgeville and cook two bass [Seers' Medium Task] (if you aren't 43 cooking yet come back to this step after you fly fish to 53 and cook all the trout and salmon you get)
 - Cook one tuna
-- Go to Bank
+- Go to bank
 
 # Bank 94
-- Equip: full Rune Armour, salve amulet, grimoire, explorers ring, silver sickle (b), adamant off hand sword
-- Refer to [In Aid of the Myreque] for item requirements. you should have everything but just make sure, so you dont have to run back. 10 fat snails we can kill during the quest if we get that item
+- Equip: full rune armour, salve amulet, grimoire, Explorer's ring, silver sickle (b), adamant off hand sword
+- Refer to [In Aid of the Myreque] for item requirements. You should have everything but just make sure, so you don't have to run back. 10 fat snails we can kill during the quest if we get that item
 - Withdraw: 50 nails (any type), 5x buckets, 6x planks, one log, one thin snail, fill the rest of your inventory with trout or a cheap food source
 - Teleport to Canifis, use Statue of Juna if you need prayer points
 - In the hideout behind the Canifis pub, go through the secret wall and squeeze past the stalagmite on the east side of the cave
-- Talk to Veliaf Hurtz. (Chat 1•3•✓•1) Accept Quest
+- Talk to Veliaf Hurtz. (💬 1•3•✓•1), Accept Quest, In Aid of the Myreque
 - Complete [[In Aid of the Myreque]]
 - When you exit the double doors light a fire and cook the snail [Morytania Easy Task]
-* Once you enter Burgh De Rott drop the leftover trout
-- After In Aid of the Myreque is completed, Talk to Veliaf Hurtz again in the Burgh de Rott pub basement. (Chat 4•✓•1•2•3•4•5) Accept [[Darkness of Hallowvale]]
-- Go back up the ladder and go to bank in Burgh De Rott
+* Once you enter Burgh de Rott drop the leftover trout
+- After In Aid of the Myreque is completed, Talk to Veliaf Hurtz again in the Burgh de Rott pub basement. (💬 4•✓•1•2•3•4•5), Accept Quest, [[Darkness of Hallowvale]]
+- Go back up the ladder and go to bank in Burgh de Rott
 
 # Bank 95
-- Equip: Full mystics, Wand and Orb, salve amulet, explorers ring, grimiore
-- Withdraw: Air runes (use air blast), three prayer potions, the rest good food (there is a bank in the maze if needed)
-- Complete [[Liar of Tarn Razorlor]]
+- Equip: Full Mystics, wand and orb, salve amulet, Explorer's ring, grimoire
+- Withdraw: air runes (use air blast), three prayer potions, the rest good food (there is a bank in the maze if needed)
+- Complete [[Lair of Tarn Razorlor]]
 * Protect from Melee while running through the maze as needed
 * Search for spikes in the walls, adjust camera angle, you can get stacked really quickly in certain areas HCIM, eat up
