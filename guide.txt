@@ -413,7 +413,7 @@
 * Complete one Runesphere every day. I can't stress this enough. After two Runespheres im 44RC, its OP. When a runesphere shows up Talk to a wizard within Runespan and ask for the location, it will tell you above, middle, or on the low level. We can only do the lower level. Middle lvl access 33 Runecrafting, you'll need a higher RC just to reach the runesphere sometimes. Just train
 * The Achievement Help Discord server has a role for it. If you sign up for that role in the #role- sign-up channel, you'll get a notification when someone calls out a runesphere in the #call-outs channel.
 * Then have a ton of such roles, which can be super handy if you want to be notified about various randomly occurring events, spawns, group activities, etc.
-* https://discord.gg/ahelp
+* Link to the Discord: https://discord.gg/ahelp
 * Runespheres spawn at a high-tier layer (up to level 92 for the Soul layer) and automatically sheds its layers roughly every 2 to 3.5 minutes. As it breaks down, it moves backward through the Runecrafting tiers until it reaches the final Air layer (level 1) before finally exposing its core. (I wasn't aware of this)
 * Early Level Node Strategy Runespan (Levels 1-33)
 * Level 1-9: Target Cyclones and Mind storms for roughly 56,000 XP per hour.
