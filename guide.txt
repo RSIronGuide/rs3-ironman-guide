@@ -1577,7 +1577,7 @@
 - Withdraw: air runes, earth runes, 12 food, 
 - Complete an Easy [[Temple Trekking]] [Morytania Easy Task]
 - Click blue reward token select sharks, claim raw sharks [The Fremennik Trails]
-- Go to bank, deposit all, withdraw raw shark, 5 flax
+- Go to bank, deposit all, withdraw air runes, earth runes, raw shark, 5 flax
 - If you dont have any sapphire rings/recoils in the bank, check birdnest, if nothing make at least two now[The Fremmenik Trails]
 - House teleport, exit house portal to Relleka
 - Talk to Brundt the Chieftain in the longhall in Rellekka. (Chat 3•✓•1) Accept Quest [[The Fremmenik Trails]]
