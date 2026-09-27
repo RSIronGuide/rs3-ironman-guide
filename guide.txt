@@ -1540,6 +1540,6 @@
 # Bank 96
 - Unequip all, deposit all, send follower home
 - Withdraw: Ammo mould, Nulodion's notes, woad leaves, 1 law rune, 1 fire rune, three air runes
-- Teleport to Ardougne Lodestone, check beehives and refill, deposit [medicinal honeycombs] (use these to heal animals in farms) and woad leaves in deposit box at POF, complete [Dwarf Cannon] Quest
+- Teleport to Ardougne Lodestone, check beehives and refill, deposit [[medicinal honeycombs]] (use these to heal animals in farms) and woad leaves in deposit box at POF, complete [Dwarf Cannon] Quest
 * Buy more woad leaves as you need them, 189 woad leaves needed to fill all 7 beehives
 - Teleport to Varrock. Talk to Aris. (Chat 1•✓•1•1•~•~•~•~) Accept Quest [Dimension of Disaster: Coin of the Realm]
