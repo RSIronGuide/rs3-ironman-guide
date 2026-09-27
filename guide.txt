@@ -685,7 +685,7 @@
 - Buy, 8-10 waters skins, one water skin (0), 2 sets of desert robes, 10 ropes, 10 buckets of water, 2k feathers(1 box)
 - Withdraw: Desert Robe set, 10 feathers, bronze bar, heavy weight, all waterskins
 - Continue Diamond In The Rough,
-- [Note: After you solve the first sun dial, speak with Irena, Start The Tourist Trap]
+* After you solve the first sun dial, speak with Irena, Start The Tourist Trap
 - Complete Diamond In The Rough, combat XP lamp into prayer
 - When you get back to the Palace speak to Emir Ali Mirza, to Accept Quest The Jack of Spades
 - Complete The Jack of Spades
@@ -693,7 +693,7 @@
 - Teleport to Taverley Lodestone, enter House Portal, right-click house portal and select "exit to another portal go to Pollnivneach
 - Continue Tourist Trap, After you kill the Captain Mercenary cut a Kharidian cactus until you get the task, just keep trying while you continue quest if you keep failing(Desert Easy Task)
 - When you equip Desert Robes [Desert Easy Task]
-- [OPTIONAL: When deep in cave and you need to go to Bandit Camp, Teleport to Taverley go to house portal and use Pollnivneach, it's faster]
+* OPTIONAL: When deep in cave and you need to go to Bandit Camp, Teleport to Taverley go to house portal and use Pollnivneach, it's faster
 - Complete Tourist Trap, put both lamps into agility, at lvl 30 agility [Add dive ability to revolution bar]
 
 # Bank 33
@@ -712,18 +712,18 @@
 - After speaking to Duke Horacio, speak to him again, (💬 1•1•1•2) [Dragon Slayer]
 - Go up to the top floor of Lumbridge castle, pick up Shiny pipe on the northside [Benedict's World Tour]use XP lamp on whatever you want summoning seems good.
 - Continue Lost Tribe and Complete Goblin Diplomacy when you go to Goblin Village
-- [Note: when at goblin village kill a goblin for Goblin skull and kill a bear for the Bear ribs [Rag and Bone quest]
-- [Note: when you go to the H.A.M Member Hideout, pickpocket HAM Members for Unpolished buttons] [Animal Magnetism]
-  - [Note: when you pick up brooch go south and mine the tunnel, in case you mess up you can walk thru this. Otherwise you will have to lodestone to lumbridge. ]
+* When at goblin village kill a goblin for Goblin skull and kill a bear for the Bear ribs [Rag and Bone quest]
+* When you go to the H.A.M Member Hideout, pickpocket HAM Members for Unpolished buttons] [Animal Magnetism]
+* When you pick up brooch go south and mine the tunnel, in case you mess up you can walk thru this. Otherwise you will have to lodestone to lumbridge. ]
 - Lost Tribe Quest Completed, ring of life new BIS for HCIM
 - Talk to the Cook, Accept Quest Recipe for Disaster: Another Cook's Quest
 
 # Bank 35
 - Deposit all, withdraw: torch, 20 essence (either kind), some food
-- [Note: just mine some when you go to southeast varrock]
+* Just mine some when you go to southeast varrock]
 - Teleport to Falador, complete Wanted! (Sollus is a joke if you've followed the guide) [Note: when you go to black knights forest, kill jailer for key then speak to Velrak the explorer to obtain dusty key] [keep jail key and dusty key Mourning's End Pt 2]
-- [Note: This quest could be annoying, it's random. depending on where it sends you. Utilize your house portals. Unlock lodestones wherever you end up going. For instance, went to McGrubor's Wood. So I went to Catherby Lodestone, and Seers' Village Lodestone on the way. Try to be as efficient as possible, we want 5k slayer XP early. If you go to Rellekka grab limestone brick. You will have to start The Giant Dwarf quest to get in.]
-- [Note: If you wear ring of life for the wanted! Quest it WILL be consumed. Unequip if you're a HCIM.]
+* This quest could be annoying, it's random. depending on where it sends you. Utilize your house portals. Unlock lodestones wherever you end up going. For instance, went to McGrubor's Wood. So I went to Catherby Lodestone, and Seers' Village Lodestone on the way. Try to be as efficient as possible, we want 5k slayer XP early. If you go to Rellekka grab limestone brick. You will have to start The Giant Dwarf quest to get in.]
+* If you wear ring of life for the wanted! Quest it WILL be consumed. Unequip if you're a HCIM.]
 - If still not completed: Complete New Foundations Quest, grab invitations box to get there the fastest, if still no Fort Lodestone.
 - Buy limestone bricks, if needed and available
 - If still not complete: Build the Fort Forinthry Lodestone by interacting with the building table (Fort Forinthry blueprints) and selecting "Miscellaneous" from the drop-down menu.
@@ -732,13 +732,13 @@
 - Do any possible AFK skilling within the Fort and check back on your rested experience every day or two.
 - Nemi Forest if you can
 - Daily solves on this [[Reddit Page]]
-- [Reminder, shiny crystal is in low-level runespan when you go in there grab it [Benedict's Around the World]]
+* Reminder, shiny crystal is in low-level runespan when you go in there grab it [Benedict's Around the World]
 
 # Bank 36
 - Withdraw: runes, ectoplasm, expensive spice necklace, almost full inventory of good food (need at least three open inventory slots for this quest)
 - Teleport to Taverley
 - Complete Witch's House(this will be the hardest fight yet, summon conjure, I didn't and I still got thru it),Grab cheese on house during quest, when you go down stairs and come back up the cheese will respawn grab another. (you can search the crate beside staircase for gloves)
-- [Note: When leaving the witches house, grab another House key from under the potted plant [Mourning's End Pt 2]
+* When leaving the witches house, grab another House key from under the potted plant [Mourning's End Pt 2]
 - After Completing Witch's House
 - Teleport to Taverley Lodestone, enter house portal, go to Yanille House Portal
 - Activate Yanille Lodestone
@@ -818,7 +818,7 @@
 - Pick pocket any stall [Ardougne Easy Task]
 - Talk to Wizard Cromperty (💬 2•2•1) [Tribal Totem]
 - Continue Tribal Totem
-- (WARNING: RIGHT CLICK INVESTIGATE STAIRS AFTER OPENING DOOR WITH CODE KURT)
+* WARNING: RIGHT CLICK INVESTIGATE STAIRS AFTER OPENING DOOR WITH CODE KURT
 - Complete Tribal Totem
 - Keep 1 Swordfish [Family Crest Quest]
 
@@ -855,7 +855,7 @@
 - Withdraw: Hazelmere's scroll, translation book, full necro gear, ectoplasm [There is an safespot along the south wall, behind some rocks where Glough is standing]
 - Teleport to Gnome Stronghold via Spirit Tree [Varrock Medium Task]
 - Continue Grand Tree
-- [Note: After you speak with Charlie the first time, on the top floor, go down the ladder] once, go south, pick up Shiny flask of tea [Benedict's World Tour]]
+* After you speak with Charlie the first time, on the top floor, go down the ladder] once, go south, pick up Shiny flask of tea [Benedict's World Tour]]
 - When you go talk to Anita, take 2 Swamp toads [Tai Bwo Wannai Trio]
 - Complete Grand Tree Put combat lamp into Range [use Edgeville Lodestone, to GE Spirit Tree]
 - Teleport to Burthorpe
@@ -865,15 +865,15 @@
 - Equip Necro gear, ectoplasm, Grimoire 1, food
 - Teleport to Lumbridge go to Catacombs Kill Warped Bats until Holy Symbol drops. 1/25
 - Now is a good time to get earth talisman, water talisman, and fire talisman to complete area task. Start off killing earth wizards, water wizards, and fire wizards @ Port Sarim. Hop worlds after killing all three. Teleport to Lumbridge kill Giant Spiders here and get an earth talisman if that is the last drop you need. 5 spawn
-  * Nemi Forest if you can
-  * Click "community", click "Liberation of Mazcab", "view selected", "join Queue", then click "ready", and teleport. Run directly west, Nemi Forest entrance is just over the way. There are posts with rope around them at the entrance. You just keep walking into it and it loads in. No enter option.
-  * Daily solves on this Reddit Page
+* Nemi Forest if you can
+* Click "community", click "Liberation of Mazcab", "view selected", "join Queue", then click "ready", and teleport. Run directly west, Nemi Forest entrance is just over the way. There are posts with rope around them at the entrance. You just keep walking into it and it loads in. No enter option.
+* Daily solves on this Reddit Page
 
 # Bank 47
 - Withdraw: one mithril hatchet(not on toolbelt),five iron bars, one unholy symbol, one hard leather, four bones, one ghostspeak amulet, polished button, one supercompost/compost, best herb seed you have.
 - Complete Animal Magnetism
-- [Note: grab full inventory of buckets of slime, you only need 5 inventory slots for Animal Mag]
-- [Note: plant the herb seed on the way to Ectofuntus]
+* Grab full inventory of buckets of slime, you only need 5 inventory slots for Animal Mag]
+* Plant the herb seed on the way to Ectofuntus]
 - Trade Ava, buy 1k iron arrowheads and 1k steel arrowheads buy 5 feather packs.
 
 # Bank 48
@@ -914,7 +914,7 @@
 - Quest Completed Murder on the Border. Destroy potions, destroy prismatic lamp for Herblore @ Lvl 30 we will reclaim
 - Complete Unwelcome Guests
 * Note when you must kill 10 zombies in wilderness. Aggro one zombie at a time and safe spot. All the zombies can be safe spotted. You should take zero damage here. Use Tree stumps/stones to safe spot. When you repair the walls just eat up and fix everything, do not kill any zombies.
-- [https://imgur.com/a/4Tuu41t]Safe spots
+* [https://imgur.com/a/4Tuu41t]Safe spots
 - Build the following while at Fort Forinthry or do this AFK:
 - Eastern border Wall
 - Grove Cabin (Tier 1)
@@ -948,7 +948,7 @@
 - Pick 5 flax [Seers' Village Easy Task] [Mourning's End Pt 2]
 - Unlock Seers' Village Lodestone if you haven't already
 - Complete Merlin's Crystal
-  * When you kill bat, pick up Bat bones AND Giant bat wing [Rag and Bone]
+* When you kill bat, pick up Bat bones AND Giant bat wing [Rag and Bone]
 - Merlin's Crystal Completed
 - Talk to King Arthur again, (💬 1), Accept Quest Holy Grail
 - Continue until you speak with Merlin upstairs
@@ -956,12 +956,12 @@
 - Withdraw: 5 pots, Bar Crawl card, bucket of milk, three jute seeds, supercompost
 - Complete Murder Mystery
 * During/after quest:
-  - 1.Walk clockwise around Big Mysterious Statue [Seers' Village Easy Task]
-  - 2.Fill five pots with flour from the Sinclair Mansion [Seers' Village Easy Task]
-  - 3.Use the churn in the Sinclair Mansion garden [Seers' Village Easy Task]
-  - 4.When you go to the bar:
-  - Talk to bartender, complete Bar Crawl [Bar Crawl: Miniquest]
-  - Plant jute seeds in the hop patch north of the bar [Seers' Village Easy Task]
+- 1.Walk clockwise around Big Mysterious Statue [Seers' Village Easy Task]
+- 2.Fill five pots with flour from the Sinclair Mansion [Seers' Village Easy Task]
+- 3.Use the churn in the Sinclair Mansion garden [Seers' Village Easy Task]
+- 4.When you go to the bar:
+- Talk to bartender, complete Bar Crawl [Bar Crawl: Miniquest]
+- Plant jute seeds in the hop patch north of the bar [Seers' Village Easy Task]
 
 # Bank 56
 - If you haven't done a birdhouse run yet, start doing them.
@@ -1100,7 +1100,7 @@
 - Grab the Shiny money pouch while atop the Sorcerer's Tower [Benedict's World Tour]
 - Teleport to the Seers' Village lodestone, run east, and speak to a Seer (south-west of the bank). (💬 2•2)
 - Go to Taverley dungeon, kill two baby dragons, collect bones, (Fairy Tale I/Mourning's End Pt 2) kill two blue dragon, take hide and dragon bones (Watchtower/Fairy Tale I) pick up some blue dragon scales as well.
-- [Note: Optional, Take as many dragon bones as you can hold. You can take buckets of slime with dragon bones to Ectofuntus during Ghosts Ahoy, for tokens if you don't want to charter]
+* Optional, Take as many dragon bones as you can hold. You can take buckets of slime with dragon bones to Ectofuntus during Ghosts Ahoy, for tokens if you don't want to charter]
 - Complete Scorpion Catcher
 - Complete Watchtower, grind bat bones, if you don't have a guam, go to Taverley and take the free one at Jatix's shop.
 - Grab jangerberries spawn on small island when you speak with Grew during quest
@@ -1189,15 +1189,15 @@
 - If you get nature talisman – kill abyssal creatures in the abyss
 - Warning! Ghasts in Mort Myre swamp may rot any food you carry. If one of your required items is edible seaweed, jangerberries, king worms or lime, there is a chance that you may lose it; pack druid pouches or multiple food items to be safe.
 - Complete [[Fairy Tale I]]
-- [Note: We should be lvl 30 farming, plant a willow tree when you can. Check them to allow willow branches to grow, harvest 6, let them respawn harvest 6 more, 12 total] [Enlightened Journey]
-- [Note: Thieving Farmer, Farmer Rachel, Farmer Sharon, Farmer (Marigold Farm)will give willow seeds
+* We should be lvl 30 farming, plant a willow tree when you can. Check them to allow willow branches to grow, harvest 6, let them respawn harvest 6 more, 12 total] [Enlightened Journey]
+* Thieving Farmer, Farmer Rachel, Farmer Sharon, Farmer (Marigold Farm)will give willow seeds
 - Add magic secateurs to tool belt
 - Teleport to Burthorpe Lodestone
 - Trade with Tureal, buy 2 enchanted gems, fishing explosive, 2x facemask and earmuffs
 
-# Bank 74
+# Bank 74 Necromancy Gear Progression OPTIONAL
 - Deposit all
-- You can continue my guide or stop and train Necro
+- You can continue my guide or stop and train Necro. I will continue to train Magic as my main combat style early questing. Eventually I will do this. 
 - Here you can follow the RS3 Wiki Efficient Ironman Path Guide. For training early game Necromancy:
 - Mine 42 iron ore, 14 coal ore, 14 copper ore, and 14 tin ore. Smelt 14 bronze bars, iron bars, and steel bars for (Death Skull equipment upgrades).
 - Perform 25 Lesser communion rituals with big bones for 50 souls.
@@ -1245,7 +1245,7 @@
 - Equip: Full batwing armour
 - Withdraw: teleport runes, 1 thread, 12 coal, Archaeology journal, steel ore box
 - Complete Elemental Workshop I [Earth Elementals are weak to water spells]
-- [soft leather is obtainable during quest, To obtain leather, search the singular crate north-west of the hatch in the middle room.] Location here - https://imgur.com/a/oZZDYtX
+* soft leather is obtainable during quest, To obtain leather, search the singular crate north-west of the hatch in the middle room.] Location here - https://imgur.com/a/oZZDYtX
 - Make Iron Spit on Anvil upstairs before entering the workshop [Recipe for Disaster]
 - Make 2 extra Elemental bars (3 Total) [Elemental Workshop II]
 - Keep Slashed book [Mourning's End Pt 2]
@@ -1268,7 +1268,7 @@
 
 # Bank 78
 - Withdraw: teleport runes, blue dye, charcoal, gnome spice, fishing bait, bucket, bread, orange slices, and cheese
-- [Note: if you don't have an orange slices or cheese, teleport to Wendlewick and buy it from The Village Grocery]
+* If you don't have an orange slices or cheese, teleport to Wendlewick and buy it from The Village Grocery
 - Teleport to Falador
 - Fill the bucket on the water pump to the West [Falador Easy Task]
 - Go into the hairdresser and use the cheese on the treadmill. A chinchompa pet is turning it. [Falador Easy Task]
