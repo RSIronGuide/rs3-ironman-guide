@@ -1539,6 +1539,16 @@
 * Image of spikes along the wall here - https://imgur.com/a/N6MK9nV
 
 # Bank 96
+- Keep armour and weapons on
+- Withdraw: air runes, earth runes (use earth blast), excalibur, food, (we need 5 free inventory slots)
+- Teleport to Port Sarim, Talk to Gudrik, east of Gerrant's Fishy Business in Port Sarim. (Chat 1•✓) Accept Quest [[A Shadow over Ashdale]]
+- [[Shadow Hanging Over Me]] – Claim all treasure from the chests during 'A Shadow over Ashdale', or talk to Gudrik to claim them afterwards
+* Members can fight Agoroth twice a week from the dead man's chest in the Ashdale Caves. It resets on Wednesdays.
+* Quest is a safe death and Agoroth is a safe death for HCIM
+* You need 7 free inventory slots at the end of the quest to complete
+- [[A Shadow over Ashdale]] completed, use black pearls on herblore, read journals then drop
+- Kill [[Agoroth]] two times, on the way to fight unlock Ashdale Lodestone, go directly west down the cliff side to get to the fight. Agoroth Location - https://imgur.com/a/hknbPX0
+* Games necklace Agoroth teleport, for getting back each week.
 - Unequip all, deposit all, send follower home
 - Withdraw: Ammo mould, Nulodion's notes, woad leaves, 1 law rune, 1 fire rune, three air runes
 - Teleport to Ardougne Lodestone, check beehives and refill, deposit [[medicinal honeycombs]] (use these to heal animals in farms) and woad leaves in deposit box at POF, complete [Dwarf Cannon] Quest
