@@ -485,7 +485,7 @@
 - Make regular ghostly with all your ashes
 - Withdraw ALL ritual supplies, two lesser ensouled bars, 5 spirit runes
 - Use City of Um teleport, Not the Lodestone (Underworld Medium Task)
-- [Note: To find teleport, click powers, go to necromancy, go to Necromancy Incantations]
+* To find teleport, click powers, go to necromancy, go to Necromancy Incantations]
 - Obtain 7 Lesser Ensouled Cloth
 - Create 2 Lesser Ensouled Bars
 - Loot Ritual Output, put memento and bones in focus storage
@@ -502,8 +502,8 @@
 - After picking bananas, fish the dock fishing spot, catch one raw shrimp (Karamja Easy Task)
 - Traveling back to Port Sarim by boat (Karamja Easy Task) [Completed during quest]
 - Take White apron at Wydin's Food Store, buy 5 bread
-- [Note: keep white apron] [Mourning's End Pt 2]
-- [Note: You can unlock other Lodestones by taking the Charter ship at Port Sarim or Karamja before continuing]
+* keep white apron [Mourning's End Pt 2]
+* You can unlock other Lodestones by taking the Charter ship at Port Sarim or Karamja before continuing
 - Continue Pirate's Treasure by talking to Redbeard Frank until needing to go to Varrock
 - Go north to Sarah's Farming Shop talk to Eli, Start Bringing Home the Bacon
 - Continue until you need to go to Draynor Village
@@ -511,26 +511,26 @@
 - Go North, continue Vampyre Slayer and kill Count Draynor
 - Go back upstairs, Continue, Once Upon a Time in Gielinor until you need to go to varrock.
 - Teleport to Catherby FARM RUN (need to push for 25), use whatever herbs seeds from trolls, if you need to buy seeds go to draynor village when you can or have to. Need to do Birdhouse runs
-- [Note: when at Catherby buy pineapples, seaweed, and buckets]
-- [Note: start making supercompost asap]
+* When at Catherby buy pineapples, seaweed, and buckets
+* Start making supercompost asap
 
 # Bank 23
 - Withdraw: swap necro gear with Silverlight and iron armour, expensive spice necklace, grab a cup of tea, paper and crayons, chest key
 - Teleport to Varrock Lodestone Go into the Champions Guild, Talk to Guildmaster, Accept Quest Dragon Slayer (Varrock Medium Task)
 - Continue Shield of Arrav until having to go to the Blue Moon Inn
 - Go back up the ladder, Complete Demon Slayer (enemies you must defeat prefight drop cooked meat about 9 in total. Plenty of food for the fight, if you need more just bring extra)
-- [Note: Turn off Auto Retaliate for fight with Delrith]
+* Turn off Auto Retaliate for fight with Delrith
 - Demon Slayer, Quest Completed put lamps into magic/ranged
 - Go up the stairs Northeast, give Elsie cup of tea (Varrock Easy Task)
 - Go back down stairs and go to Varrock Museum, Continue Heartstealer, until needing to go to Edgeville
 - Continue The Knight's Sword, until you need to go to Port Sarim
 - Teleport to Varrock Lodestone
 - Complete Gertrude's Cat, Quest Completed
-- [Note: grow a cat anytime you can, buy sardines at Port Sarim]
+* Grow a cat anytime you can, buy sardines at Port Sarim
 - Teleport to Varrock Lodestone, Continue Pirate's Treasure until you need to go to Falador
 - Go back downstairs, Continue Shield of Arrav until you kill Jonny and receive Intel Report
 - Continue Once Upon a Time in Gielinor until you need to go to Hourglass in Draynor Village
-- [Note: grab another party hat before you speak to Relomia]
+* Grab another party hat before you speak to Relomia
 - Complete Shield of Arrav
 - Complete the remaining [[Supply and Demand]] now that we have high combat lvl, 7 lamps into fletching[should be lvl 10], the rest into divination
 - Teleport to Draynor Lodestone, Complete Once Upon a Time in Gielinor (Foreshadowing Miniquest) ==put lamp into divination==
@@ -548,8 +548,8 @@
 - Complete Once Upon A Slime, cook redberry pie on the range nearby.
 - Pray at the church altar on the way to Thurgo [Falador Easy Task]
 - Continue The Knights Sword until you need to go to Falador
-- [Note: Before teleporting to Falador, go south and pick up Shiny toy ship [Benedict's World Tour]]
-- Teleport to Falador, Complete Pirate's Treasure (make sure to read the message before you dig) [gold ring item for Mourning's End Pt 2]
+* Before teleporting to Falador, go south and pick up Shiny toy ship [Benedict's World Tour]
+* Teleport to Falador, Complete Pirate's Treasure (make sure to read the message before you dig) [gold ring item for Mourning's End Pt 2]
 - Complete The Knights Sword
 - [Note: MINE THREE BLURITE, one for quest, one for defender of varrock, one for medium falador task]
 - [Note: If you're taking a ton of damage, safe spot behind a rock, use the rocks to get ice warriors stuck, world hop until nothing is around]
@@ -571,28 +571,28 @@
 - Continue Imp Catcher, Talk to Happy Imp at Earth Altar, (💬 3•2•1)
 - Continue Once Upon a Time in Gielinor: Flashback, until you need to go back to Draynor Village
 - Continue New Foundations Quest (we will need to buy 250 limestone bricks from Bill to complete quest)
-- [Note: We will need 250 limestone bricks for the quest and 648 for all future upgrades, get as many as you can now]
+*  We will need 250 limestone bricks for the quest and 648 for all future upgrades, get as many as you can now
 - After you build the workshop Bank
 
 # Bank 27
 - Withdraw: Archaeology journal, crudely drawn gala plans, stack of Closure's biographies
 - Continue New Foundations Quest
-- [Note: Once you arrive in Edgeville]
+* Once you arrive in Edgeville:
 - Continue Dragon Slayer Talk to Oziach in the house directly north of the Edgeville lodestone. (💬 1•1•1•1), pause
 - Continue Heartstealer - until needing to go to Varrock museum
 - Continue New Foundations - until you need to go to Draynor
-- [Note: Enter Edgeville dungeon on your way to barbarian village] [Varrock Easy Task]
+* Enter Edgeville dungeon on your way to barbarian village [Varrock Easy Task]
 - Teleport to Draynor Village Lodestone
 - Complete Once Upon a Time in Gielinor: Flashback [use lamp on slayer]
 - Talk to Closure again, Accept Quest, Once Upon a Time in Gielinor: Fortunes
 - Continue Quest until you need to go to Jolly Boar Inn
 - Teleport to Draynor Village Lodestone
-- [Note: While in Draynor have Aggie make yellow dye, red dye, blue dye with 2 woad leaf, 3 redberries, 2 onions]
+* While in Draynor have Aggie make yellow dye, red dye, blue dye with 2 woad leaf, 3 redberries, 2 onions
 - Complete Vampyre Slayer put into Magic should get lvl22
 - Continue Bringing Home the Bacon until you need to go back to Eli with the Piglet
 - Continue New Foundations Until needing to go back to Fort Forinthry
 - Pick 5 wheat from the field and 5 onions outside Draynor Bank, they are needed to continue Bringing Home the Bacon
-- [Note: It wouldn't be a bad time to grab some seeds and compost and do a farm run on the way to Eli. Also buy seeds and bank if you need some. We will need cheap seeds for birdhouse runs, which you can start doing anytime in Wendlewick]
+* It wouldn't be a bad time to grab some seeds and compost and do a farm run on the way to Eli. Also buy seeds and bank if you need some. We will need cheap seeds for birdhouse runs, which you can start doing anytime in Wendlewick
 - Continue Bringing Home the Bacon
 - Teleport to Varrock Lodestone
 - Continue Dragon Slayer go to Champions Guild, pause quest when we need to go to Lumbridge
@@ -602,10 +602,10 @@
 - Teleport to Archaeology Campus
 - Continue Once Upon a Time in Gielinor: Fortunes, until you need to go back to Varrock
 - Continue New Foundations - we will run out of stone segments. Go to Keldagrim. Or keep questing and come back later. [Varrock Easy Task]
-- [Note: If you complete New Foundations now make the lodestone before you leave]
+* If you complete New Foundations now make the lodestone before you leave
 - Withdraw, scrying orb, wicked hood and Archaeology journal
 - Start Missing, Presumed Death - When you talk to Blaze Sharpeye, during quest, pick up Scarf (Benedict's World Tour)
-- [Note: On the way to the Temple, Mine some limestone] [Varrock Easy Task]
+* On the way to the Temple, Mine some limestone [Varrock Easy Task]
 - [During quest, when you talk to Odd Old Man, Accept Quest Rag and Bone Quest]
 - Missing, Presumed Death - until you need to go to the Wizards' Tower
 - Continue Priest In Peril - until you need to go to Varrock
@@ -635,7 +635,7 @@
 - Activate Ardougne Lodestone
 - Complete Player Owned Farm Tutorial, talk to Granny Potterington, follow yellow dotted lines
 - You can now start your own farm, you should do this as much as possible. Use woad leaves to make them food. refer to Animal Disease Table on wiki to cure diseases.
-- Note: When you are working in POF make sure to keep up on herbs runs as well.
+* When you are working in POF make sure to keep up on herbs runs as well.
 - Have Wizard Cromperty Teleport you to Essence Mine [Enter The Abyss][Ardougne Easy Task]
 - Walk into downtown Ardougne market, cutscene [Bringing Home The Bacon]
 - Go to Captain Barnaby and travel to Karamja [Easy Ardougne Task]
@@ -655,13 +655,13 @@
 - Withdraw: dwellberries, rope, chocolate dust, snape grass, bucket of milk, empty bucket
 - Teleport to Ardougne Lodestone
 - Complete Plague City [read magic scroll to unlock Ardougne Teleport]
-- [Note during quest: Talk to the nearby Recruiter in West Ardougne go thru Dialogue [Ardougne Easy Task]
+* During quest: Talk to the nearby Recruiter in West Ardougne go thru Dialogue [Ardougne Easy Task]
 - [During quest: Pray at the altar in the church [Ardougne Easy Task]
 - Complete Biohazard
-- [Note: During quest, take 1 extra rotten apple, world hop] [Mourning's End Pt 1]
-- [During quest: take 5 extra pigeon cages] [One Small Favour]
-- [Note: DO NOT TELEPORT WITH PLAGUE SAMPLE bank it. ]
-- [Note: fastest way to Rimmington Chemist: Teleport to Taverley, use house portal, exit thru Rimmington, bank chest just beside it.
+* During quest, take 1 extra rotten apple, world hop [Mourning's End Pt 1]
+* During quest: take 5 extra pigeon cages [One Small Favour]
+* DO NOT TELEPORT WITH PLAGUE SAMPLE bank it. 
+* Fastest way to Rimmington Chemist: Teleport to Taverley, use house portal, exit thru Rimmington, bank chest just beside it.
 - When you stop at a bank, deposit pigeon cages, rotten tomato, Grab piglet, pig display list, and wicked hood
 - When you go to Varrock
 - Steal a cup of tea from tea stall
@@ -671,9 +671,9 @@
 - At the deposit box, reequip Necro gear, deposit all
 - Right-click Lorehound and Send Home
 - Go to bottom floor, Complete Stolen Hearts combat XP lamp put into prayer
-- [Note: if you forgot the passphrase from Leela, speak with her again to write it down]
-- [Note: Use Al Kharid Lodestone, Ozan will follow you]
-- [NOTE when you go atop the palace go to the Northwest corner and grab the Shiny toffee apple [Benedict's World Tour]
+* If you forgot the passphrase from Leela, speak with her again to write it down
+* Use Al Kharid Lodestone, Ozan will follow you
+* When you go atop the palace go to the Northwest corner and grab the Shiny toffee apple [Benedict's World Tour]
 - Immediately Accept Quest, Diamond In The Rough
 - Continue Diamond In The Rough until you need to go to Shantay pass.
 - Complete One Piercing Note, drop quest items after you're done. Keep Citharede robes
