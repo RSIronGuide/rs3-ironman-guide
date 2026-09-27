@@ -1527,3 +1527,9 @@
 - When you exit the double doors light a fire and cook the snail [Morytania Easy Task]
 * Once you enter Burgh De Rott drop the leftover trout
 - After In Aid of the Myreque is completed, Talk to Veliaf Hurtz again in the Burgh de Rott pub basement. (Chat 4•✓•1•2•3•4•5) Accept [[Darkness of Hallowvale]]
+- Go back up the ladder and go to bank in Burgh De Rott
+
+# Bank 95
+- Equip: Full mystics, Wand and Orb, salve amulet, explorers ring, grimiore
+- Withdraw: Air runes (use air blast), three prayer potions, the rest good food (there is a bank in the maze if needed)
+- Complete [[Liar of Tarn Razorlor]]
