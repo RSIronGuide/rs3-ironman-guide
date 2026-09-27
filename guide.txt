@@ -808,7 +808,7 @@
 - Head to the Bar and complete the Bartender (Dead Man's Chest) Bar Crawl )
 - Talk to Kangai Mau (💬 2) in the Brimhaven food store Accept Quest [Tribal Totem]
 - Return to Ardougne via (Port Sarim Customs Officer)[Karamja Easy Task]
-- Go to [[The Poison Arrow]] pub Talk to [[Marion]] and buy a [[skewered kebab]] (💬 2•1) [Ardougne Easy Task]
+- Go to [[The Poison Arrow]] pub Talk to [[Marion]] (💬 2•1) and buy a [[skewered kebab]] [Ardougne Easy Task]
 - Continue Tribal Totem up until and including talking to the RPDT employee
 - Bank at Ardougne South Bank
 
@@ -817,11 +817,13 @@
 - Sell Silk to the Silk merchant for 60 coins, (💬 2) [Ardougne Easy Task]
 - Attempt to picklock a certain door east of the gem stall in Ardougne's marketplace [Ardougne Easy Task]
 - Pick pocket any stall [Ardougne Easy Task]
-- Talk to Wizard Cromperty (💬 2•2•1) [Tribal Totem]
+- Talk to [[Wizard Cromperty]] (💬 2•2•1) [Tribal Totem]
+- Go to the [[Servant's Guild]] talk to [[Chief Servant]] (💬 1) [Ardougne Easy Task]
 - Continue Tribal Totem
 * WARNING: RIGHT CLICK INVESTIGATE STAIRS AFTER OPENING DOOR WITH CODE KURT
 - Complete Tribal Totem
 - Keep 1 Swordfish [Family Crest Quest]
+- Go to Bank
 
 # Bank 42
 - Withdraw: 6xAir/6xEarth/All Water Runes, Glarial's pebble, Rope, some food
