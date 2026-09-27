@@ -808,7 +808,7 @@
 - Head to the Bar and complete the Bartender (Dead Man's Chest) Bar Crawl )
 - Talk to Kangai Mau (💬 2) in the Brimhaven food store Accept Quest [Tribal Totem]
 - Return to Ardougne via (Port Sarim Customs Officer)[Karamja Easy Task]
-- Go to [[The Poison Arrow]] pub Talk to [[Marion]] (💬 2•1) and buy a [[skewered kebab]] [Ardougne Easy Task]
+- Go to [[The Poison Arrow]] pub Talk to [[Marion]] and buy a [[skewered kebab]] (💬 2•1) [Ardougne Easy Task]
 - Continue Tribal Totem up until and including talking to the RPDT employee
 - Bank at Ardougne South Bank
 
