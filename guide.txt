@@ -1571,3 +1571,14 @@
 * Lightning can hit hard randomly, really hard. It can also hit you if you are afk just outside the barrier beside Evil Dave
 - Talk to Aris to complete the quest, use reward xp lamps
 - Congratulations! 175 Quest Points Achieved, go to May's Shop to claim your rewards. We need the money for Kingdom coming up
+
+# Bank 98
+- Equip: Full mystics, Wand and orb
+- Withdraw: air runes, earth runes, 12 food, 
+- Complete an Easy [[Temple Trekking]] [Morytania Easy Task]
+- Click blue reward token select sharks, claim raw sharks [The Fremennik Trails]
+- Go to bank, deposit all, withdraw raw shark, 5 flax
+- If you dont have any sapphire rings/recoils in the bank, check birdnest, if nothing make at least two now[The Fremmenik Trails]
+- House teleport, exit house portal to Relleka
+- Talk to Brundt the Chieftain in the longhall in Rellekka. (Chat 3•✓•1) Accept Quest [[The Fremmenik Trails]]
+- Continue Fremm Trails, after you make the golden string and attach it to the lyre, click the spinning wheel again, spin 5 bowstrings [Seers' Easy Task]
