@@ -713,16 +713,16 @@
 - Go up to the top floor of Lumbridge castle, pick up Shiny pipe on the northside [Benedict's World Tour]use XP lamp on whatever you want summoning seems good.
 - Continue Lost Tribe and Complete Goblin Diplomacy when you go to Goblin Village
 * When at goblin village kill a goblin for Goblin skull and kill a bear for the Bear ribs [Rag and Bone quest]
-* When you go to the H.A.M Member Hideout, pickpocket HAM Members for Unpolished buttons] [Animal Magnetism]
-* When you pick up brooch go south and mine the tunnel, in case you mess up you can walk thru this. Otherwise you will have to lodestone to lumbridge. ]
+* When you go to the H.A.M Member Hideout, pickpocket HAM Members for Unpolished buttons [Animal Magnetism]
+* When you pick up brooch go south and mine the tunnel, in case you mess up you can walk thru this. Otherwise you will have to lodestone to lumbridge. 
 - Lost Tribe Quest Completed, ring of life new BIS for HCIM
 - Talk to the Cook, Accept Quest Recipe for Disaster: Another Cook's Quest
 
 # Bank 35
 - Deposit all, withdraw: torch, 20 essence (either kind), some food
-* Just mine some when you go to southeast varrock]
+* Just mine some when you go to southeast varrock
 - Teleport to Falador, complete Wanted! (Sollus is a joke if you've followed the guide) [Note: when you go to black knights forest, kill jailer for key then speak to Velrak the explorer to obtain dusty key] [keep jail key and dusty key Mourning's End Pt 2]
-* This quest could be annoying, it's random. depending on where it sends you. Utilize your house portals. Unlock lodestones wherever you end up going. For instance, went to McGrubor's Wood. So I went to Catherby Lodestone, and Seers' Village Lodestone on the way. Try to be as efficient as possible, we want 5k slayer XP early. If you go to Rellekka grab limestone brick. You will have to start The Giant Dwarf quest to get in.]
+* This quest could be annoying, it's random. depending on where it sends you. Utilize your house portals. Unlock lodestones wherever you end up going. For instance, went to McGrubor's Wood. So I went to Catherby Lodestone, and Seers' Village Lodestone on the way. Try to be as efficient as possible, we want 5k slayer XP early. If you go to Rellekka grab limestone brick. You will have to start The Giant Dwarf quest to get in.
 * If you wear ring of life for the wanted! Quest it WILL be consumed. Unequip if you're a HCIM.]
 - If still not completed: Complete New Foundations Quest, grab invitations box to get there the fastest, if still no Fort Lodestone.
 - Buy limestone bricks, if needed and available
@@ -914,7 +914,7 @@
 - Quest Completed Murder on the Border. Destroy potions, destroy prismatic lamp for Herblore @ Lvl 30 we will reclaim
 - Complete Unwelcome Guests
 * Note when you must kill 10 zombies in wilderness. Aggro one zombie at a time and safe spot. All the zombies can be safe spotted. You should take zero damage here. Use Tree stumps/stones to safe spot. When you repair the walls just eat up and fix everything, do not kill any zombies.
-* [https://imgur.com/a/4Tuu41t]Safe spots
+* Image of Safespots: [https://imgur.com/a/4Tuu41t]
 - Build the following while at Fort Forinthry or do this AFK:
 - Eastern border Wall
 - Grove Cabin (Tier 1)
@@ -924,10 +924,10 @@
 # Bank 53
 - Deposit all, view all currency click "Distractions and Diversions" tab and right-click memory strands and teleport. If you don't have memory strands use Eagles' Peak teleport and run Northwest
 - Talk to Orla Fairweather and receive an Engram, read the Engram and complete the task.
-- Per wiki
-- Collect 450 Bright energy
-- Collect and charge the Sword of Edicts engram
-- Activate the echo
+* Per RS3 wiki 
+* Collect 450 Bright energy
+* Collect and charge the Sword of Edicts engram
+* Activate the echo
 * Activating the echo will allow you to collect Memory shards while training Hunter. These can be used to create Sign of the porter IV.
 * 400-800 shards can be obtained per hour, equivalent to 25-50 Sign of the porter IV when weaved (500-1000 porter charges)
 
@@ -997,7 +997,7 @@
 # Bank 59
 - Teleport to Taverley and keep collecting 5 limpwurts, 5 whiteberries, and 5 unicorn dust from Jatix's Herblore Shop. Buy 5 vial of water and 5 eye of newts packs
 - Thieve master farmers until 41 thieving
-- Complete [[Lost Her Marbles (miniquest)]]
+- Complete [[Lost Her Marbles]]
 - Continue thieving master farmers until you have plenty of fruit tree/tree seeds. We will then start thieving Druids in Al Kharid for herb seeds only.
 - Go to Catherby to buy 100 plant pots, and 1 empty sack pack from Vanessa's Farming Shop
 - Plant any acorns you got, plant any apple tree seeds
@@ -1100,7 +1100,7 @@
 - Grab the Shiny money pouch while atop the Sorcerer's Tower [Benedict's World Tour]
 - Teleport to the Seers' Village lodestone, run east, and speak to a Seer (south-west of the bank). (💬 2•2)
 - Go to Taverley dungeon, kill two baby dragons, collect bones, (Fairy Tale I/Mourning's End Pt 2) kill two blue dragon, take hide and dragon bones (Watchtower/Fairy Tale I) pick up some blue dragon scales as well.
-* Optional, Take as many dragon bones as you can hold. You can take buckets of slime with dragon bones to Ectofuntus during Ghosts Ahoy, for tokens if you don't want to charter]
+* Optional, Take as many dragon bones as you can hold. You can take buckets of slime with dragon bones to Ectofuntus during Ghosts Ahoy, for tokens if you don't want to charter
 - Complete Scorpion Catcher
 - Complete Watchtower, grind bat bones, if you don't have a guam, go to Taverley and take the free one at Jatix's shop.
 - Grab jangerberries spawn on small island when you speak with Grew during quest
