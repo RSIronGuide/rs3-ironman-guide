@@ -1288,7 +1288,7 @@
 # Bank 79
 - Equip: adamant armour, adamant sword and off hand sword
 - Withdraw: Excalibur, two Magic whistles, Holy table napkin, Poison chalice, teleport runes, 3 red vine worms, garlic, one limpwurt, red spider eggs, three steel bars, unfired bowl, wizard's mind bomb, silk, crayfish cage
-- [Note: If you have no silk go to Varrock and buy some from Thessalia]
+* If you have no silk go to Varrock and buy some from Thessalia]
 - Complete Holy Grail, drop Holy table napkin, Magic whistle, Grail bell, Magic gold feather
 - When you go to Karamja: mine gold ore Northwest, you could grab extra for jewelry [Karamja Easy Task]
 - Use the rope swing to travel to the moss giant island north-west of Karamja [Karamja Easy Task]
@@ -1334,12 +1334,12 @@
 - Go Northeast towards Mage Training Arena, check your water filtration if you need to
 - Bank deposit all, withdraw nature, law, cosmic, earth, water, and air runes
 - Go to Mage Training Arena, do telekinetic room or enchantment room, buy a mud rune [The Eyes of Glouphrie]
-- [Note: 2 telekinetic points for law rune or 5 enchantment points for cosmic rune]
-- [Note: Telekinetic room you can step back outside to reset the room until you find an easier room]
+* 2 telekinetic points for law rune or 5 enchantment points for cosmic rune
+* Telekinetic room you can step back outside to reset the room until you find an easier room
 - If you haven't used a carpet ride yet, teleport to house, go to Pollnivneach and ride the carpet.
 - Congratulations! You have completed the Easy Desert Achievements!
 - Claim your reward from Grand Vizier Hassan in Menaphos (you can wait, 2,000 XP reward lamp can only be used on any skill 29 or higher). I used it on herblore
-- [Note: A bag of lost items can be claimed once per day from any rug merchant. You could get your magic logs this way if lucky for Desert Treasure]
+* A bag of lost items can be claimed once per day from any rug merchant. You could get your magic logs this way if lucky for Desert Treasure
 - Go to Lumbridge, deposit all
 
 # Bank 81
@@ -1350,7 +1350,7 @@
 - Read the Noticeboard outside the Burnt Lobster Tavern fencing to Accept Quest, [Hermit Permits]
 - Go South, Repair Dilapidated Canoe Station
 - Continue Hermit Permits
-- [Note: When you go to South Central Beach to speak with crabs, repair the dilapidated canoe station]
+* When you go to South Central Beach to speak with crabs, repair the dilapidated canoe station
 - BEFORE going back to South Central Beach to complete Hermit Permits, grab 6 willow planks, make sure you still have the steel nails
 - Use canoe transportation when you have to go back down to South Central Beach (Wendlewick Grotto)
 - Complete Hermit Permits rub lamps (should be 40 crafting or close to it)
@@ -1363,7 +1363,7 @@
 - Withdraw: Excalibur, teleport runes, silver bar, vial (empty), Strange implement, Traveller's necklace, some food, 6 free inventory slots
 - Use Traveller's necklace and teleport to Eagles' Eyrie
 - Complete Shadow of the Storm, use combat XP lamp on Ranged
-- [Note: Protect from Magic when fighting the Demon, Ultimate Strength prayer is good too, activate Excalibur for +8 defence, fight should be a cakewalk]
+* Protect from Magic when fighting the Demon, Ultimate Strength prayer is good too, activate Excalibur for +8 defence, fight should be a cakewalk]
 - After Shadow of the Storm is completed, drop Demonic tome, Demonic sigil, Demonic sigil mould, and the Strange implement
 - Teleport to Seers' Village Lodestone
 - Go to Forester's Arms, trade with bartender, buy 10 stews minimum
@@ -1372,7 +1372,7 @@
 # Bank 83
 - Withdraw: 10 stews, cat (teleport to house and get cat if in Pet House)
 - Complete RFD: Freeing Evil Dave
-- [Note: Bring Grimoire 1 to send ashes to bank as well]
+* Bring Grimoire 1 to send ashes to bank as well
 - I would refer to the quick guide on the wiki for this quest
 - Complete Evil Dave's Big Day Out (should be 50 magic)
 - Teleport to Varrock Lodestone, go to Champions' Guild
@@ -1386,9 +1386,9 @@
 - Withdraw: light source, 20 limpwurts
 - Complete Temple of Ikov, on the way to talk to Lucien in Ardougne, Cross the River Dougne using the log balance shortcut [Ardougne Medium Task]
 - WARNING, before crossing the bridge unequip green dhide armour and drop at the front door. Make sure weight is 0 or below. You should only wear Pendant of Lucien, maple shortbow, and boots of lightness
-- [Note: If you haven't started the Familiarisation mini game, do it when it's available. Talk to Pikkupstix and find location. Once in the Spirit plane, players need to gather as many piles of raw shards as possible while avoiding certain other familiars. An obelisk will only remain active for 20 minutes after which it will become inactive. A new obelisk becomes active every two hours.]
-- [Note: To check for minigame availability click "Adventures" tab, click "mini games" tab and scroll through the minigames.]
-- [Note: For Familiarisation minigame also choose "charm drop enhancer"
+* If you haven't started the Familiarisation mini game, do it when it's available. Talk to Pikkupstix and find location. Once in the Spirit plane, players need to gather as many piles of raw shards as possible while avoiding certain other familiars. An obelisk will only remain active for 20 minutes after which it will become inactive. A new obelisk becomes active every two hours.]
+* To check for minigame availability click "Adventures" tab, click "mini games" tab and scroll through the minigames.
+* For Familiarisation minigame also choose "charm drop enhancer"
 
 # Bank 85
 - Equip: full adamant armour, adamant sword, anti-dragon shield, desert amulet, Explorer's ring, grimoire
@@ -1431,7 +1431,7 @@
 - Go south behind building and bank with Simon [Wilderness Easy Task]
 - Teleport to Fort Forinthry grab plenty of food.
 - Go out the north gate into the wilderness. Pull strange switches 10 times [Wilderness Easy Task]
-- [Note: This is extremely dangerous for HCIM. Run far East to go back and forth. Avoid Bound Skeletons, Fetid Zombies hit about 500% less.]
+* This is extremely dangerous for HCIM. Run far East to go back and forth. Avoid Bound Skeletons, Fetid Zombies hit about 500% less.]
 - Congratulations! You have completed the Wilderness Easy Achievement, claim your rewards from Mr. Ex in Edgeville. Use antique lamps on prayer, you should now be 45 prayer. We now have full protection prayers.
 * Wilderness sword is new BIS herb patch location do it on herb runs, and also new quick teleport to Edgeville
 
