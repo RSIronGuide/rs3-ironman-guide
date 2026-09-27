@@ -381,8 +381,8 @@
 - [Note: If you still aren't 10 smithing, just mine a few more tin and copper, keep making bronze arrowheads for fletching] ==g:we need bronze bars for quest==
 - Make two iron bars, make iron ore box at anvil
 - Mine full inventory of iron ore, fill ore box, at lvl 20 mining add steel pickaxe to toolbelt, keep iron pickaxe
-* We need 20 mining and 20 smithing before moving on
-* We need 30 mining for pure essence eventually, you can get 30 mining now or later, you can also mine some coal too
+* We need 20 mining and 20 smithing before moving on]
+* We need 30 mining for pure essence eventually, you can get 30 mining now or later, you can also mine some coal too]
 - Smelt 60 iron bars total, deposit in anvil
 - Make one iron full helm
 - Click anvil, withdraw two iron bars
@@ -413,7 +413,7 @@
 * Complete one Runesphere every day. I can't stress this enough. After two Runespheres im 44RC, its OP. When a runesphere shows up Talk to a wizard within Runespan and ask for the location, it will tell you above, middle, or on the low level. We can only do the lower level. Middle lvl access 33 Runecrafting, you'll need a higher RC just to reach the runesphere sometimes. Just train
 * The Achievement Help Discord server has a role for it. If you sign up for that role in the #role- sign-up channel, you'll get a notification when someone calls out a runesphere in the #call-outs channel.
 * Then have a ton of such roles, which can be super handy if you want to be notified about various randomly occurring events, spawns, group activities, etc.
-* Link to the Discord: https://discord.gg/ahelp
+* https://discord.gg/ahelp
 * Runespheres spawn at a high-tier layer (up to level 92 for the Soul layer) and automatically sheds its layers roughly every 2 to 3.5 minutes. As it breaks down, it moves backward through the Runecrafting tiers until it reaches the final Air layer (level 1) before finally exposing its core. (I wasn't aware of this)
 * Early Level Node Strategy Runespan (Levels 1-33)
 * Level 1-9: Target Cyclones and Mind storms for roughly 56,000 XP per hour.
@@ -597,7 +597,7 @@
 - Teleport to Varrock Lodestone
 - Continue Dragon Slayer go to Champions Guild, pause quest when we need to go to Lumbridge
 - Continue Bringing Home the Bacon, pause after Varrock Cutscene
-- Complete Heartstealer at Varrock Museum - [==r:come back at 20 thieving and receive 2500xp lamp==]
+- Complete Heartstealer at Varrock Museum 
 - Continue Bringing Home the Bacon, Falador Lodestone, walk into gates
 - Teleport to Archaeology Campus
 - Continue Once Upon a Time in Gielinor: Fortunes, until you need to go back to Varrock
