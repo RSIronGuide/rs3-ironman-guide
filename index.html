@@ -309,6 +309,7 @@ dialog.editor[open]{display:flex;flex-direction:column}
 
 <script>
 const KEY = 'rs3guide.v1';
+try { history.scrollRestoration = 'manual'; } catch (e) {}
 const PH = s => '%%' + s + '%%';
 const QUESTS = [["A blast from the past (Part 1)", "A blast from the past \(Part 1\)"],
   ["A Christmas Reunion", "A Christmas Reunion", true],
@@ -1258,6 +1259,10 @@ async function boot(){
   edPrimary.textContent = CAN_PROPOSE ? 'Propose changes…' : 'Download file';
   if (CAN_PROPOSE) { $('#ghLinks').hidden = false; $('#ghRepo').href = ghUrl(''); $('#ghEdit').href = ghUrl('/edit/main/guide.txt'); repoBranch().then(b => { $('#ghEdit').href = ghUrl(`/edit/${b}/guide.txt`); }); }
   updateDraftBar(); render();
+  let y = 0; try { y = +(sessionStorage.getItem(KEY + ':scrollY')) || 0; } catch (e) {}
+  if (y > 0) window.scrollTo(0, y);
+  let scrollSaveT;
+  addEventListener('scroll', () => { clearTimeout(scrollSaveT); scrollSaveT = setTimeout(() => { try { sessionStorage.setItem(KEY + ':scrollY', String(window.scrollY)); } catch (e) {} }, 150); }, {passive: true});
 }
 window.rs3 = {parse, buildFile, h32, openEditor, openPropose, text: () => currentText, MIGRATE, REPO, HOSTED};
 main.innerHTML = '<p class="nothing">Loading the guide…</p>';
@@ -1575,6 +1580,7 @@ dialog.editor[open]{display:flex;flex-direction:column}
 
 <script>
 const KEY = 'rs3guide.v1';
+try { history.scrollRestoration = 'manual'; } catch (e) {}
 const PH = s => '%%' + s + '%%';
 const QUESTS = [["A blast from the past (Part 1)", "A blast from the past \(Part 1\)"],
   ["A Christmas Reunion", "A Christmas Reunion", true],
@@ -2524,6 +2530,10 @@ async function boot(){
   edPrimary.textContent = CAN_PROPOSE ? 'Propose changes…' : 'Download file';
   if (CAN_PROPOSE) { $('#ghLinks').hidden = false; $('#ghRepo').href = ghUrl(''); $('#ghEdit').href = ghUrl('/edit/main/guide.txt'); repoBranch().then(b => { $('#ghEdit').href = ghUrl(`/edit/${b}/guide.txt`); }); }
   updateDraftBar(); render();
+  let y = 0; try { y = +(sessionStorage.getItem(KEY + ':scrollY')) || 0; } catch (e) {}
+  if (y > 0) window.scrollTo(0, y);
+  let scrollSaveT;
+  addEventListener('scroll', () => { clearTimeout(scrollSaveT); scrollSaveT = setTimeout(() => { try { sessionStorage.setItem(KEY + ':scrollY', String(window.scrollY)); } catch (e) {} }, 150); }, {passive: true});
 }
 window.rs3 = {parse, buildFile, h32, openEditor, openPropose, text: () => currentText, MIGRATE, REPO, HOSTED};
 main.innerHTML = '<p class="nothing">Loading the guide…</p>';
