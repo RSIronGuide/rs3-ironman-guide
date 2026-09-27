@@ -1533,3 +1533,4 @@
 - Equip: Full mystics, Wand and Orb, salve amulet, explorers ring, grimiore
 - Withdraw: Air runes (use air blast), three prayer potions, the rest good food (there is a bank in the maze if needed)
 - Complete [[Liar of Tarn Razorlor]]
+* Protect from Melee while running through the maze as needed
