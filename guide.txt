@@ -381,8 +381,8 @@
 - [Note: If you still aren't 10 smithing, just mine a few more tin and copper, keep making bronze arrowheads for fletching] ==g:we need bronze bars for quest==
 - Make two iron bars, make iron ore box at anvil
 - Mine full inventory of iron ore, fill ore box, at lvl 20 mining add steel pickaxe to toolbelt, keep iron pickaxe
-* We need 20 mining and 20 smithing before moving on]
-* We need 30 mining for pure essence eventually, you can get 30 mining now or later, you can also mine some coal too]
+* We need 20 mining and 20 smithing before moving on
+* We need 30 mining for pure essence eventually, you can get 30 mining now or later, you can also mine some coal too
 - Smelt 60 iron bars total, deposit in anvil
 - Make one iron full helm
 - Click anvil, withdraw two iron bars
