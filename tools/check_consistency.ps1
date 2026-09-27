@@ -177,7 +177,7 @@ for ($i = 0; $i -lt $lines.Count; $i++) {
 # --- Bank header sequencing ---
 $bankLines = @()
 for ($i = 0; $i -lt $lines.Count; $i++) {
-  if ($lines[$i] -match '^#\s*Bank\s+(\d+)\s*$') { $bankLines += [pscustomobject]@{ Line=$i+1; Num=[int]$Matches[1] } }
+  if ($lines[$i] -match '^#\s*Bank\s+(\d+)(?:\s|$)') { $bankLines += [pscustomobject]@{ Line=$i+1; Num=[int]$Matches[1] } }
 }
 for ($i = 1; $i -lt $bankLines.Count; $i++) {
   $prev = $bankLines[$i-1].Num
