@@ -1551,7 +1551,7 @@
 * Games necklace Agoroth teleport, for getting back each week.
 - Teleport to Bank
 
-# Bank 97
+# Bank 97 175 Quest Points
 - Unequip all, deposit all, send follower home
 - Withdraw: Ammo mould, Nulodion's notes, woad leaves, 1 law rune, 1 fire rune, three air runes
 - Teleport to Ardougne Lodestone, check beehives and refill, deposit [[medicinal honeycombs]] (use these to heal animals in farms) and woad leaves in deposit box at POF, complete [Dwarf Cannon] Quest
@@ -1562,7 +1562,9 @@
 - After quest stay in New Varrock square, Go East Talk to Orlando Smith in the New Varrock Museum. (Chat ✓•3) Accept quest [[DoD: Shield of Arrav]]
 - Head back to New Varrock Square, on the way stop by East bank go back up stairs, lockpick the chest for an achievement - https://imgur.com/a/5WSPvyW
 - Talk to Aris in New Varrock Square. (Chat ✓) Accept Quest [[DoD: Demon Slayer]]
-- Before we go fight Derilth, cut 38 logs fletch 560 shafts and sell them to the general store until 1680 Zemomarks
-- Go to [[Getrude's Food]] and buy 1 chocolate cakes, two stews (if this wasn't enough for fight let me know please, you could get bad rng)
+- Before we go fight Derilth, cut 38 logs fletch 560 shafts and sell them to the general store until 1680 Zemomarks (you can get more coins for additional food. Gertrude only sells 10 cakes and 10 stews though)
+- Go to [[Getrude's Food]] and buy 10 chocolate cakes, two stews (if this wasn't enough for fight let me know please, you could get bad rng)
 * Before fighting Derilth, loot the chest in the northeast corner of the area to work towards completing the [[Pick All]] achievement
-* Lightning can hit hard randomly, really hard. It can also hit you if you are afk just outside the barrier beside evil dave
+* Lightning can hit hard randomly, really hard. It can also hit you if you are afk just outside the barrier beside Evil Dave
+- Talk to Aris to complete the quest, use reward xp lamps
+- Congratulations! 175 Quest Points Achieved, go to May's Shop to claim your rewards. We need the money for Kingdom coming up
