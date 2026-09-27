@@ -1223,6 +1223,7 @@
 - This is enough ensouled cloth and thread to upgrade your equipment through level 50.
 
 # Bank 75
+* Now is a great to study [[Revolution/Bars]]. We need to start setting up Revolution bars for our combat styles. 
 - Withdraw: feathers, Melancholic bead, Phlegmatic bead, Choleric bead, wicked hood, pet cat, pig, 4 oak planks, make planks at Rimmington if needed
 - Teleport to Rimmington
 - Click on the "Furniture Workbench" and search Oak Pet House
@@ -1538,12 +1539,6 @@
 * Image of spikes along the wall here - https://imgur.com/a/N6MK9nV
 
 # Bank 96
-- Keep everything equipped
-* If you haven't made presets start using them for your loadouts
-- Withdraw: air runes, excalibur, food (we need 5 free inventory slots)
-- Teleport to Port Sarim, Talk to [[Gudrik]], east of Gerrant's Fishy Business in Port Sarim. (Chat 1•✓) Accept Quest [[A Shadow over Ashdale]
-* Members can fight Agoroth twice a week from the dead man's chest in the Ashdale Caves. It resets on Wednesdays.
-* Dying to Agoroth is a safe death for HCIM
 - Unequip all, deposit all, send follower home
 - Withdraw: Ammo mould, Nulodion's notes, woad leaves, 1 law rune, 1 fire rune, three air runes
 - Teleport to Ardougne Lodestone, check beehives and refill, deposit [[medicinal honeycombs]] (use these to heal animals in farms) and woad leaves in deposit box at POF, complete [Dwarf Cannon] Quest
