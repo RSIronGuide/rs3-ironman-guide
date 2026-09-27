@@ -616,7 +616,7 @@
 - NEED 30 MINING, quickly get that, go to burthorpe and mine iron
 - Once 30 mining use wicked hood to Wizards' Tower and teleport to essence and mine 25 Pure essence
 
-# Bank 28
+# Bank 28 50 Quest Points
 - Withdraw: 25 pure essence, empty bucket and Archaeology journal
 - Teleport to Archaeology Campus/Fort Forinthry Lodestone
 - Complete Priest In Peril, Quest Completed
@@ -876,7 +876,7 @@
 * Plant the herb seed on the way to Ectofuntus]
 - Trade Ava, buy 1k iron arrowheads and 1k steel arrowheads buy 5 feather packs.
 
-# Bank 48
+# Bank 48 100 Quest Point
 - Deposit all items and gear, send pet home
 - Teleport to Draynor Lodestone
 - Complete Once Upon a Time in Gielinor: Fortunes use lamp on herblore
@@ -1036,7 +1036,7 @@
 - Use games necklace and teleport to Barbarian Outpost, talk to Barbarian guard to complete [[Alfred Grimhand's Bar Crawl]]
 - Teleport to Canifis, and deposit all
 
-# Bank 63
+# Bank 63 125 Quest Points
 - Withdraw: decapitated head, teleport runes, ghostspeak amulet, wolfbane dagger
 - Kill a werewolf in its human form using the wolfbane dagger in Canifis [Mory Easy Task]
 - Continue [[Creature of Fenkenstrain]], click the pickled brain on table, buy a pickled brain
@@ -1284,7 +1284,7 @@
 - Go to bank
 
 
-# Bank 79
+# Bank 79 150 Quest Points
 - Equip: adamant armour, adamant sword and off hand sword
 - Withdraw: Excalibur, two Magic whistles, Holy table napkin, Poison chalice, teleport runes, 3 red vine worms, garlic, one limpwurt, red spider eggs, three steel bars, unfired bowl, wizard's mind bomb, silk, crayfish cage
 * If you have no silk go to Varrock and buy some from Thessalia]
