@@ -4,11 +4,11 @@
 - You can right click the World Map and adjust the skybox/filter settings to your liking
 - Press Escape, search "shift" make sure Shift-click to drop items is checked mark ON
 - In the settings tab search "notifications", uncheck everything in "Broadcast - Global/Broadcasts - World" [So your chatbox doesn't spam]
-- IF Hardcore ironman be careful going afk while in starter areas, highwaymen will kill you
-- Keep up on Repeatable Events
-- Runespheres, Nemi Forest, Herby Werby, Troll Invasion, Memorial Guthix, Circus, Penguin Hide and Seek, Familiarisation, Evil tree are all a MUST early game. They will expedite your XP gains tremendously. If you aren't familiar with these mini games learn them.
-- The beginning of this guide is F2P until a certain point. Without members you won't see certain items in the shops FYI. I would advise members, but it's not necessary for the beginning.
-- The Circus has 13 spawn locations. Depending on spawn location will dictate if you can reach it. If it has a close spawn go to it when we quest or you can run to it now to unlock Surge. For those of us who don't have a close spawn we will finish Death Plateau soon and unlock surge that way.
+* IF Hardcore ironman be careful going afk while in starter areas, highwaymen will kill you
+* Keep up on Repeatable Events
+* Runespheres, Nemi Forest, Herby Werby, Troll Invasion, Memorial Guthix, Circus, Penguin Hide and Seek, Familiarisation, Evil tree are all a MUST early game. They will expedite your XP gains tremendously. If you aren't familiar with these mini games learn them.
+* The beginning of this guide is F2P until a certain point. Without members you won't see certain items in the shops FYI. I would advise members, but it's not necessary for the beginning.
+* The Circus has 13 spawn locations. Depending on spawn location will dictate if you can reach it. If it has a close spawn go to it when we quest or you can run to it now to unlock Surge. For those of us who don't have a close spawn we will finish Death Plateau soon and unlock surge that way.
 
 # First steps
 - Speak with Doomsayer about Warning System, complete dialogue [Lumbridge Beginner Task]
@@ -1114,7 +1114,7 @@
 - We want to buy a gem bag as our first purchase
 - Do high complexity small floors with a group
 - If you need to AFK:
-- Fish to lvl 52 @ shilo village, cook all the trout and salmon. Get 53 fishing catching Raw desert sole in the [Menaphos fishing spots]active [Menaphos Port District]. This is much better food
+- Fish to lvl 52 @ shilo village, cook all the trout and salmon. Get 53 fishing catching Raw desert sole in the [Menaphos fishing spots]
 - Firemaking to 50 (once you run out of wood chop and burn)
 - Mine gems, preferably with a gem bag but at least mine some for jewelry
 - At 49 firemaking complete [[Tears of Guthix]] (get it done by Tuesday, weeklies reset on Wednesdays 00:00 UTC) try to get hunter to be your lowest level so we can skip early game hunter while we quest. If not, I'll include low level hunter training later
