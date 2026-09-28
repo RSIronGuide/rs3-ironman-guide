@@ -1500,7 +1500,7 @@
 * Protect from Melee when running through the cave, you will take a lot of damage. I didn't Protect from Melee but I still had 10 food remaining after the fight. Some parts of the cave you will take more damage than others.
 * Before boss fight, activate Excalibur
 * During the boss fight protect from Melee and use Overcharge and Mystic Might prayers
-* You can drop the Femur bone, we've completed [Rag and Bone]/[Fur 'n Seek], the item has no use
+* Femur bone is for [[Fur n' Seek/Wishlist]] bank it
 - House teleport
 * WARNING do not stay in the cave, you will start to take damage, HCIM
 
@@ -1579,7 +1579,7 @@
 - Click blue reward token select sharks, claim raw sharks [The Fremennik Trails]
 - Go to bank, deposit all, withdraw air runes, earth runes, raw shark, 5x flax
 - House teleport, exit house portal to Relleka
-- Talk to Brundt the Chieftain in the longhall in Rellekka. (💬 3•✓•1) Accept Quest [[The Fremmenik Trails]]
+- Talk to Brundt the Chieftain in the longhall in Rellekka. (Chat 3•✓•1) Accept Quest [[The Fremmenik Trails]]
 - Continue Fremm Trails, after you make the golden string and attach it to the lyre, click the spinning wheel again, spin 5 bowstrings [Seers' Easy Task]
 - For the boss fight bring a little food thats it, fight is really easy, no need for additional buffs
 * This is a safe death for HCIM, you must be defeated on the 4th fight (you dont actually die)
@@ -1594,11 +1594,4 @@
 * Gain favour mining coal, get 100% approval rating now
 
 # Bank 100
-- Equip: Full rune armour, adamant sword and off hand sword, BIS jewelery
-- Withdraw: enchanted lyre, excalibur, antipoison, desert soles
-- Play Lyre, sail to Miscellania, Speak to Advisor Ghrim in Miscellania. (💬 2•✓) Accept Quest
-- Complete [[Royal Trouble]]
-* Mine 5 coal during quest, in the same room you repair everything down in the cave
-* Protect from ranged for the boss fight
-- After quest, deposit 1.3mil into the coffer, max workers on herb
-
+-
