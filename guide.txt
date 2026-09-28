@@ -1617,11 +1617,17 @@
 * Boss fight protect from ranged and eat up
 
 # Bank 102
-- Keep equipment on
-- Withdraw: air runes, earth runes, 1 beer, 2 law runes, 2 water runes, unicorn horn, cowhide, one raw swordfish, and one raw chicken if you have it. we can do it later or go to lumbridge and kill a chicken really quick. 
+- Keep equipment on but equip ring of dueling
+- Withdraw: cat, air runes, earth runes, 1 beer, 2 law runes, 2 water runes, unicorn horn, cowhide, one raw swordfish, and one raw chicken if you have it. we can do it later or go to lumbridge and kill a chicken really quick. 
 - Teleport to Ardougne [Ardougne Medium Task]
 - Go South, Talk to Effigy at the Tower of Life near fairy ring code DJP. (💬 1•✓)Accept Quest
 - Complete [[Tower of Life]]
-- Drop [[Builders outfit]]
+- Destroy [[Builders outfit]]
 - Go to the Northwest corner and place cowhide and unicorn on altar, kill unicow [Ardougne Easy Task]
 - Go to the Southwest corner and place raw swordfish and raw chicken if you have them, kill the swordchick [Ardougne Medium Task]
+- Teleport to Ardougne Lodestone, go to West Ardougne, Talk to a civilian in West Ardougne about selling a cat (💬 1•1)[Ardougne Easy Task]
+- Teleport to Ardougne Lodestone, Enter the [[Combat Training Camp]] north of West Ardougne
+- Teleport to Castle wars with ring of dueling [Ardougne Easy Task]
+- Pick up cat, deposit all at bank chest
+- Enter the [[Castle Wars]] waiting room [Ardougne Easy Task]
+* Congratulations! Easy Ardougne Achievements Completed! Talk to [[Doctor Orbon]], who is located in the East Ardgoune church, to claim the rewards
