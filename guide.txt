@@ -1603,7 +1603,7 @@
 * When you go into the [[Etceteria dungeon]] go to [[The Esoterican Arms]] buy 5x cider
 * Keep Giant snake spine [[Fur n' Seek/Wishlist]]
 * After quest drop burnt diary and empty box
-- Deposit 1.3mil into coffer for Kingdom, put max workers on herb, this will last 7 days before you go below 750k. 
+- Deposit 1.3mil into coffer for Kingdom, put max workers on herb, this will last 7 days before you go below 750k. We want to stay above 750k for maximum production
 - Teleport to Seers' Village Lodestone, go to [[Forester's Arms]] give five locals a glass of cider [Seers' Easy Task]
 - Congratulations! [[Easy Seers' Village Achievements]] completed! Talk to any [[Seer]] in Seers' Village to claim the rewards
 
