@@ -1594,4 +1594,4 @@
 * Gain favour mining coal, get 100% approval rating now
 
 # Bank 100
--
+- Equip: Full mystics, wand and orb, salve amulet(e), explorers ring, grimoire
