@@ -1596,11 +1596,14 @@
 
 # Bank 100
 - Equip: Full rune armour, adamant sword and off hand sword, BIS jewelery
-- Withdraw: antipoison, excalibur, enchanted lyre, food, 8x inventory slots needed
-* You can collect 5 coal when in the [[Miscellania and Etceteria dungeon]]
-- Play lyre, sail to Miscellania, Speak to Advisor Ghrim in Miscellania. (💬 2•✓)
+- Withdraw: antipoison, excalibur, enchanted lyre, little food, 13x free inventory slots needed
+* You can collect 5 coal/rope when in the [[Miscellania and Etceteria dungeon]]
+- Play lyre, sail to Miscellania, Speak to Advisor Ghrim in Miscellania. (💬 2•✓)Accept Quest
+- Complete [[Royal Trouble]]
+* When you go into the [[Etceteria dungeon]] go to [[The Esoterican Arms]] buy 5x cider
 * Keep Giant snake spine [[Fur n' Seek/Wishlist]]
 * After quest drop burnt diary and empty box
+- Deposit 1.3mil into coffer for Kingdom, put max workers on herb
 
 # Bank 101
 - Equip: Full mystics, wand and orb, salve amulet(e), explorers ring, grimoire (Magic Preset)
