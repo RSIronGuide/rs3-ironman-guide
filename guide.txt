@@ -1120,12 +1120,13 @@
 - If you need to AFK:
 - Fish to lvl 52 @ shilo village, cook all the trout and salmon. Get 53 fishing catching Raw desert sole in the [Menaphos fishing spots], activate [Menaphos Port District]. This is much better food
 - Firemaking to 50 (once you run out of wood chop and burn)
+* Firemaking tips,  keybind your log to 1, press 1, then 1 for tinderbox. If you action is bound to fletching or something else, select "change selected tool" option on the top right corner, and choose tinderbox. Tab shown here - https://imgur.com/a/7xLNUHT
 - Mine gems, preferably with a gem bag but at least mine some for jewelry
 - At 49 firemaking complete [[Tears of Guthix]] (get it done by Tuesday, weeklies reset on Wednesdays 00:00 UTC) try to get hunter to be your lowest level so we can skip early game hunter while we quest. If not, I'll include low level hunter training later
 
 # Bank 70
-- Make sure you have a harralander and marrentill clean. If not grow some. If you did get any seeds thieving then go to Druids and thieve)
-- Withdraw: air runes(if you need more buy more, i have 79 air runes to start), willow log (chop one in lumbridge), super antipoison, tinderbox, 3 waterskins, bucket of sap, one bag of salt, cat/kitten, plenty of food 8 inventory slots I brought
+- Make sure you have a harralander and marrentill clean. If not grow some. If you didn't get any seeds thieving then go to Druids and thieve
+- Withdraw: air runes(if you need more buy more, i have 79 air runes to start it was enough), willow log (chop one in lumbridge), super antipoison, tinderbox, 3 waterskins, bucket of sap, one bag of salt, cat/kitten, plenty of food 
 - Complete [[Icthlarin's Little Helper]] [Use house portal to Pollnivneach]
 - After quest, Obtain five artefacts from Pyramid Plunder [Desert Easy Task]
 - Teleport to Karamja, take Cart to Shilo village
