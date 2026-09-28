@@ -1544,7 +1544,7 @@
 # Bank 96
 - Keep armour and weapons on
 - Withdraw: air runes, earth runes (use earth blast), excalibur, food, (we need 5 free inventory slots)
-- Teleport to Port Sarim, Talk to Gudrik, east of Gerrant's Fishy Business in Port Sarim. (Chat 1•✓) Accept Quest [[A Shadow over Ashdale]]
+- Teleport to Port Sarim, Talk to Gudrik, east of Gerrant's Fishy Business in Port Sarim. (💬 1•✓) Accept Quest [[A Shadow over Ashdale]]
 - [[Shadow Hanging Over Me]] – Claim all treasure from the chests during 'A Shadow over Ashdale', or talk to Gudrik to claim them afterwards
 * Members can fight Agoroth twice a week from the dead man's chest in the Ashdale Caves. It resets on Wednesdays.
 * Quest is a safe death and Agoroth is a safe death for HCIM
@@ -1559,12 +1559,12 @@
 - Withdraw: Ammo mould, Nulodion's notes, woad leaves, 1 law rune, 1 fire rune, three air runes
 - Teleport to Ardougne Lodestone, check beehives and refill, deposit [[medicinal honeycombs]] (use these to heal animals in farms) and woad leaves in deposit box at POF, complete [Dwarf Cannon] Quest
 * Buy more woad leaves as you need them, 189 woad leaves needed to fill all 7 beehives
-- Teleport to Varrock. Talk to Aris. (Chat 1•✓•1•1•~•~•~•~) Accept Quest [[DoD: Coin of the Realm]]
+- Teleport to Varrock. Talk to Aris. (💬 1•✓•1•1•~•~•~•~) Accept Quest [[DoD: Coin of the Realm]]
 * ALL deaths in New Varrock are safe HCIM
 - Complete [[Dimension of Disaster: Coin of the Realm]]
-- After quest stay in New Varrock square, Go East Talk to Orlando Smith in the New Varrock Museum. (Chat ✓•3) Accept quest [[DoD: Shield of Arrav]]
+- After quest stay in New Varrock square, Go East Talk to Orlando Smith in the New Varrock Museum. (💬 ✓•3) Accept quest [[DoD: Shield of Arrav]]
 - Head back to New Varrock Square, on the way stop by East bank go back up stairs, lockpick the chest for an achievement - https://imgur.com/a/5WSPvyW
-- Talk to Aris in New Varrock Square. (Chat ✓) Accept Quest [[DoD: Demon Slayer]]
+- Talk to Aris in New Varrock Square. (💬 ✓) Accept Quest [[DoD: Demon Slayer]]
 - Before we go fight Derilth, cut 38 logs fletch 560 shafts and sell them to the general store until 1680 Zemomarks (you can get more coins for additional food. Gertrude only sells 10 cakes and 10 stews though)
 - Go to [[Getrude's Food]] and buy 10 chocolate cakes, two stews (if this wasn't enough for fight let me know please, you could get bad rng)
 * Before fighting Derilth, loot the chest in the northeast corner of the area to work towards completing the [[Pick All]] achievement
@@ -1598,5 +1598,6 @@
 # Bank 100
 - Equip: Full mystics, wand and orb, salve amulet(e), explorers ring, grimoire (Magic Preset)
 - Withdraw: air runes, earth runes, three prayer potions, 2 water skins(4), excalibur, earmuffs, face mask, rope, catspeak amulet, kitten OR cat, Ghostspeak amulet, plenty of food(I brought 10 desert soles)
-- House teleport, exit to Pollnivneach, Speak to Sumona in Pollnivneach (Chat ✓) (without a cat pet out) Accept Quest
+- House teleport, exit to Pollnivneach, Speak to Sumona in Pollnivneach (💬 ✓) (without a cat pet out) Accept Quest
+* Great time to grab daily [[Bag of lost items]] from [[Rug Merchant]]
 - Complete [[Smoking Kills]]
