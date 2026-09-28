@@ -1622,3 +1622,4 @@
 - Teleport to Ardougne [Ardougne Medium Task]
 - Go South, Talk to Effigy at the Tower of Life near fairy ring code DJP. (💬 1•✓)Accept Quest
 - Complete [[Tower of Life]]
+- Drop [[Builders outfit]]
