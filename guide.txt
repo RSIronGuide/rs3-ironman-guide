@@ -917,7 +917,7 @@
 - Start Quest Murder on the Border, Speak to Aster
 - Quest Completed Murder on the Border. Destroy potions, destroy prismatic lamp for Herblore @ Lvl 30 we will reclaim
 - Complete Unwelcome Guests
-* Note when you must kill 10 zombies in wilderness. Aggro one zombie at a time and safe spot. All the zombies can be safe spotted. You should take zero damage here. Use Tree stumps/stones to safe spot. When you repair the walls just eat up and fix everything, do not kill any zombies.
+* Note when you must kill 10 zombies in wilderness. Aggro one zombie at a time and safe spot. All the zombies can be safe spotted. You should take zero damage here. Use Tree stumps/stones to safe spot. When you repair the walls just eat up and fix everything, do not kill any zombies. You can go to the bank at anytime and you will not lose your progress. Don't panic
 * Safe Spots https://imgur.com/a/J1dxwSe and https://imgur.com/a/IuKdYPH
 - Build the following while at Fort Forinthry or do this AFK:
 - Eastern border Wall
