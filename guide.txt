@@ -884,6 +884,7 @@
 - Teleport to Draynor Lodestone
 - Complete Once Upon a Time in Gielinor: Fortunes use lamp on herblore
 - Complete Once Upon a Time in Gielinor: Finale use lamp on herblore
+- Talk to Closure again to finish Once Upon a Time in Gielinor
 - Teleport to bank, withdraw piglet and pig teleport to Port Sarim
 - Complete Bringing Home The Bacon (free bacon everyday)
 - Congratulations! 100 Quest Points, Teleport to Varrock Lodestone and collect rewards
