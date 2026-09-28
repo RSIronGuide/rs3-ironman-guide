@@ -1606,11 +1606,6 @@
 - Deposit 1.3mil into coffer for Kingdom, put max workers on herb, this will last 7 days before you go below 750k. 
 - Teleport to Seers' Village Lodestone, go to [[Forester's Arms]] give five locals a glass of cider [Seers' Easy Task]
 - Congratulations! [[Easy Seers' Village Achievements]] completed! Talk to any [[Seer]] in Seers' Village to claim the rewards, use antique lamp on herblore
-* Seer's headband 1 
-* Receive 2 logs instead of 1 when cutting normal trees; grants no extra xp
-* When carried, acts as a dim light source
-* once a week, claim 210 noted [[flax]] from [[Geoffrey]]
-* Coal trucks will hold an additoinal 28 coal (252 total)
 
 # Bank 101
 - Equip: Full mystics, wand and orb, salve amulet(e), explorers ring, grimoire (Magic Preset)
