@@ -1593,6 +1593,10 @@
 - Complete [[Throne of Miscellania]]
 * Gain favour mining coal, get 100% approval rating now
 * Keep Giant snake spine [[Fur n' Seek/Wishlist]]
+* After quest drop burnt diary and empty box
 
 # Bank 100
-- Equip: Full mystics, wand and orb, salve amulet(e), explorers ring, grimoire
+- Equip: Full mystics, wand and orb, salve amulet(e), explorers ring, grimoire (Magic Preset)
+- Withdraw: air runes, earth runes, three prayer potions, 2 water skins(4), excalibur, earmuffs, face mask, rope, catspeak amulet, kitten OR cat, Ghostspeak amulet, plenty of food(I brought 10 desert soles)
+- House teleport, exit to Pollnivneach, Speak to Sumona in Pollnivneach (Chat ✓) (without a cat pet out) Accept Quest
+- Complete [[Smoking Kills]]
