@@ -873,7 +873,7 @@
 * Daily solves on this Reddit thread: https://www.reddit.com/r/NemiForest/
 
 # Bank 47
-- Withdraw: one mithril hatchet(not on toolbelt),five iron bars, one unholy symbol, one hard leather, four bones, one ghostspeak amulet, polished button, one supercompost/compost, best herb seed you have.
+- Withdraw: one mithril hatchet(not on toolbelt),five iron bars, one holy symbol, one hard leather, four bones, one ghostspeak amulet, polished button, one supercompost/compost, best herb seed you have.
 - Complete Animal Magnetism
 * Grab full inventory of buckets of slime, you only need 5 inventory slots for Animal Mag
 * Plant the herb seed on the way to Ectofuntus
