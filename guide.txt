@@ -817,8 +817,8 @@
 - Sell Silk to the Silk merchant for 60 coins, (💬 3•2) [Ardougne Easy Task]
 - Attempt to picklock a certain door east of the gem stall in Ardougne's marketplace [Ardougne Easy Task]
 - Pick pocket any stall [Ardougne Easy Task]
-- Talk to [[Wizard Cromperty]] (💬 2•2•1) [Tribal Totem]
 - Go to the [[Servant's Guild]] talk to [[Chief Servant]] (💬 1) [Ardougne Easy Task]
+- Talk to [[Wizard Cromperty]] (💬 2•2•1) [Tribal Totem]
 - Continue Tribal Totem
 * WARNING: RIGHT CLICK INVESTIGATE STAIRS AFTER OPENING DOOR WITH CODE KURT
 - Complete Tribal Totem
