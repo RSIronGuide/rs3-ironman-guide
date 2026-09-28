@@ -1587,7 +1587,7 @@
 
 # Bank 99
 - Withdraw: three raw sharks, sapphire ring, iron bar, lyre, logs (any kind), cake (should have one if not, [[Ardougne Baker's Stall]] in East Ardougne sells them
-- House teleport, exit house through Relleka
+- House teleport, exit house through Relleka (4)
 - Go west back to the strange altar, use three raw sharks on the altar, you should now have 60 charges in the [[Enchanted Lyre]]
 - Teleport to Relleka with Enchanted Lyre (use the lyre to get around quick for this quest)
 - Complete [[Throne of Miscellania]]
@@ -1598,6 +1598,7 @@
 # Bank 100
 - Equip: Full mystics, wand and orb, salve amulet(e), explorers ring, grimoire (Magic Preset)
 - Withdraw: air runes, earth runes, three prayer potions, 2 water skins(4), excalibur, earmuffs, face mask, rope, catspeak amulet, kitten OR cat, Ghostspeak amulet, plenty of food(I brought 10 desert soles)
-- House teleport, exit to Pollnivneach, Speak to Sumona in Pollnivneach (💬 ✓) (without a cat pet out) Accept Quest
+- House teleport, exit to Pollnivneach (3), Speak to Sumona in Pollnivneach (💬 ✓) (without a cat pet out) Accept Quest
 * Great time to grab daily [[Bag of lost items]] from [[Rug Merchant]]
 - Complete [[Smoking Kills]]
+* Boss fight protect from ranged and eat up
