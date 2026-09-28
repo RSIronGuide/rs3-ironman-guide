@@ -1596,7 +1596,7 @@
 
 # Bank 100
 - Equip: Full rune armour, adamant sword and off hand sword, BIS jewelery
-- Withdraw: antipoison, excalibur, enchanted lyre, little food, 13x free inventory slots needed
+- Withdraw: antipoison, excalibur, enchanted lyre, three food, 13x free inventory slots needed
 * You can collect 5 coal/rope when in the [[Miscellania and Etceteria dungeon]]
 - Play lyre, sail to Miscellania, Speak to Advisor Ghrim in Miscellania. (💬 2•✓)Accept Quest
 - Complete [[Royal Trouble]]
