@@ -1603,7 +1603,7 @@
 * When you go into the [[Etceteria dungeon]] go to [[The Esoterican Arms]] buy 5x cider
 * Keep Giant snake spine [[Fur n' Seek/Wishlist]]
 * After quest drop burnt diary and empty box
-- Deposit 1.3mil into coffer for Kingdom, put max workers on herb
+- Deposit 1.3mil into coffer for Kingdom, put max workers on herb, this will last 7 days before you go below 750k. 
 
 # Bank 101
 - Equip: Full mystics, wand and orb, salve amulet(e), explorers ring, grimoire (Magic Preset)
