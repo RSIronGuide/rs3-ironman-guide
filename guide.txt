@@ -1598,4 +1598,7 @@
 - Withdraw: enchanted lyre, excalibur, antipoison, desert soles
 - Play Lyre, sail to Miscellania, Speak to Advisor Ghrim in Miscellania. (💬 2•✓) Accept Quest
 - Complete [[Royal Trouble]]
+* Mine 5 coal during quest, in the same room you repair everything down in the cave
+* Protect from ranged for the boss fight
+- After quest, deposit 1.3mil into the coffer, max workers on herb
 
