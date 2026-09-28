@@ -1579,7 +1579,7 @@
 - Click blue reward token select sharks, claim raw sharks [The Fremennik Trails]
 - Go to bank, deposit all, withdraw air runes, earth runes, raw shark, 5x flax
 - House teleport, exit house portal to Relleka
-- Talk to Brundt the Chieftain in the longhall in Rellekka. (Chat 3•✓•1) Accept Quest [[The Fremmenik Trails]]
+- Talk to Brundt the Chieftain in the longhall in Rellekka. (💬 3•✓•1) Accept Quest [[The Fremmenik Trails]]
 - Continue Fremm Trails, after you make the golden string and attach it to the lyre, click the spinning wheel again, spin 5 bowstrings [Seers' Easy Task]
 - For the boss fight bring a little food thats it, fight is really easy, no need for additional buffs
 * This is a safe death for HCIM, you must be defeated on the 4th fight (you dont actually die)
@@ -1592,10 +1592,17 @@
 - Teleport to Relleka with Enchanted Lyre (use the lyre to get around quick for this quest)
 - Complete [[Throne of Miscellania]]
 * Gain favour mining coal, get 100% approval rating now
+- Teleport to Bank
+
+# Bank 100
+- Equip: Full rune armour, adamant sword and off hand sword, BIS jewelery
+- Withdraw: antipoison, excalibur, enchanted lyre, food, 8x inventory slots needed
+* You can collect 5 coal when in the [[Miscellania and Etceteria dungeon]]
+- Play lyre, sail to Miscellania, Speak to Advisor Ghrim in Miscellania. (💬 2•✓)
 * Keep Giant snake spine [[Fur n' Seek/Wishlist]]
 * After quest drop burnt diary and empty box
 
-# Bank 100
+# Bank 101
 - Equip: Full mystics, wand and orb, salve amulet(e), explorers ring, grimoire (Magic Preset)
 - Withdraw: air runes, earth runes, three prayer potions, 2 water skins(4), excalibur, earmuffs, face mask, rope, catspeak amulet, kitten OR cat, Ghostspeak amulet, plenty of food(I brought 10 desert soles)
 - House teleport, exit to Pollnivneach (3), Speak to Sumona in Pollnivneach (💬 ✓) (without a cat pet out) Accept Quest
