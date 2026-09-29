@@ -1635,15 +1635,14 @@
 - Bank
 
 # Bank 103
-- Equip: full mystics, wand and orb, BIS jewlery, explorers ring 2
-- Withdraw: Air/Earth runes, ball of wool, gold bar, super antipoison, prayer potion, excalibur, ring of dueling (if you have it), 10 desert soles
+- Equip: full mystics, wand and orb, BIS jewlery
+- Withdraw: Air/Earth runes, ball of wool, gold bar, super antipoison, prayer potion, excalibur, ring of dueling (if you have it), 10 desert soles (grab more during quest if you need to in Al Kharid)
 - Teleport to Al-Kharid, to gnome glider with [[Captain Dalbur]] Ta Quir Priw (1)
 - Speak to King Narnode Shareen in the Grand Tree. He will give you a gnome royal seal. (💬 ✓) Accept Quest
 - Complete [[Monkey Madness 1]]
 * Collect 5 bananas during the quest
 * Kill a monkey and pick up its corpse when you land in Gandius (East Karamja)
 * To solve the puzzle take a screenshot, send it to claudeAI and let it figure it out, tested and completed with claudeAI only. Otherwise pay 200k, or solve it :)
-* Use explorers ring replinish option when running thru the cave
 
 
 
