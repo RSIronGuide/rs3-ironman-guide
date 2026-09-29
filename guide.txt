@@ -1636,6 +1636,7 @@
 
 # Bank 103
 - You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
+- Thaw frozen snow impling in inventory - put it on Summoning
 - If you haven't completed Tears of Guthix do so now. you should get 26 hunter. 
 * If you didn't follow the guide:
 - Hunt Crimson swift in Taverley until level 11.
