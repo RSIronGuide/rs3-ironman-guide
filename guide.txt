@@ -927,13 +927,6 @@
 # Bank 53
 - Deposit all, view all currency click "Distractions and Diversions" tab and right-click memory strands and teleport. If you don't have memory strands use Eagles' Peak teleport and run Northwest
 - Talk to Orla Fairweather and receive an Engram, read the Engram and complete the task.
-- Per wiki
-- Collect 450 Bright energy
-- Collect and charge the Sword of Edicts engram
-- Activate the echo
-* Activating the echo will allow you to collect Memory shards while training Hunter. These can be used to create Sign of the porter IV.
-* 400-800 shards can be obtained per hour, equivalent to 25-50 Sign of the porter IV when weaved (500-1000 porter charges)
-
 
 # Bank 54
 - Withdraw: food
