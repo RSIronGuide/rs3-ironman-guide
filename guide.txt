@@ -1635,14 +1635,16 @@
 * Congratulations! Easy Ardougne Achievements Completed! Talk to [[Doctor Orbon]], who is located in the East Ardougne church, to claim the rewards
 
 # Bank 103
+- Keep training Divination, if you are lvl 25, teleport to Port Sarim, go to [[Voids Knight Outpost]], collect [[Elder Sword]] engram. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at [[Memorial Guthix]]
+- Make [[Boon of bright energy]] when you can. xp boost
 - You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
 - Thaw frozen snow impling in inventory - put it on Summoning
-- Go to bank, withdraw Enchanted Lyre
-- Teleport to Anachronia, Talk to Irwinsson. (Chat 1•✓) Accept quest [[Father and Son]]
+- Go to bank, withdraw [[Enchanted Lyre]]
+- Teleport to Anachronia, Talk to [[Irwinsson]]. (Chat 1•✓) Accept quest [[Father and Son]]
 - Complete [[Father and Son]] use hunter lamp
 - If you haven't completed Tears of Guthix do so now. you should get 27 hunter. 
 * If you didn't follow the guide train huner:
-- Hunt Crimson swift in Taverley until level 11.
-- Hunt Cerulean twitch in Relekka until level 19.
-- Hunt Tropical wagtail north of Oo'glog until level 29.
+- Hunt [[Crimson swift]] in Taverley until level 11.
+- Hunt [[Cerulean twitch]] in Relekka until level 19.
+- Hunt [[Tropical wagtail]] north of Oo'glog until level 29.
 * When you get 27 hunter pause, and complete [[Eagle's Peak]]
