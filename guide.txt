@@ -1123,6 +1123,7 @@
 * Firemaking tips,  keybind your log to 1, press 1, then 1 for tinderbox. If you action is bound to fletching or something else, select "change selected tool" option on the top right corner, and choose tinderbox. Tab shown here - https://imgur.com/a/7xLNUHT
 - Mine gems, preferably with a gem bag but at least mine some for jewelry
 - At 49 firemaking complete [[Tears of Guthix]] (get it done by Tuesday, weeklies reset on Wednesdays 00:00 UTC) try to get hunter to be your lowest level so we can skip early game hunter while we quest. If not, I'll include low level hunter training later
+* When you complete Tears of Guthix, go down thru lumbridge basement and take the shortcut to the south to get there much quicker. Bring fish bait and a weapon to kill a [[Giant Frog]] and catch a [[raw cave eel]] [For Ardougne Task]] Optional
 
 # Bank 70
 - Make sure you have a harralander and marrentill clean. If not grow some. If you didn't get any seeds thieving then go to Druids and thieve
