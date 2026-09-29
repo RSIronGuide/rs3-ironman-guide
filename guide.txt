@@ -971,6 +971,7 @@
 - Make sure to right click Imperial faction (overlay in Menaphos) and set active!
 - Squash the beetles if they appear. Free slayer XP
 - Complete Dead and Buried (wear full necro with ectoplasm, plenty of food, leave 10 inventory slots 14 Acadia frames noted, 6 stone segments noted
+* Use ClaudeAI to solve this puzzle, screenshot it send it, it will solve it (pre QuestHelper)
 - Use prismatic lamp on herblore
 - Complete Buyers and Cellars
 - Complete From Tiny Acorns
