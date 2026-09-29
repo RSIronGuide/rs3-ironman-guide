@@ -1595,6 +1595,7 @@
 - Teleport to Rellekka with Enchanted Lyre (use the lyre to get around quick for this quest)
 - Complete [[Throne of Miscellania]]
 * Gain favour mining coal, get 100% approval rating now
+* New place to gather teak/mahogany next to a bank. If you need it
 - Teleport to Bank
 
 # Bank 100
