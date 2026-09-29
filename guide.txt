@@ -1113,10 +1113,10 @@
 
 # Bank 69
 - Deposit all, withdraw: ring of kingship, train some dungeoneering if you haven't already
-- Solo Dungeoneering Guide here - https://www.youtube.com/watch?v=-Ew4rs50MYs
+- Solo Dungeoneering Guide
 - Obtain 2,000 Dungeoneering tokens by training (now or later)
 - We want to buy a gem bag as our first purchase
-- Do high complexity small floors with a group
+- Do high complexity small floors with a group if you can, I had to solo a lot early game, it is what it is. still fun
 - If you need to AFK:
 - Fish to lvl 52 @ shilo village, cook all the trout and salmon. Get 53 fishing catching Raw desert sole in the [Menaphos fishing spots], activate [Menaphos Port District]. This is much better food
 - Firemaking to 50 (once you run out of wood chop and burn)
