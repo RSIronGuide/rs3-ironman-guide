@@ -333,8 +333,7 @@
 - Bank essence
 - Head East to the Varrock gate, before you leave the gate go south to the tea stall, steal a cup of tea.
 - Leave out the East Varrock Gate
-- Go to the Archaeology Campus, once there, follow the yellow dotted lines and complete the tutorial. 
-- When you end up in Kharid-et Dig Site, uncover [[ancient gravel]], teleport back to Archaeology Campus
+- Go to the Archaeology Campus, once there, follow the yellow dotted lines and complete the tutorial. If you end up in Al Kharid just teleport back
 - Put Archaeology journal in your pocket
 - Go Southeast back behind exam centre, go down the Morytania Dungeon, by Fairy Ring BIP. Pick up Shiny cinnamon directly East. [Benedict's World Tour]
 - Teleport with Archaeology journal
@@ -1112,7 +1111,7 @@
 - During quest Copernicus Glyph is located just south of Yanille castle, Juna Guthix
 
 # Bank 69
-- Deposit all, withdraw: ring of kingship, train some dungeoneering if you haven't already we need 17 minimum. Get at least 20 eventually we can come back later if needed. 
+- Deposit all, withdraw: ring of kingship, train some dungeoneering if you haven't already we need lvl 17 minimum. Get at least lvl 21 before completing 2nd tears of guthix. 
 - Solo Dungeoneering Guide - https://www.youtube.com/watch?v=-Ew4rs50MYs
 - Obtain 2,000 Dungeoneering tokens by training (now or later)
 - We want to buy a gem bag as our first purchase
@@ -1634,3 +1633,11 @@
 - Pick up cat, deposit all at bank chest
 - Enter the [[Castle Wars]] waiting room [Ardougne Easy Task]
 * Congratulations! Easy Ardougne Achievements Completed! Talk to [[Doctor Orbon]], who is located in the East Ardougne church, to claim the rewards
+
+# Bank 103
+- You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
+- If you haven't completed Tears of Guthix do so now. you should get 26 hunter. 
+* If you didn't follow the guide:
+- Hunt Crimson swift in Taverley until level 11.
+- Hunt Cerulean twitch in Relekka until level 19.
+* Hunt Tropical wagtail north of Oo'glog until level 29.
