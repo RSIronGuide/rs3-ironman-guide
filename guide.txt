@@ -925,8 +925,10 @@
 - Grove Cabin (Tier 2)
 
 # Bank 53
-- Deposit all, view all currency click "Distractions and Diversions" tab and right-click memory strands and teleport. If you don't have memory strands use Eagles' Peak teleport and run Northwest
-- Talk to Orla Fairweather and receive an Engram, read the Engram and complete the task.
+- Deposit all, view all currency click "Distractions and Diversions" tab and right-click memory strands and teleport. If you don't have memory strands use Eagles' Peak teleport and run Northwest to [[Memorial Guthix]]
+- Talk to Orla Fairweather and receive an [[Engram]], read the [[Engram]] and complete the task.
+- Twelve different [[engrams]] can be found scattered in various places across Gielinor. Plinths can be used to get a hint about where to find them. When an engram is picked up a Guthixian butterfly will appear; catching the butterfly will grant experience in the player's lowest skill.
+
 
 # Bank 54
 - Withdraw: food
