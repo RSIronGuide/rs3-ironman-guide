@@ -988,7 +988,7 @@
 - Safe spot tough guy/bandit champion
 - Complete Rogue Trader Miniquest, talk to Ali Morrisane again
 - Open small/large runes, buy 150 nature runes, 100 cosmic runes, 100 law runes, 1 soul rune [Legends' Quest]
-- Complete Penguin Hide and Seek if you haven't already -Spend Penguin Points with Larry (or Chuck) at Ardougne Zoo, buy large xp lamp, and huge XP lamp put large xp lamp into hunter (should get 16) put the huge xp lamp into herblore
+- Complete Penguin Hide and Seek if you haven't already -Spend Penguin Points with Larry (or Chuck) at Ardougne Zoo, buy large XP lamp, and huge XP lamp put large XP lamp into hunter (should get 16) put the huge XP lamp into herblore
 
 # Bank 58
 - Train Magic to 33 and ranged to 40 and defence lvl 40 at shattered worlds, use prayers, choose mutators that heal you as much as you can.
@@ -1111,23 +1111,23 @@
 - During quest Copernicus Glyph is located just south of Yanille castle, Juna Guthix
 
 # Bank 69
-- Deposit all, withdraw: ring of kingship, train some dungeoneering if you haven't already we need lvl 17 minimum. Get at least lvl 21 before completing 2nd tears of guthix. 
+- Deposit all, withdraw: ring of kingship, train some dungeoneering if you haven't already we need lvl 17 minimum. Get at least lvl 21 before completing 2nd tears of guthix.
 - Solo Dungeoneering Guide - https://www.youtube.com/watch?v=-Ew4rs50MYs
 - Obtain 2,000 Dungeoneering tokens by training (now or later)
 - We want to buy a gem bag as our first purchase
 - Do high complexity small floors with a group if you can, I had to solo a lot early game, it is what it is. still fun
 - If you need to AFK:
-- Fish to lvl 52 @ shilo village, cook all the trout and salmon. Get 53 fishing catching Raw desert sole in the [Menaphos fishing spots], activate [Menaphos Port District]. This is much better food, we will train fishing here until lvl 68. Great afk activity especially once we get the bank. 
+- Fish to lvl 52 @ shilo village, cook all the trout and salmon. Get 53 fishing catching Raw desert sole in the [Menaphos fishing spots], activate [Menaphos Port District]. This is much better food, we will train fishing here until lvl 68. Great afk activity especially once we get the bank.
 - Firemaking to 50 (once you run out of wood chop and burn)
-* Firemaking tips,  keybind your log to 1, press 1, then 1 for tinderbox. If you action is bound to fletching or something else, select "change selected tool" option on the top right corner, and choose tinderbox. Tab shown here - https://imgur.com/a/7xLNUHT
-- At 49 firemaking complete [[Tears of Guthix]] (get it done by Tuesday, weeklies reset on Wednesdays 00:00 UTC)  get hunter to be your lowest level so we can skip early game hunter while we quest. If not, I'll include low level hunter training later. 
-*After my first tears of guthix with 16 hunter I jumped to 26. And the quest takes 5min. 49 firemaking isnt bad considering we need the levels and we got logs from quest. 
+* Firemaking tips, keybind your log to 1, press 1, then 1 for tinderbox. If you action is bound to fletching or something else, select "change selected tool" option on the top right corner, and choose tinderbox. Tab shown here - https://imgur.com/a/7xLNUHT
+- At 49 firemaking complete [[Tears of Guthix]] (get it done by Tuesday, weeklies reset on Wednesdays 00:00 UTC) get hunter to be your lowest level so we can skip early game hunter while we quest. If not, I'll include low level hunter training later.
+* After my first tears of guthix with 16 hunter I jumped to 26. And the quest takes 5min. 49 firemaking isn't bad considering we need the levels and we got logs from quest.
 - Mine gems, preferably with a gem bag but at least mine some for jewelry
-- Collect all 12 engrams, turn them into Memorial Guthix. this will take awhile. Just to it here and there. 
+- Collect all 12 engrams, turn them into Memorial Guthix. this will take awhile. Just to it here and there.
 
 # Bank 70
 - Make sure you have a harralander and marrentill clean. If not grow some. If you didn't get any seeds thieving then go to Druids and thieve
-- Withdraw: air runes(if you need more buy more, i have 79 air runes to start it was enough), willow log (chop one in lumbridge), super antipoison, tinderbox, 3 waterskins, bucket of sap, one bag of salt, cat/kitten, plenty of food 
+- Withdraw: air runes(if you need more buy more, i have 79 air runes to start it was enough), willow log (chop one in lumbridge), super antipoison, tinderbox, 3 waterskins, bucket of sap, one bag of salt, cat/kitten, plenty of food
 - Complete [[Icthlarin's Little Helper]] [Use house portal to Pollnivneach]
 - After quest, Obtain five artefacts from Pyramid Plunder [Desert Easy Task]
 - Teleport to Karamja, take Cart to Shilo village
@@ -1637,16 +1637,16 @@
 * Congratulations! Easy Ardougne Achievements Completed! Talk to [[Doctor Orbon]], who is located in the East Ardougne church, to claim the rewards
 
 # Bank 103
-- Keep training Divination, if you are lvl 25, teleport to Port Sarim, go to [[Voids Knight Outpost]], collect [[Elder Sword]] engram. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at [[Memorial Guthix]]
-- Make [[Boon of bright energy]] when you can. xp boost
+- Keep training Divination, if you are lvl 25, teleport to Port Sarim, go to [[Void Knights' Outpost]], collect [[Elder Sword engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix
+- Make [[Boon of bright energy]] when you can. XP boost
 - You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
 - Thaw frozen snow impling in inventory - put it on Summoning
 - Go to bank, withdraw [[Enchanted Lyre]]
-- Teleport to Anachronia, Talk to [[Irwinsson]]. (Chat 1•✓) Accept quest [[Father and Son]]
+- Teleport to Anachronia, Talk to [[Irwinsson]]. (💬 1•✓) Accept quest [[Father and Son]]
 - Complete [[Father and Son]] use hunter lamp
-- If you haven't completed Tears of Guthix do so now. you should get 27 hunter. 
-* If you didn't follow the guide train huner:
+- If you haven't completed Tears of Guthix do so now. you should get 27 hunter.
+* If you didn't follow the guide train hunter:
 - Hunt [[Crimson swift]] in Taverley until level 11.
 - Hunt [[Cerulean twitch]] in Relekka until level 19.
 - Hunt [[Tropical wagtail]] north of Oo'glog until level 29.
-* When you get 27 hunter pause, and complete [[Eagle's Peak]]
+* When you get 27 hunter pause, and complete [[Eagles' Peak]]
