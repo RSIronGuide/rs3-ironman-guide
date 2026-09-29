@@ -1112,7 +1112,7 @@
 - During quest Copernicus Glyph is located just south of Yanille castle, Juna Guthix
 
 # Bank 69
-- Deposit all, withdraw: ring of kingship, train some dungeoneering if you haven't already
+- Deposit all, withdraw: ring of kingship, train some dungeoneering if you haven't already we need 17+ to stay above hunter
 - Solo Dungeoneering Guide
 - Obtain 2,000 Dungeoneering tokens by training (now or later)
 - We want to buy a gem bag as our first purchase
@@ -1122,7 +1122,8 @@
 - Firemaking to 50 (once you run out of wood chop and burn)
 * Firemaking tips,  keybind your log to 1, press 1, then 1 for tinderbox. If you action is bound to fletching or something else, select "change selected tool" option on the top right corner, and choose tinderbox. Tab shown here - https://imgur.com/a/7xLNUHT
 - Mine gems, preferably with a gem bag but at least mine some for jewelry
-- At 49 firemaking complete [[Tears of Guthix]] (get it done by Tuesday, weeklies reset on Wednesdays 00:00 UTC) try to get hunter to be your lowest level so we can skip early game hunter while we quest. If not, I'll include low level hunter training later
+- At 49 firemaking complete [[Tears of Guthix]] (get it done by Tuesday, weeklies reset on Wednesdays 00:00 UTC)  get hunter to be your lowest level so we can skip early game hunter while we quest. If not, I'll include low level hunter training later. 
+*After my first tears of guthix with 16 hunter I jumped to 26. And the quest takes 5min. 49 firemaking isnt bad considering we need the levels and we got logs from quest. 
 
 # Bank 70
 - Make sure you have a harralander and marrentill clean. If not grow some. If you didn't get any seeds thieving then go to Druids and thieve
