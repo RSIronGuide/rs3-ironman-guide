@@ -634,8 +634,7 @@
 - Go pull wilderness lever to send you to Ardougne
 - Activate Ardougne Lodestone
 - Complete Player Owned Farm Tutorial, talk to Granny Potterington, follow yellow dotted lines
-- You can now start your own farm, you should do this as much as possible. Use woad leaves to make them food. refer to Animal Disease Table on wiki to cure diseases.
-* When you are working in POF make sure to keep up on herbs runs as well.
+- You can now start your own farm, do not start breeding animals until 35 farming. We will make medicinal honeycomb to cure diseases.
 - Have Wizard Cromperty Teleport you to Essence Mine [Enter The Abyss][Ardougne Easy Task]
 - Walk into downtown Ardougne market, cutscene [Bringing Home The Bacon]
 - Go to Captain Barnaby and travel to Karamja [Easy Ardougne Task]
