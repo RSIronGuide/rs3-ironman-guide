@@ -379,7 +379,7 @@
 - Make one bronze med helm [Mourning's End Pt 2]
 - Smith bronze nails 1x [The Fremennik Isles]
 - Smith bronze arrowheads 1x
-- [Note: If you still aren't 10 smithing, just mine a few more tin and copper, keep making bronze arrowheads for fletching] we need bronze bars for quest, summoning training
+- [Note: If you still aren't 10 smithing, just mine a few more tin and copper, keep making bronze arrowheads for fletching] ==g:we need bronze bars for quest==
 - Make two iron bars, make iron ore box at anvil
 - Mine full inventory of iron ore, fill ore box, at lvl 20 mining add steel pickaxe to toolbelt, keep iron pickaxe
 * We need 20 mining and 20 smithing before moving on
@@ -410,7 +410,7 @@
 - Continue, Heart Stealer, talk to Caelyn, (💬 1), Paper and Crayons will go into inventory
 - Climb down the ladder and go west, fill water bucket with water, Complete Perils of Ice Mountain, Quest Completed use lamp
 - Teleport back to Edgeville, go south, mine 20 coal.
-- Teleport to Burthorpe make 12 steel bars (Lumbridge Easy Task), withdraw, ==ALL bronze bars (upcoming quest), ALL iron bars, all steel bars==. Deposit everything into bank.
+- Teleport to Burthorpe make 12 steel bars (Lumbridge Easy Task), withdraw, ALL bronze bars (upcoming quest), ALL iron bars, all steel bars, Deposit everything into bank.
 * Complete one Runesphere every day. I can't stress this enough. After two Runespheres im 44RC, its OP. When a runesphere shows up Talk to a wizard within Runespan and ask for the location, it will tell you above, middle, or on the low level. We can only do the lower level. Middle lvl access 33 Runecrafting, you'll need a higher RC just to reach the runesphere sometimes. Just train
 * The Achievement Help Discord server has a role for it. If you sign up for that role in the #role- sign-up channel, you'll get a notification when someone calls out a runesphere in the #call-outs channel.
 * Then have a ton of such roles, which can be super handy if you want to be notified about various randomly occurring events, spawns, group activities, etc.
