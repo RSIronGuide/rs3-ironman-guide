@@ -930,11 +930,6 @@
 - Talk to Orla Fairweather and receive an [[Engram]], read the [[Engram]] and complete the task.
 - Twelve different [[engrams]] can be found scattered in various places across Gielinor. Plinths can be used to get a hint about where to find them. When an engram is picked up a Guthixian butterfly will appear; catching the butterfly will grant experience in the player's lowest skill.
 * Source: RuneScape Wiki - https://runescape.wiki/w/Engram
-
-
-# Bank 54
-- Withdraw: food
-- Teleport to Karamja Lodestone, do Brimhaven agility until 3 tokens, buy two toadflax [Tai Bwo Wannai Trio] 1 agility token [Mourning's End Pt 2]
 - Teleport to Catherby, if you haven't collected supercompost do so now. Herb run
 - Buy buckets from Arhein, buy pots as well. At least 10
 
@@ -1138,8 +1133,7 @@
 - Teleport to Port Sarim, Speak to Brian in Port Sarim (Axe shop north-east of the lodestone). Make sure he takes the blunt hatchet before you leave. (💬 3•2•4)
 - Teleport to Lumbridge
 - Bait fishing spot, catch a pike east of lumbridge castle [Lumbridge Easy Task]
-- Congratulations! Lumbridge Easy Area Task Completed, go to Bob the axe seller to claim reward, reward lamp into prayer we want 35 prayer for quest
-* [[Explorer's ring]]: 30 free Low Alchemy casts and 2 run energy restores. They don't carry over
+- Lumbridge Easy Area Task Completed, go to Bob the axe seller to claim reward, reward lamp into prayer we want 35 prayer for quest
 - Complete [[Another Cook's Quest]]
 - Start [[Recipe for Disaster]] Quest
 
@@ -1697,3 +1691,34 @@
 * Drop Metal feather, bird book, fake beak, and eagle cape
 - After quest, go West, talk to [[Larry]] but one large/small xp lamp, put into Summoning (lvl 30 Summoning)
 * If you don't have the Penguin Points go collect them. If you can't complete this just do this when penguin resets.
+
+
+# Daily Run Friendly Reminder
+* Dailies reset at 00:00 UTC
+- Complete a [[Runesphere]] in the Runespan. One spawns about every 3 hours and lasts about an hour. You can hand in up to 1,000 rune dust per day (25,000 Runecrafting XP)
+* Runesphere call-outs on the Achievement Help Discord: https://discord.gg/ahelp
+- Complete [[Nemi Forest]]. Community tab → Liberation of Mazcab → join queue, run west to the entrance.
+* Daily solves: https://www.reddit.com/r/NemiForest/
+- Claim a [[Bag of lost items]] from any [[Rug Merchant]] 
+* Quickest: house portal → Pollnivneach
+- [[Player-owned farm]] refill the beehives with woad leaves, bank the medicinal honeycombs
+- Use your [[Explorer's ring]] 2 charges: 30 free Low Alchemy casts and 2 run energy restores. They don't carry over
+- Every few days: check the Water Filtration System at Het's Oasis and your rested XP at the Fort Forinthry Town Hall
+* Optional: Daily Challenges, Sinkholes
+
+# Weekly Run
+* Weeklies reset Wednesday 00:00 UTC. Free-item NPCs fill up over 7 days, so one visit a week gets the full amount. If they say come back later, log out and back in
+- Collect 210 flax from [[Geoffrey]] in the flax field south of Seers' Village (Seer's headband 1)
+- Collect 140 noted pineapples from [[Dell Monti]] in Brimhaven, by the house portal north of the Karamja lodestone (Karamja gloves 1)
+- Collect 55 raw bacon from [[Eli]] (Bringing Home the Bacon)
+- [[Tears of Guthix]] (tears go to your lowest skill)
+- [[Penguin Hide and Seek]]
+- [[Herby Werby]]
+- [[Familiarisation]]
+- [[Balthazar Beauregard's Big Top Bonanza|Circus]]
+- [[Agoroth]] x2
+- Top up the [[Managing Miscellania|Miscellania]] coffer
+
+# Monthly
+- [[Troll Invasion]]
+- Giant Oyster with Wizard Myrtle (Beneath Cursed Tides)
