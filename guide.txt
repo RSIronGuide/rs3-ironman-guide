@@ -1391,7 +1391,7 @@
 - WARNING, before crossing the bridge unequip green dhide armour and drop at the front door. Make sure weight is 0 or below. You should only wear Pendant of Lucien, maple shortbow, and boots of lightness
 * If you haven't started the Familiarisation mini game, do it when it's available. Talk to Pikkupstix and find location. Once in the Spirit plane, players need to gather as many piles of raw shards as possible while avoiding certain other familiars. An obelisk will only remain active for 20 minutes after which it will become inactive. A new obelisk becomes active every two hours.]
 * To check for minigame availability click "Adventures" tab, click "mini games" tab and scroll through the minigames.
-* For Familiarisation minigame also choose "charm drop enhancer"
+* For Familiarisation minigame also choose "Summoning Ingredients"
 
 # Bank 85
 - Equip: full adamant armour, adamant sword, anti-dragon shield, desert amulet, Explorer's ring, grimoire
