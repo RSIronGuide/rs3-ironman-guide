@@ -1774,6 +1774,7 @@
 * You can set 2 traps at 29 Hunter and 3 at 30
 - Teleport to Seers' Village Lodestone, talk to [[Phantuwti Fanstuwi Farsight]] south-east of the lodestone in building (💬 4•5•1) [One Small Favour]
 - Teleport to Ardougne Lodestone, pickpocket the [[Master Farmer]] near you [Ardougne Medium Task]
+- Enter the [[Windmill]], trade with Richard, buy two spades
 - Go to the [[Goblin Cave]] North
 * The cave isn't always on the minimap. It's just outside the fence opposite the Fishing Guild, near the windmill
 - Enter the cave, head north then east to [[Petra Fiyed]] trapped in rock, search the sculpture [One Small Favour]
