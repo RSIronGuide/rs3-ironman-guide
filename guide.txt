@@ -1777,7 +1777,8 @@
 - Go to the [[Goblin Cave]] North
 * The cave isn't always on the minimap. It's just outside the fence opposite the Fishing Guild, near the windmill
 - Enter the cave, head north then east to [[Petra Fiyed]] trapped in rock, search the sculpture [One Small Favour]
-- Teleport to Ardougne, Talk to [[Wizard Cromperty]] north-east of the Ardougne market (💬 4•2) [One Small Favour]
+- Teleport to [[Ardougne]], East of the [[gem merchant]], lockpick the door, go upstairs and picklock a [[secure chest]] [Ardougne Medium Task]
+- Talk to [[Wizard Cromperty]] North (💬 4•2) [One Small Favour]
 - Teleport to Port Sarim, charter to [[Port Khazard]], talk to [[Tindel Marchant]] on the south pier (💬 2•1) [One Small Favour]
 - Pause One Small Favour here. The next step is [[Rantz]] in the Feldip Hills, who also starts Big Chompy Bird Hunting, so we'll do it all in one trip later
 - Teleport to Canifis Lodestone
