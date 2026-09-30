@@ -1,14 +1,15 @@
 # Setup
 - Make Female Character (required to complete Recruitment Drive, you can change after, quest happens pretty soon in guide)
 - Finish Tutorial Island
-- You can right click the World Map and adjust the skybox/filter settings to your liking
-- Press Escape, search "shift" make sure Shift-click to drop items is checked mark ON
-- In the settings tab search "notifications", uncheck everything in "Broadcast - Global/Broadcasts - World" [So your chatbox doesn't spam]
-- IF Hardcore ironman be careful going afk while in starter areas, highwaymen will kill you
-- Keep up on Repeatable Events
-- Runespheres, Nemi Forest, Herby Werby, Troll Invasion, Memorial Guthix, Circus, Penguin Hide and Seek, Familiarisation, Evil tree are all a MUST early game. They will expedite your XP gains tremendously. If you aren't familiar with these mini games learn them.
-- The beginning of this guide is F2P until a certain point. Without members you won't see certain items in the shops FYI. I would advise members, but it's not necessary for the beginning.
-- The Circus has 13 spawn locations. Depending on spawn location will dictate if you can reach it. If it has a close spawn go to it when we quest or you can run to it now to unlock Surge. For those of us who don't have a close spawn we will finish Death Plateau soon and unlock surge that way.
+* https://thersguide.com/ great site to use for progression
+* You can right click the World Map and adjust the skybox/filter settings to your liking
+* Press Escape, search "shift" make sure Shift-click to drop items is checked mark ON
+* In the settings tab search "notifications", uncheck everything in "Broadcast - Global/Broadcasts - World" [So your chatbox doesn't spam]
+* IF Hardcore ironman be careful going afk while in starter areas, highwaymen will kill you
+* Keep up on Repeatable Events
+* Runespheres, Nemi Forest, Herby Werby, Troll Invasion, Memorial Guthix, Circus, Penguin Hide and Seek, Familiarisation, Evil tree are all a MUST early game. They will expedite your XP gains tremendously. If you aren't familiar with these mini games learn them.
+* The beginning of this guide is F2P until a certain point. Without members you won't see certain items in the shops FYI. I would advise members, but it's not necessary for the beginning.
+* The Circus has 13 spawn locations. Depending on spawn location will dictate if you can reach it. If it has a close spawn go to it when we quest or you can run to it now to unlock Surge. For those of us who don't have a close spawn we will finish Death Plateau soon and unlock surge that way.
 
 # First steps
 - Speak with Doomsayer about Warning System, complete dialogue [Lumbridge Beginner Task]
@@ -1314,9 +1315,8 @@
 - Find Hammerspike Stoutbeard on the far west side ("Hammerspike's hangout" on the map). Ask him about Tassie Slipcast. (💬 4•2) [One Small Favour]
 - Congratulations! 150 Quest Points completed, you can claim your reward anytime.
 - Go to bank deposit all, unequip all
-* HCIM once you hit 1k total lvl buy a [[divine coin]] from [[Mr Ex]] for 100k. 
-* The life is added straight away, there is no item. Check it in Items Kept on Death → Death information
-* A second divine coin unlocks at 1,600 total level for 10M coins
+* HCIM once you hit 1k total lvl buy an extra life from [[Mr. Ex]] for 100k. You can buy a third life at 1600 for 10mil later. 
+
 
 # Bank 80
 - Equip: Desert Robes, Archaeology journal, Traveller's necklace
@@ -1644,11 +1644,9 @@
 * Collect 5 bananas during the quest
 * Kill a monkey and pick up its corpse when you land in Gandius (East Karamja)
 * To solve the puzzle take a screenshot, send it to claudeAI and let it figure it out, tested and completed with claudeAI only. Otherwise pay 200k, or solve it :)
-* Monkey archers on Ape Atoll use poisoned arrows and the prison guards hit you if you get close, keep antipoison up. HCIM
-* Ape Atoll Dungeon: pray Protect from Melee, bring antipoison and use explorers ring 2. HCIM
-- After the quest, speak to Daero (💬1•2) Focus Attack/Defence 35,000 each, 20,000 each into the others
+* Use explorers ring replinish option when running thru the cave
+- After the quest, speak to Daero (💬1•2) Focus Attack and Defence
 - drop 10th squad sigil, Gnome royal seal
-* You can now purchase a dragon scimitar, use the Ape Atoll Agility Course and make monkey greegrees
 
 # Bank 104
 - Keep training Divination, if you are lvl 25, teleport to Port Sarim, go to [[Void Knights' Outpost]], collect [[Elder Sword engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix
@@ -1659,6 +1657,7 @@
 - Teleport to Anachronia, Talk to [[Irwinsson]]. (💬 1•✓) Accept quest [[Father and Son]]
 - Complete [[Father and Son]] use hunter lamp
 - If you haven't completed Tears of Guthix do so now. you should get 27 hunter.
+
 * If you didn't follow the guide train hunter:
 - Hunt [[Crimson swift]] in Taverley until level 11.
 - Hunt [[Cerulean twitch]] in Relekka until level 19.
