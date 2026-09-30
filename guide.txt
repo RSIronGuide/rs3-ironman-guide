@@ -1701,7 +1701,6 @@
 * You can now start [[cultivating bush]] to collect flowers for hunting [[Whirligig]]. Water filtration system also gives items to fill the flower basket.
 - Grab all of your strange rocks you have collected need two of each. Teleport to Varrock, go to Varrock Museum talk to [[Barnabus Hurma]] working on the South table (💬 1)
 
-
 # Daily Run Friendly Reminder
 * Dailies reset at 00:00 UTC
 - Complete a [[Runesphere]] in the Runespan. One spawns about every 3 hours and lasts about an hour. You can hand in up to 1,000 rune dust per day (25,000 Runecrafting XP)
