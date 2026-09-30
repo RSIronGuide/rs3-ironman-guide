@@ -1767,7 +1767,7 @@
 * End here so you can do your Player-owned farm daily without rushing
 
 # Bank 108
-- Withdraw: teleport runes, decapitated head, silver bar, 3 bronze wire, needle, 5 thread, ghostspeak amulet(equipped), 7 free inventory slots
+- Withdraw: teleport runes, decapitated head, silver bar, 3 bronze wire, needle, 5 thread, ghostspeak amulet(equipped), wilderness 1(quick teleport to bank), 7 free inventory slots
 - Teleport to Catherby Lodestone, talk to [[Arhein]] on the docks, south of the lodestone (💬 3•1) [One Small Favour]
 - Buy seaweed and pineapples from Arhein
 - Buy 3 small fishing nets from Harry's Fishing Shop (net traps for green salamanders to 32 Hunter)
@@ -1786,5 +1786,9 @@
 * When you kill the experiment the [[cavern key]] is really hard to see on the ground 
 * The Experiment you kill in the cave under the castle counts for [Morytania Easy Task]
 * Reward: Ring of Charos
-- Play a game of Werewolf Skullball, wear the Ring of Charos to get in [Morytania Easy Task]
-- Kill anything on the ground floor of the Slayer Tower [Morytania Easy Task]
+* After quest is completed, drop extended brush, conductor mould, and cavern key
+- Teleport to Lumbridge, bank
+
+# Bank 109
+- Withdraw: 3 rope, 3 small fishing nets
+- Teleport to Canifis Lodestone
