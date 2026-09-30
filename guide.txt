@@ -1727,3 +1727,19 @@
 # Monthly
 - [[Troll Invasion]]
 - Giant Oyster with Wizard Myrtle (Beneath Cursed Tides)
+
+# Herb Run
+* Herbs take about 80 minutes to grow. Do a run whenever you're between tasks
+* Irits are the best to grow early as we can buy eye of newts to make them. 
+* Keep buying herblore daily supplies from [[Jatix's Herblore Shop]]
+- Withdraw: Teleport runes, 6 herb seeds, 6 supercompost(store at leprechaun), Wilderness sword 1, ring of duelling
+* Use your grimy herbs on the tool leprechaun at each patch to note them
+- Operate Wilderness sword 1, teleport to the Wilderness herb patch (level 38 Wilderness)
+* This is the only patch that can grow bloodweed (57 Farming)
+- Rub the ring of duelling, teleport to Het's Oasis, farm the [[Garden of Kharid]] herb patch (Nhitpyx is the tool leprechaun)
+- Teleport to Draynor Village Lodestone, run south to the Falador herb patch
+- Teleport to Marigold Farm, run south-east to the [[Marigold Farm]] herb patch
+- Teleport to Catherby Lodestone, run north to the Catherby herb patch
+- Teleport to Ardougne Lodestone, run north-east to [[Manor Farm]], the herb patch is on the north side
+* End here so you can do your Player-owned farm daily without rushing
+
