@@ -1803,5 +1803,5 @@
 * Optional, grab extra dragon bones, with bucket of slime. I brought 5 dragon bones + 5 Buckets of slime. Free prayer xp
 * If you need dye, pause, go to Aggie and make some. Get onions in Wendlewick at [The Village Grocery], you should be buying redberries in Taverley. Should have woad leaves. 
 - Fill bowl of water at well
-- Teleport to [Port Sarim Lodestone], [charter ship] to [Port Phasmatys]
+- Teleport to [Port Sarim Lodestone], [charter ship] to [Port Phasmatys] [Morytania Medium Task]
 - Complete [Ghosts Ahoy]
