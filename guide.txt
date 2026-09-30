@@ -1696,8 +1696,10 @@
 * Drop Metal feather, bird book, fake beak, and eagle cape
 - After quest, go West, talk to [[Larry]], buy one large/small XP lamp, put into Summoning (lvl 30 Summoning)
 * If you don't have the Penguin Points go collect them. If you can't complete this just do this when penguin resets.
+- Go to Karamja, talk to [[Pirate Jackie the Fruit]] at the Brimhaven Agility Arena. Claim rewards, use lamp on Summoning
 - Bank, withdraw 20 teak planks 40 steel nails repair, arch journal, ring of dueling, teleport to Het's Oasis. Build the two baskets on the Northwest side first, teleport to Arch Campus, go to Kharid-et digsite run to the other flower baskets southeast and repair.
 * You can now start [[cultivating bush]] to collect flowers for hunting [[Whirligig]]. Water filtration system also gives items to fill the flower basket.
+- Grab all of your strange rocks you have collected need two of each. Teleport to Varrock, go to Varrock Museum talk to [[Barnabus Hurma]] working on the South table (💬 1)
 
 
 # Daily Run Friendly Reminder
@@ -1735,7 +1737,7 @@
 * When a tree is grown: check health for the XP, have the gardener clear it (or chop it and dig up the stump), then plant a new sapling
 * Grow saplings ahead of time: put a seed in a filled plant pot and water it
 
-- Teleport to Lumbridge, tree patch west of the castle (Fayeth)
+- Teleport to Lumbridge, tree patch north-west of the castle (Fayeth)
 - Teleport to Falador, tree patch in Falador Park (Heskel)
 - Teleport to Taverley Lodestone, tree patch by Head Farmer Jones (Alain)
 - Teleport to Varrock, tree patch in the Varrock Palace courtyard (Treznor)
