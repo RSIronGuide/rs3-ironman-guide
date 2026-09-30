@@ -1,15 +1,14 @@
 # Setup
 - Make Female Character (required to complete Recruitment Drive, you can change after, quest happens pretty soon in guide)
 - Finish Tutorial Island
-* https://thersguide.com/ great site to use for progression
-* You can right click the World Map and adjust the skybox/filter settings to your liking
-* Press Escape, search "shift" make sure Shift-click to drop items is checked mark ON
-* In the settings tab search "notifications", uncheck everything in "Broadcast - Global/Broadcasts - World" [So your chatbox doesn't spam]
-* IF Hardcore ironman be careful going afk while in starter areas, highwaymen will kill you
-* Keep up on Repeatable Events
-* Runespheres, Nemi Forest, Herby Werby, Troll Invasion, Memorial Guthix, Circus, Penguin Hide and Seek, Familiarisation, Evil tree are all a MUST early game. They will expedite your XP gains tremendously. If you aren't familiar with these mini games learn them.
-* The beginning of this guide is F2P until a certain point. Without members you won't see certain items in the shops FYI. I would advise members, but it's not necessary for the beginning.
-* The Circus has 13 spawn locations. Depending on spawn location will dictate if you can reach it. If it has a close spawn go to it when we quest or you can run to it now to unlock Surge. For those of us who don't have a close spawn we will finish Death Plateau soon and unlock surge that way.
+- You can right click the World Map and adjust the skybox/filter settings to your liking
+- Press Escape, search "shift" make sure Shift-click to drop items is checked mark ON
+- In the settings tab search "notifications", uncheck everything in "Broadcast - Global/Broadcasts - World" [So your chatbox doesn't spam]
+- IF Hardcore ironman be careful going afk while in starter areas, highwaymen will kill you
+- Keep up on Repeatable Events
+- Runespheres, Nemi Forest, Herby Werby, Troll Invasion, Memorial Guthix, Circus, Penguin Hide and Seek, Familiarisation, Evil tree are all a MUST early game. They will expedite your XP gains tremendously. If you aren't familiar with these mini games learn them.
+- The beginning of this guide is F2P until a certain point. Without members you won't see certain items in the shops FYI. I would advise members, but it's not necessary for the beginning.
+- The Circus has 13 spawn locations. Depending on spawn location will dictate if you can reach it. If it has a close spawn go to it when we quest or you can run to it now to unlock Surge. For those of us who don't have a close spawn we will finish Death Plateau soon and unlock surge that way.
 
 # First steps
 - Speak with Doomsayer about Warning System, complete dialogue [Lumbridge Beginner Task]
@@ -1515,7 +1514,7 @@
 - I would grab at least two of the following in case it gets burnt:
 - We need one cooked tuna, one cooked bass, one cooked swordfish, cooked shrimp/salmon we should have in bank [[Family Crest]]
 - We need 1 raw tuna, you will harpoon for this [[The Fremennik Isles]]
-- We need 1 raw cod [[Recipe for Disaster: Freeing Pirate Pete|RFD: Freeing Pirate Pete]]
+- We need 2 raw cod [[RFD: Freeing Pirate Pete]] [[Cold War]]
 * I would catch a few of each in case we burn one
 - Teleport to Edgeville and cook two bass [Seers' Medium Task] (if you aren't 43 cooking yet come back to this step after you fly fish to 53 and cook all the trout and salmon you get)
 - Cook one tuna
@@ -1657,7 +1656,6 @@
 - Teleport to Anachronia, Talk to [[Irwinsson]]. (💬 1•✓) Accept quest [[Father and Son]]
 - Complete [[Father and Son]] use hunter lamp
 - If you haven't completed Tears of Guthix do so now. you should get 27 hunter.
-
 * If you didn't follow the guide train hunter:
 - Hunt [[Crimson swift]] in Taverley until level 11.
 - Hunt [[Cerulean twitch]] in Relekka until level 19.
