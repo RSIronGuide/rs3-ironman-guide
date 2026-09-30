@@ -1314,8 +1314,9 @@
 - Find Hammerspike Stoutbeard on the far west side ("Hammerspike's hangout" on the map). Ask him about Tassie Slipcast. (💬 4•2) [One Small Favour]
 - Congratulations! 150 Quest Points completed, you can claim your reward anytime.
 - Go to bank deposit all, unequip all
-* HCIM once you hit 1k total lvl buy an extra life from [[Mr. Ex]] for 100k. You can buy a third life at 1600 for 10mil later. 
-
+* HCIM once you hit 1k total lvl buy a [[divine coin]] from [[Mr Ex]] for 100k. 
+* The life is added straight away, there is no item. Check it in Items Kept on Death → Death information
+* A second divine coin unlocks at 1,600 total level for 10M coins
 
 # Bank 80
 - Equip: Desert Robes, Archaeology journal, Traveller's necklace
@@ -1643,9 +1644,11 @@
 * Collect 5 bananas during the quest
 * Kill a monkey and pick up its corpse when you land in Gandius (East Karamja)
 * To solve the puzzle take a screenshot, send it to claudeAI and let it figure it out, tested and completed with claudeAI only. Otherwise pay 200k, or solve it :)
-* Use explorers ring replinish option when running thru the cave
-- After the quest, speak to Daero (💬1•2) Focus Attack and Defence
+* Monkey archers on Ape Atoll use poisoned arrows and the prison guards hit you if you get close, keep antipoison up. HCIM
+* Ape Atoll Dungeon: pray Protect from Melee, bring antipoison and use explorers ring 2. HCIM
+- After the quest, speak to Daero (💬1•2) Focus Attack/Defence 35,000 each, 20,000 each into the others
 - drop 10th squad sigil, Gnome royal seal
+* You can now purchase a dragon scimitar, use the Ape Atoll Agility Course and make monkey greegrees
 
 # Bank 104
 - Keep training Divination, if you are lvl 25, teleport to Port Sarim, go to [[Void Knights' Outpost]], collect [[Elder Sword engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix
