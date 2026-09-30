@@ -1770,7 +1770,7 @@
 - Withdraw: teleport runes, decapitated head, silver bar, 3 bronze wire, needle, 5 thread, ghostspeak amulet(equipped), wilderness 1(quick teleport to bank), 7 free inventory slots
 - Teleport to Catherby Lodestone, talk to [[Arhein]] on the docks, south of the lodestone (💬 3•1) [One Small Favour]
 - Buy seaweed and pineapples from Arhein
-- Buy 3 small fishing nets from Harry's Fishing Shop, buy one fishing rod [Mourning's End Pt 2]
+- Buy 3 small fishing nets, one fishing rod from Harry's Fishing Shop 
 * You can set 2 traps at 29 Hunter and 3 at 30
 - Teleport to Seers' Village Lodestone, talk to [[Phantuwti Fanstuwi Farsight]] south-east of the lodestone in building (💬 4•5•1) [One Small Favour]
 - Teleport to Ardougne Lodestone, pickpocket the [[Master Farmer]] near you [Ardougne Medium Task]
