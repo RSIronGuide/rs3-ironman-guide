@@ -1607,7 +1607,7 @@
 * When you go into the [[Miscellania and Etceteria dungeon|Etceteria dungeon]] go to [[The Esoterican Arms]] buy 5x cider
 * Keep Giant snake spine [[Fur 'n Seek/Wish list|Fur 'n Seek Wish list]]
 * After quest drop burnt diary and empty box
-- Deposit 1.3mil into coffer for Kingdom, put max workers on herb, add the remaining workers to mahoganys (for the fort), this will last 7 days before you go below 750k.
+- Deposit 1.3mil into coffer for Kingdom, put max workers on herb, add the remaining workers to mahogany (for the fort), this will last 7 days before you go below 750k.
 - Teleport to Seers' Village Lodestone, go to [[Forester's Arms]] give five locals a glass of cider [Seers' Easy Task]
 - Buy a few beers from the bartender
 - Congratulations! [[Easy Seers' Village Achievements]] completed! Talk to any [[Seer]] in Seers' Village to claim the rewards, use antique lamp on herblore, claim 210 free flax every week from [[Geoffrey]]
@@ -1700,7 +1700,7 @@
 - Bank, withdraw 20 teak planks 40 steel nails repair, arch journal, ring of dueling, Dagon'hai history book, teleport to Het's Oasis. Build the two baskets on the Northwest side first, teleport to Arch Campus, go to Kharid-et digsite run to the other flower baskets southeast and repair.
 * You can now start [[cultivating bush]] to collect flowers for hunting [[Whirligig]]. Water filtration system also gives items to fill the flower basket.
 - Grab all of your strange rocks you have collected need two of each. Teleport to Varrock, go to Varrock Museum talk to [[Barnabus Hurma]] working on the South table (💬 1)
-- Go upstairs and turn in information to [[Historian Mina]]
+- Go upstairs and turn in information to [[Historian Minas]]
 
 
 # Daily Run Friendly Reminder
@@ -1743,7 +1743,7 @@
 - Teleport to Falador, tree patch in Falador Park (Heskel)
 - Teleport to Taverley Lodestone, tree patch by Head Farmer Jones (Alain)
 - Teleport to Varrock, tree patch in the Varrock Palace courtyard (Treznor)
-- Teleport to Grandexchange, travel to the Tree Gnome Stronghold
+- Teleport to Grand Exchange, travel to the Tree Gnome Stronghold
 - Tree Gnome Stronghold: tree patch (Prissy Scilla) and fruit tree patch (Bolongo)
 - Spirit tree to Tree Gnome Village, run west to the fruit tree patch (Gileth)
 - Teleport to Karamja Lodestone, run north through Brimhaven to the fruit tree patch (Garth)
@@ -1753,7 +1753,7 @@
 
 # Herb Run
 * Herbs take about 80 minutes to grow. Do a run whenever you're between tasks
-* Irits are the best to grow early as we can buy eye of newts to make them. 
+* Irits are the best to grow early as we can buy eye of newts to make them.
 * Keep buying herblore daily supplies from [[Jatix's Herblore Shop]]
 - Withdraw: Teleport runes, 6 herb seeds, 6 supercompost(store at leprechaun), Wilderness sword 1, ring of duelling
 * Use your grimy herbs on the tool leprechaun at each patch to note them
@@ -1770,7 +1770,7 @@
 - Withdraw: teleport runes, decapitated head, silver bar, 3 bronze wire, needle, 5 thread, ghostspeak amulet(equipped), wilderness 1(quick teleport to bank), 7 free inventory slots
 - Teleport to Catherby Lodestone, talk to [[Arhein]] on the docks, south of the lodestone (💬 3•1) [One Small Favour]
 - Buy seaweed and pineapples from Arhein
-- Buy 3 small fishing nets, one fishing rod from Harry's Fishing Shop 
+- Buy 3 small fishing nets, one fishing rod from Harry's Fishing Shop
 * You can set 2 traps at 29 Hunter and 3 at 30
 - Teleport to Seers' Village Lodestone, talk to [[Phantuwti Fanstuwi Farsight]] south-east of the lodestone in building (💬 4•5•1) [One Small Favour]
 - Teleport to Ardougne Lodestone, pickpocket the [[Master Farmer]] near you [Ardougne Medium Task]
@@ -1784,7 +1784,7 @@
 - Pause One Small Favour here. The next step is [[Rantz]] in the Feldip Hills, who also starts Big Chompy Bird Hunting, so we'll do it all in one trip later
 - Teleport to Canifis Lodestone
 - Complete [[Creature of Fenkenstrain]]
-* When you kill the experiment the [[cavern key]] is really hard to see on the ground 
+* When you kill the experiment the [[cavern key]] is really hard to see on the ground
 * The Experiment you kill in the cave under the castle counts for [Morytania Easy Task]
 * Reward: Ring of Charos
 * After quest is completed, drop extended brush, conductor mould, and cavern key
@@ -1800,11 +1800,11 @@
 # Bank 110
 - Equip: Weapon and armour (remember runes/ammo)
 - Withdraw: thread, silk, spade (not toolbelt), oak longbow, bowl of water, leather gloves, bucket of milk, 3x red dye, 3x blue dye, 3x yellow dye, ghostspeak amulet (equipped), 3x free inventory slots
-* Optional, grab extra dragon bones, with bucket of slime. I brought 5 dragon bones + 5 Buckets of slime. Free prayer xp and I got 25 ecto tokens. 
-* If you need dye, pause, go to Aggie and make some. Get onions in Wendlewick at [The Village Grocery], you should be buying redberries in Taverley. Should have woad leaves. 
+* Optional, grab extra dragon bones, with bucket of slime. I brought 5 dragon bones + 5 Buckets of slime. Free prayer XP and I got 25 ecto tokens.
+* If you need dye, pause, go to Aggie and make some. Get onions in Wendlewick at [The Village Grocery], you should be buying redberries in Taverley. Should have woad leaves.
 - Fill bowl of water at well
-- Teleport to [Port Sarim Lodestone], [charter ship] to [Port Phasmatys]
-- Complete [Ghosts Ahoy]
+- Teleport to Port Sarim Lodestone, charter ship to Port Phasmatys
+- Complete Ghosts Ahoy
 * On your way to Netty's house, chop a log, burn it, cook the nettle-water into a nettle tea, be careful not to drink it!
 * When you go get buckets of slime grab as many as you can again
 * After quest is complete drop treasure map, bed sheets, and bone key
