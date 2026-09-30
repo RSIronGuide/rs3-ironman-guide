@@ -1119,7 +1119,7 @@
 - At 49 firemaking complete [[Tears of Guthix]] (get it done by Tuesday, weeklies reset on Wednesdays 00:00 UTC) get hunter to be your lowest level so we can skip early game hunter while we quest. If not, I'll include low level hunter training later.
 * After my first tears of guthix with 16 hunter I jumped to 26. And the quest takes 5min. 49 firemaking isn't bad considering we need the levels and we got logs from quest.
 - Mine gems, preferably with a gem bag but at least mine some for jewelry
-- Collect all 12 engrams, turn them into Memorial Guthix. this will take awhile. Just to it here and there. We need 50 divination for quest
+- Collect all 12 engrams, turn them into Memorial Guthix. this will take awhile. Just to it here and there. We need 50 divination for [[Back to the Freezer]]
 - Build Tier 2 Kitchen and Tier 2 Chapel
 
 # Bank 70
@@ -1651,8 +1651,8 @@
 - Drop 10th squad sigil, Gnome royal seal
 
 # Bank 104
-- Withdraw: 6 bronze bars, make/mine some if you don't have them, make three bronze claws
-- Withdraw - teleport runes, clean harralander, clean marrentill, and vial of water, 3 bronze claws, 3 buckets of sand, 3 crimson charms, 3 green charms, 3 gold charms, wolf bones if you have them
+- Withdraw: 12 bronze bars, make/mine some if you don't have them, make three bronze claws hold 6 bronze bars
+- Withdraw - teleport runes, clean harralander, clean marrentill, and vial of water, 6 bronze bars, 3 bronze claws, 3 buckets of sand, 3 crimson charms, 3 green charms, 3 gold charms, wolf bones if you have them
 - Teleport to Taverley Lodestone, kill wolves until you have three wolf bones total and pick up [[Wolf bone]] Odd Old Man's Wishlist
 - Teleport to Taverley, talk to [[Sanfew]] (💬 2•2•3•1), USE harralander to the vial of water, then use marrentill to make guthix rest. [[One Small Favour]]
 - Go to Pikkupstix, buy at least 10 pouches and 327 spirit shards (take free stuff), craft all pouches
