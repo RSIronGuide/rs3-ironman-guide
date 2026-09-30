@@ -1716,7 +1716,6 @@
 * Weeklies reset Wednesday 00:00 UTC
 - Collect 210 flax from [[Geoffrey]] in the flax field south of Seers' Village (Seer's headband 1)
 - Collect 140 noted pineapples from [[Dell Monti]] in Brimhaven, by the house portal north of the Karamja lodestone (Karamja gloves 1)
-- Collect 55 raw bacon from [[Eli]] (Bringing Home the Bacon)
 - [[Tears of Guthix]] (tears go to your lowest skill)
 - [[Penguin Hide and Seek]]
 - [[Herby Werby]]
