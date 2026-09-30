@@ -1551,7 +1551,9 @@
 * Quest is a safe death and Agoroth is a safe death for HCIM
 * You need 7 free inventory slots at the end of the quest to complete
 - [[A Shadow over Ashdale]] completed, use black pearls on herblore, read journals then drop
-- Kill [[Agoroth]] two times, on the way to fight unlock Ashdale Lodestone, go directly west down the cliff side to get to the fight, Search Dead man's chest to start fight. Agoroth Location - https://imgur.com/a/hknbPX0
+- Kill [[Agoroth]] two times, on the way to fight unlock Ashdale Lodestone 
+- South of Ashdale Lodestone collect the [[surgical mask]] [[Benedict's World Tour]]
+- Go directly west down the cliff side to get to the fight, Search Dead man's chest to start fight. Agoroth Location - https://imgur.com/a/hknbPX0
 * Games necklace Agoroth teleport, for getting back each week.
 - Teleport to Bank
 
@@ -1656,7 +1658,7 @@
 - Go to Pikkupstix, buy at least 10 pouches and 327 spirit shards (take free stuff), craft all pouches
 - Teleport to Al-Kharid, take glider with [[Captain Dalbur]] to Sindarpos (2)
 - Speak to Captain Bleemadge. (Chat 2•4) [[One Small Favour]]
-- To your North pick up the Shiny raw fish-like thing [[Benedict's World Tour
+- To your North pick up the Shiny raw fish-like thing [[Benedict's World Tour]]
 # Bank 105
 - Keep training Divination, if you are lvl 25, teleport to [[Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix, place it on a [[echo plinth]]
 - Make [[Boon of bright energy]] when you can. Permanent XP boost while div training
