@@ -1663,9 +1663,14 @@
 - Benedict's World Tour quest completed, use small/large lamps on Summoning
 
 # Bank 105 
-- Equip: BIS gear
-- Withdraw: ghostspeak amulet, 3 spirit scorpion pouches, 3 spirit wolf pouches, 3 desert wrym pouches, 2 desert soles
+- Withdraw: air/earth runes(if mage), ghostspeak amulet, 4 steel nails, 5 bones, 3 spirit scorpion pouches, 3 spirit wolf pouches, 3 desert wrym pouches, 2 desert soles
+* You can bring the rest of the items but I just got them during the quest, skull, hammer, bucket, 2 planks they are on the ground.
 - Complete Spirit of Summer
+* Keep Jennica's ring for Summers End
+* All of the following experience awards require at least level 50 in that particular skill. If you do not possess level 50 in the particular skill, the experience can be gained at a later stage after achieving level 50:
+* By operating the ring on the portal in the Western ruins, 15,000 Farming experience will be acquired.
+* By operating the ring on the portal in the Forgotten Cemetery, 15,000 Prayer experience will be acquired.
+* By operating the ring on the portal near the magic axe hut (North-East of the Ardougne-Wilderness lever inside the wilderness), 11,250 Attack experience will be acquired. (Take a lockpick if you wish to open the hut doors.)
 
 # Bank 105
 - Keep training Divination, if you are lvl 25, teleport to [[Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix, place it on a [[echo plinth]]
