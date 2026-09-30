@@ -1642,12 +1642,17 @@
 - Complete [[Monkey Madness]] [Ardougne Medium Task]
 * Collect 5 bananas during the quest
 * Kill a monkey and pick up its corpse when you land in Gandius (East Karamja)
-* To solve the puzzle take a screenshot, send it to claudeAI and let it figure it out, tested and completed with claudeAI only. Otherwise pay 200k, or solve it :)
-* Use explorers ring replinish option when running thru the cave
+* To solve the puzzle take a screenshot, send it to ClaudeAI and let it figure it out, tested and completed with claudeAI only. Otherwise pay 200k, or solve it :)
+* Use explorers ring replenish option when running thru the cave
 - After the quest, speak to Daero (💬1•2) Focus Attack and Defence
 - drop 10th squad sigil, Gnome royal seal
 
 # Bank 104
+- Teleport to Burthorpe
+- We need 12 bronze bars total, mine if you need to, make 3 bronze claws hold 6 bronze bars
+- Withdraw: laws,fire,air runes, 3 bronze claws, 6 bronze bars, 3 crimson charms, 3 green charms, 3 gold charms 
+- Teleport to Taverley 
+# Bank 105
 - Keep training Divination, if you are lvl 25, teleport to Port Sarim, go to [[Void Knights' Outpost]], collect [[Elder Sword engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix
 - Make [[Boon of bright energy]] when you can. Permanent XP boost while div training
 - You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
