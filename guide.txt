@@ -1773,9 +1773,10 @@
 - Buy 3 small fishing nets from Harry's Fishing Shop (net traps for green salamanders to 32 Hunter)
 * You can set 2 traps at 29 Hunter and 3 at 30
 - Teleport to Seers' Village Lodestone, talk to [[Phantuwti Fanstuwi Farsight]] south-east of the lodestone in building (💬 4•5•1) [One Small Favour]
-- Teleport to Ardougne Lodestone, run north to the [[Goblin Cave]] south-east of the Fishing Guild
+- Teleport to Ardougne Lodestone, pickpocket the [[Master Farmer]] near you [Ardougne Medium Task]
+- Go to the [[Goblin Cave]] south-east of the Fishing Guild
 * The cave isn't always on the minimap. It's just outside the fence opposite the Fishing Guild, near the windmill
-- Inside, head north then east to [[Petra Fiyed]] trapped in rock, search the sculpture [One Small Favour]
+- Enter the cave, head north then east to [[Petra Fiyed]] trapped in rock, search the sculpture [One Small Favour]
 - Teleport to Ardougne, Talk to [[Wizard Cromperty]] north-east of the Ardougne market (💬 4•2) [One Small Favour]
 - Teleport to Port Sarim, charter to [[Port Khazard]], talk to [[Tindel Marchant]] on the south pier (💬 2•1) [One Small Favour]
 - Pause One Small Favour here. The next step is [[Rantz]] in the Feldip Hills, who also starts Big Chompy Bird Hunting, so we'll do it all in one trip later
