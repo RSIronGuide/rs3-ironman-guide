@@ -1735,7 +1735,7 @@
 * When a tree is grown: check health for the XP, have the gardener clear it (or chop it and dig up the stump), then plant a new sapling
 * Grow saplings ahead of time: put a seed in a filled plant pot and water it
 
-- Teleport to Lumbridge, tree patch north-west of the castle (Fayeth)
+- Teleport to Lumbridge, tree patch west of the castle (Fayeth)
 - Teleport to Falador, tree patch in Falador Park (Heskel)
 - Teleport to Taverley Lodestone, tree patch by Head Farmer Jones (Alain)
 - Teleport to Varrock, tree patch in the Varrock Palace courtyard (Treznor)
