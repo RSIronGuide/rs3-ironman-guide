@@ -1689,6 +1689,6 @@
 - Bank
 
 # Bank 106
-- Withdraw: Yellow Dye, swamp tar, weapon, ardougne cloak
-- Teleport to Eagle's Peak Lodestone
+- Withdraw: teleport runes, Yellow Dye, swamp tar, weapon, ardougne cloak
+- Teleport Ardougne Monastery, Talk to [[Charlie]] in [[Ardougne Zoo]]. (💬 1•✓)
 - Complete [[Eagles' Peak]]
