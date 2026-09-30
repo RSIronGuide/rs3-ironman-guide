@@ -1479,7 +1479,7 @@
 - Talk to Rat Burgiss to claim your rewards, use XP lamp on prayer
 - Talk to Rat Burgiss again, south-east of the Varrock lodestone by the crossroads to Lumbridge. (💬 2•3•✓), Accept Quest, What Lies Below
 - You should receive an empty folder in inventory
-- Complete What Lies Below
+- Complete What Lies Below - Keep Dagon'hai history book, take this to Historian Minas for 5 kudos
 * You do NOT need a chaos talisman to complete this quest, use the Abyss to enter chaos altar
 * After quest is complete drop the beacon ring, Zaff's instructions, and Sin'keth's diary
 - Teleport to Edgeville and bank
@@ -1700,6 +1700,7 @@
 - Bank, withdraw 20 teak planks 40 steel nails repair, arch journal, ring of dueling, teleport to Het's Oasis. Build the two baskets on the Northwest side first, teleport to Arch Campus, go to Kharid-et digsite run to the other flower baskets southeast and repair.
 * You can now start [[cultivating bush]] to collect flowers for hunting [[Whirligig]]. Water filtration system also gives items to fill the flower basket.
 - Grab all of your strange rocks you have collected need two of each. Teleport to Varrock, go to Varrock Museum talk to [[Barnabus Hurma]] working on the South table (💬 1)
+
 
 # Daily Run Friendly Reminder
 * Dailies reset at 00:00 UTC
