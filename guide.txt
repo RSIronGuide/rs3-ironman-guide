@@ -1799,9 +1799,10 @@
 
 # Bank 110
 - Equip: Weapon and armour (remember runes/ammo)
-- Withdraw: thread, silk, spade (not toolbelt), oak longbow, bowl of water, leather gloves, bucket of milk, 3x red dye, 3x blue dye, 3x yellow dye, ghostspeak amulet (equipped), bucket of slime, 3x free inventory slots
+- Withdraw: thread, silk, spade (not toolbelt), oak longbow, bowl of water, leather gloves, bucket of milk, 3x red dye, 3x blue dye, 3x yellow dye, ghostspeak amulet (equipped), 3x free inventory slots
 * Optional, grab extra dragon bones, with bucket of slime. I brought 5 dragon bones + 5 Buckets of slime. Free prayer xp and I got 25 ecto tokens. 
 * If you need dye, pause, go to Aggie and make some. Get onions in Wendlewick at [The Village Grocery], you should be buying redberries in Taverley. Should have woad leaves. 
 - Fill bowl of water at well
 - Teleport to [Port Sarim Lodestone], [charter ship] to [Port Phasmatys]
 - Complete [Ghosts Ahoy]
+* When you go get buckets of slime grab as many as you can again
