@@ -1658,12 +1658,14 @@
 - Go to Pikkupstix, buy at least 10 pouches and 327 spirit shards (take free stuff), craft all pouches
 - Teleport to Al-Kharid, take glider with [[Captain Dalbur]] to Sindarpos (2)
 - Speak to Captain Bleemadge. (Chat 2•4) [[One Small Favour]]
-- To your North pick up the Shiny raw fish-like thing [[Benedict's World Tour]]
+- To your North pick up the Shiny raw fish-like thing [[Benedict's World Tour]] use lamp on summoning
+- Community Teleport to Liberration of Mazcab, go South you should see a shiny [[frogburger]] pick it up [[Benedict's World Tour]] 
+- Benedict's World Tour quest completed, use small/large lamps on Summoning
 # Bank 105
 - Keep training Divination, if you are lvl 25, teleport to [[Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix, place it on a [[echo plinth]]
 - Make [[Boon of bright energy]] when you can. Permanent XP boost while div training
 - You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
-- Thaw frozen snow impling in inventory - put it on Summoning
+- Thaw frozen snow impling in inventory - put it on Summoning (27)
 - Go to bank, withdraw [[Enchanted Lyre]]
 - Teleport to Anachronia, Talk to [[Irwinsson]]. (💬 1•✓) Accept quest [[Father and Son]]
 - Complete [[Father and Son]] use hunter lamp
