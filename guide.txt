@@ -926,9 +926,10 @@
 - Grove Cabin (Tier 2)
 
 # Bank 53
-- Deposit all, view all currency click "Distractions and Diversions" tab and right-click memory strands and teleport. If you don't have memory strands use Eagles' Peak teleport and run Northwest to [[Memorial Guthix]]
+- Deposit all, view all currency click "Distractions and Diversions" tab and right-click memory strands and teleport. If you don't have memory strands use Eagles' Peak teleport and run Northwest to Memorial Guthix
 - Talk to Orla Fairweather and receive an [[Engram]], read the [[Engram]] and complete the task.
 - Twelve different [[engrams]] can be found scattered in various places across Gielinor. Plinths can be used to get a hint about where to find them. When an engram is picked up a Guthixian butterfly will appear; catching the butterfly will grant experience in the player's lowest skill.
+* Source: RuneScape Wiki - https://runescape.wiki/w/Engram
 
 
 # Bank 54
@@ -1315,7 +1316,7 @@
 - Find Hammerspike Stoutbeard on the far west side ("Hammerspike's hangout" on the map). Ask him about Tassie Slipcast. (💬 4•2) [One Small Favour]
 - Congratulations! 150 Quest Points completed, you can claim your reward anytime.
 - Go to bank deposit all, unequip all
-* HCIM once you hit 1k total lvl buy an extra life from [[Mr. Ex]] for 100k. You can buy a third life at 1600 for 10mil later. 
+* HCIM once you hit 1k total lvl buy an extra life from [[Mr. ex|Mr. Ex]] for 100k. You can buy a third life at 1600 for 10mil later.
 
 
 # Bank 80
@@ -1515,7 +1516,7 @@
 - I would grab at least two of the following in case it gets burnt:
 - We need one cooked tuna, one cooked bass, one cooked swordfish, cooked shrimp/salmon we should have in bank [[Family Crest]]
 - We need 1 raw tuna, you will harpoon for this [[The Fremennik Isles]]
-- We need 2 raw cod [[RFD: Freeing Pirate Pete]] [[Cold War]]
+- We need 2 raw cod [[Recipe for Disaster: Freeing Pirate Pete|RFD: Freeing Pirate Pete]] [[Cold War]]
 * I would catch a few of each in case we burn one
 - Teleport to Edgeville and cook two bass [Seers' Medium Task] (if you aren't 43 cooking yet come back to this step after you fly fish to 53 and cook all the trout and salmon you get)
 - Cook one tuna
@@ -1551,7 +1552,7 @@
 * Quest is a safe death and Agoroth is a safe death for HCIM
 * You need 7 free inventory slots at the end of the quest to complete
 - [[A Shadow over Ashdale]] completed, use black pearls on herblore, read journals then drop
-- Kill [[Agoroth]] two times, on the way to fight unlock Ashdale Lodestone 
+- Kill [[Agoroth]] two times, on the way to fight unlock Ashdale Lodestone
 - South of Ashdale Lodestone collect the [[surgical mask]] [[Benedict's World Tour]]
 - Go directly west down the cliff side to get to the fight, Search Dead man's chest to start fight. Agoroth Location - https://imgur.com/a/hknbPX0
 * Games necklace Agoroth teleport, for getting back each week.
@@ -1638,42 +1639,43 @@
 - Bank
 
 # Bank 103
-- Equip: BIS gear or full mystics, wand and orb, BIS jewlery, explorers ring 2
-- Withdraw: Air/Earth runes, ball of wool, gold bar, super antipoison, prayer potion, excalibur, ring of dueling (if you have it), 10 desert soles
-- Teleport to Al-Kharid, to gnome glider with [[Captain Dalbur]] Ta Quir Priw (1)
+- Equip: BIS gear or full mystics, wand and orb, BIS jewellery, Explorer's ring 2
+- Withdraw: Air/Earth runes, ball of wool, gold bar, super antipoison, prayer potion, Excalibur, ring of dueling (if you have it), 10 desert soles
+- Teleport to Al Kharid, to gnome glider with [[Captain Dalbur]] Ta Quir Priw (1)
 - Speak to King Narnode Shareen in the Grand Tree. He will give you a gnome royal seal. (💬•✓) Accept Quest
 - Complete [[Monkey Madness]] [Ardougne Medium Task]
 * Collect 5 bananas during the quest
 * Kill a monkey and pick up its corpse when you land in Gandius (East Karamja)
 * To solve the puzzle take a screenshot, send it to claudeAI and let it figure it out, tested and completed with claudeAI only. Otherwise pay 200k, or solve it :)
-* Use explorers ring replinish option when running thru the cave
-- After the quest, speak to Daero (💬1•2) Focus Attack and Defence
-- drop 10th squad sigil, Gnome royal seal
+* Use Explorer's ring replenish option when running thru the cave
+- After the quest, speak to Daero (💬 1•2) Focus Attack and Defence
+- Drop 10th squad sigil, Gnome royal seal
 
 # Bank 104
-- Withdraw: 6 bronze bars, make/mine some if you dont have them, make three bronze claws
+- Withdraw: 6 bronze bars, make/mine some if you don't have them, make three bronze claws
 - Withdraw - teleport runes, clean harralander, clean marrentill, and vial of water, 3 bronze claws, 3 buckets of sand, 3 crimson charms, 3 green charms, 3 gold charms, wolf bones if you have them
-- Teleport to Taverly Lodestone, kill wolves until you have three wolf bones total and pick up [[Wolf Bone]] Odd Old Man's Wishlist
-- Teleport to Taverley, talk to [[Sanfew]] (💬2•2•3•1), USE harralander to the vial of water, then use marrentill to make guthix rest. [[One Small Favour]]
+- Teleport to Taverley Lodestone, kill wolves until you have three wolf bones total and pick up [[Wolf bone]] Odd Old Man's Wishlist
+- Teleport to Taverley, talk to [[Sanfew]] (💬 2•2•3•1), USE harralander to the vial of water, then use marrentill to make guthix rest. [[One Small Favour]]
 - Go to Pikkupstix, buy at least 10 pouches and 327 spirit shards (take free stuff), craft all pouches
-- Teleport to Al-Kharid, take glider with [[Captain Dalbur]] to Sindarpos (2)
-- Speak to [[Captain Bleemadge]] (Chat 2•4) [[One Small Favour]]
+- Teleport to Al Kharid, take glider with [[Captain Dalbur]] to Sindarpos (2)
+- Speak to [[Captain Bleemadge]] (💬 2•4) [[One Small Favour]]
 - To your North pick up the Shiny raw fish-like thing [[Benedict's World Tour]] use lamp on summoning
-- Community Teleport to Liberration of Mazcab, go South you should see a shiny [[frogburger]] pick it up [[Benedict's World Tour]] 
+- Community Teleport to Liberation of Mazcab, go South you should see a shiny [[frogburger]] pick it up [[Benedict's World Tour]]
 - Benedict's World Tour quest completed, use small/large lamps on Summoning
 
-# Bank 105 
-- Withdraw: air/earth runes(if mage), ghostspeak amulet, 4 steel nails, 5 bones, 3 spirit scorpion pouches, 3 spirit wolf pouches, 3 desert wrym pouches, 2 desert soles
+# Bank 105
+- Withdraw: air/earth runes(if mage), ghostspeak amulet, 4 steel nails, 5 bones, 3 spirit scorpion pouches, 3 spirit wolf pouches, 3 desert wyrm pouches, 2 desert soles
 * You can bring the rest of the items but I just got them during the quest, skull, hammer, bucket, 2 planks they are on the ground.
 - Complete Spirit of Summer
-* Keep Jennica's ring for Summers End
+* Keep Jennica's ring for Summer's End
 * All of the following experience awards require at least level 50 in that particular skill. If you do not possess level 50 in the particular skill, the experience can be gained at a later stage after achieving level 50:
 * By operating the ring on the portal in the Western ruins, 15,000 Farming experience will be acquired.
 * By operating the ring on the portal in the Forgotten Cemetery, 15,000 Prayer experience will be acquired.
 * By operating the ring on the portal near the magic axe hut (North-East of the Ardougne-Wilderness lever inside the wilderness), 11,250 Attack experience will be acquired. (Take a lockpick if you wish to open the hut doors.)
+* Source: RuneScape Wiki - https://runescape.wiki/w/Spirit_of_Summer
 
-# Bank 105
-- Keep training Divination, if you are lvl 25, teleport to [[Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix, place it on a [[echo plinth]]
+# Bank 106
+- Keep training Divination, if you are lvl 25, teleport to [[Wilderness lodestone|Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix, place it on a [[echo plinth]]
 - Make [[Boon of bright energy]] when you can. Permanent XP boost while div training
 - You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
 - Thaw frozen snow impling in inventory - put it on Summoning (27)
@@ -1683,12 +1685,12 @@
 - If you haven't completed Tears of Guthix do so now. you should get 27 hunter.
 * If you didn't follow the guide train hunter:
 - Hunt [[Crimson swift]] in Taverley until level 11.
-- Hunt [[Cerulean twitch]] in Relekka until level 19.
+- Hunt [[Cerulean twitch]] in Rellekka until level 19.
 - Hunt [[Tropical wagtail]] north of Oo'glog until level 29.
 * When you get 27 hunter pause
 - Bank
 
-# Bank 106
+# Bank 107
 - Withdraw: teleport runes, Yellow Dye, swamp tar, weapon, ardougne cloak
 - Teleport Ardougne Monastery, Talk to [[Charlie]] in [[Ardougne Zoo]]. (💬 1•✓)
 - Complete [[Eagles' Peak]]
