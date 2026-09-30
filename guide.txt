@@ -1809,3 +1809,10 @@
 * On your way to Netty's house, chop a log, burn it, cook the nettle-water into a nettle tea, be careful not to drink it!
 * When you go get buckets of slime grab as many as you can again
 * After quest is complete drop treasure map, bed sheets, and bone key
+- Go to bank in Port Phasmatys
+
+# Bank 111
+- Equip: BIS gear, BIS jewlery
+- Withdraw: Teleport runes, ectophial, prayer potion, 10 food
+- Complete Rum Deal
+- When you plant blindweed, kill zombies while you wait, pick up [Zombie bone] [[Rag and Bone Wishlist]]
