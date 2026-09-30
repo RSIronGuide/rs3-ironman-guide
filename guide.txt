@@ -1712,7 +1712,7 @@
 * Optional: Daily Challenges, Sinkholes
 
 # Weekly Run
-* Weeklies reset Wednesday 00:00 UTC. Free-item NPCs fill up over 7 days, so one visit a week gets the full amount. If they say come back later, log out and back in
+* Weeklies reset Wednesday 00:00 UTC
 - Collect 210 flax from [[Geoffrey]] in the flax field south of Seers' Village (Seer's headband 1)
 - Collect 140 noted pineapples from [[Dell Monti]] in Brimhaven, by the house portal north of the Karamja lodestone (Karamja gloves 1)
 - Collect 55 raw bacon from [[Eli]] (Bringing Home the Bacon)
