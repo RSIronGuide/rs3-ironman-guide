@@ -1791,4 +1791,6 @@
 
 # Bank 109
 - Withdraw: 3 rope, 3 small fishing nets
-- Teleport to Canifis Lodestone
+- Teleport to Canifis Lodestone, run South
+- Catch [[green salamanders]] until 32 hunter
+* Lvl30 Hunter you can trap 3
