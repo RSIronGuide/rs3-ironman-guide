@@ -930,11 +930,6 @@
 - Talk to Orla Fairweather and receive an [[Engram]], read the [[Engram]] and complete the task.
 - Twelve different [[engrams]] can be found scattered in various places across Gielinor. Plinths can be used to get a hint about where to find them. When an engram is picked up a Guthixian butterfly will appear; catching the butterfly will grant experience in the player's lowest skill.
 * Source: RuneScape Wiki - https://runescape.wiki/w/Engram
-
-
-# Bank 54
-- Withdraw: food
-- Teleport to Karamja Lodestone, do Brimhaven agility until 3 tokens, buy two toadflax [Tai Bwo Wannai Trio] 1 agility token [Mourning's End Pt 2]
 - Teleport to Catherby, if you haven't collected supercompost do so now. Herb run
 - Buy buckets from Arhein, buy pots as well. At least 10
 
@@ -1695,4 +1690,4 @@
 - Complete [[Eagles' Peak]]
 * Drop Metal feather, bird book, fake beak, and eagle cape
 - After quest, go West, talk to [[Larry]] but one large/small xp lamp, put into Summoning (lvl 30 Summoning)
-* If you don't have the Penguin Points go collect them. If you can't complete this just do this when penguin resets. 
+* If you don't have the Penguin Points go collect them. If you can't complete this just do this when penguin resets.
