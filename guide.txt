@@ -1704,7 +1704,6 @@
 - Claim a [[Bag of lost items]] from any [[Rug Merchant]] 
 * Quickest: house portal → Pollnivneach
 - [[Player-owned farm]] refill the beehives with woad leaves, bank the medicinal honeycombs
-- Use your [[Explorer's ring]] 2 charges: 30 free Low Alchemy casts and 2 run energy restores. They don't carry over
 - Every few days: check the Water Filtration System at Het's Oasis and your rested XP at the Fort Forinthry Town Hall
 * Optional: Daily Challenges, Sinkholes
 
