@@ -1730,6 +1730,7 @@
 # Monthly
 - [[Troll Invasion]]
 - Giant Oyster with Wizard Myrtle (Beneath Cursed Tides)
+- Troll Invansion
 
 # Tree and Fruit Tree Run
 * Fruit trees take 16 hours, so do them once a day. Willow trees take 4 hours, maple trees 5 hours 20 minutes
