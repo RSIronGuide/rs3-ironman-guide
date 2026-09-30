@@ -1765,3 +1765,24 @@
 - Teleport to Catherby Lodestone, run north to the Catherby herb patch
 - Teleport to Ardougne Lodestone, run north-east to [[Manor Farm]], the herb patch is on the north side
 * End here so you can do your Player-owned farm daily without rushing
+
+# Bank 108
+- Withdraw: teleport runes, decapitated head, silver bar, 3 bronze wire, needle, 5 thread, ghostspeak amulet(equipped), 7 free inventory slots
+- Teleport to Catherby Lodestone, talk to [[Arhein]] on the docks, south of the lodestone (💬 3•1) [One Small Favour]
+- Buy an empty pot from Arhein, you need it later [One Small Favour]
+- Buy seaweed and pineapples from Arhein
+- Buy 3 small fishing nets from Harry's Fishing Shop (net traps for green salamanders to 32 Hunter)
+* You can set 2 traps at 29 Hunter and 3 at 30
+- Teleport to Seers' Village Lodestone, talk to [[Phantuwti Fanstuwi Farsight]] south-east of the lodestone (💬 4•5•1) [One Small Favour]
+- Teleport to Ardougne Lodestone, run north to the [[Goblin Cave]] south-east of the Fishing Guild
+* The cave isn't always on the minimap. It's just outside the fence opposite the Fishing Guild, near the windmill
+- Inside, head north then east to [[Petra Fiyed]] trapped in rock, search the sculpture [One Small Favour]
+- Teleport to Ardougne, Talk to [[Wizard Cromperty]] north-east of the Ardougne market (💬 4•2) [One Small Favour]
+- Teleport to Port Sarim, charter to [[Port Khazard]], talk to [[Tindel Marchant]] on the south pier (💬 2•1) [One Small Favour]
+- Pause One Small Favour here. The next step is [[Rantz]] in the Feldip Hills, who also starts Big Chompy Bird Hunting, so we'll do it all in one trip later
+- Teleport to Canifis Lodestone
+- Complete [[Creature of Fenkenstrain]]
+* The Experiment you kill in the cave under the castle counts for [Morytania Easy Task]
+* Reward: Ring of Charos
+- Play a game of Werewolf Skullball, wear the Ring of Charos to get in [Morytania Easy Task]
+- Kill anything on the ground floor of the Slayer Tower [Morytania Easy Task]
