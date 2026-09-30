@@ -1660,8 +1660,14 @@
 - Speak to Captain Bleemadge. (Chat 2•4) [[One Small Favour]]
 - To your North pick up the Shiny raw fish-like thing [[Benedict's World Tour]] use lamp on summoning
 - Community Teleport to Liberration of Mazcab, go South you should see a shiny [[frogburger]] pick it up [[Benedict's World Tour]] 
-- Benedict's World Tour quest completed, use small/large lamps on Summoning
-# Bank 105
+- Benedict's World Tour quest completed, use small/large lamps on Summoning (lvl 27)
+- Teleport to Bank
+
+# Bank 107
+- Equip: BIS gear
+- Withdraw: 3 spirit pouches, 3 desert wyrm pouch, 3 spirit scorpion pouch, ghost speak amulet, everything else is obtainable during the quest
+- Complete Spirit of Summer
+# Bank 106
 - Keep training Divination, if you are lvl 25, teleport to [[Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix, place it on a [[echo plinth]]
 - Make [[Boon of bright energy]] when you can. Permanent XP boost while div training
 - You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
