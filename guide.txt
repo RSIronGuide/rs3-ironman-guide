@@ -1805,4 +1805,6 @@
 - Fill bowl of water at well
 - Teleport to [Port Sarim Lodestone], [charter ship] to [Port Phasmatys]
 - Complete [Ghosts Ahoy]
+* On your way to Netty's house, chop a log, burn it, cook the nettle-water into a nettle tea
 * When you go get buckets of slime grab as many as you can again
+* After quest is complete drop treasure map, bed sheets, and bone key
