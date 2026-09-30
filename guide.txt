@@ -379,7 +379,7 @@
 - Make one bronze med helm [Mourning's End Pt 2]
 - Smith bronze nails 1x [The Fremennik Isles]
 - Smith bronze arrowheads 1x
-- [Note: If you still aren't 10 smithing, just mine a few more tin and copper, keep making bronze arrowheads for fletching] ==g:we need bronze bars for quest==
+- [Note: If you still aren't 10 smithing, just mine a few more tin and copper, keep making bronze arrowheads for fletching] we need bronze bars for quest, summoning training
 - Make two iron bars, make iron ore box at anvil
 - Mine full inventory of iron ore, fill ore box, at lvl 20 mining add steel pickaxe to toolbelt, keep iron pickaxe
 * We need 20 mining and 20 smithing before moving on
