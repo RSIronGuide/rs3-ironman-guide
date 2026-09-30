@@ -1636,7 +1636,7 @@
 - Bank
 
 # Bank 103
-- Equip: full mystics, wand and orb, BIS jewlery, explorers ring 2
+- Equip: BIS gear or full mystics, wand and orb, BIS jewlery, explorers ring 2
 - Withdraw: Air/Earth runes, ball of wool, gold bar, super antipoison, prayer potion, excalibur, ring of dueling (if you have it), 10 desert soles
 - Teleport to Al-Kharid, to gnome glider with [[Captain Dalbur]] Ta Quir Priw (1)
 - Speak to King Narnode Shareen in the Grand Tree. He will give you a gnome royal seal. (💬•✓) Accept Quest
@@ -1649,6 +1649,15 @@
 - drop 10th squad sigil, Gnome royal seal
 
 # Bank 104
+- Withdraw: 6 bronze bars, make/mine some if you dont have them, make three bronze claws
+- Withdraw - teleport runes, clean harralander, clean marrentill, and vial of water, 3 bronze claws, 3 buckets of sand, 3 crimson charms, 3 green charms, 3 gold charms, wolf bones if you have them
+- Teleport to Taverly Lodestone, kill wolves until you have three wolf bones total and pick up [[Wolf Bone]] Odd Old Man's Wishlist
+- Teleport to Taverley, talk to [[Sanfew]] (💬2•2•3•1), USE harralander to the vial of water, then use marrentill to make guthix rest. [[One Small Favour]]
+- Go to Pikkupstix, buy at least 10 pouches and 327 spirit shards (take free stuff), craft all pouches
+- Teleport to Al-Kharid, take glider with [[Captain Dalbur]] to Sindarpos (2)
+- Speak to Captain Bleemadge. (Chat 2•4) [[One Small Favour]]
+- To your North pick up the Shiny raw fish-like thing [[Benedict's World Tour
+# Bank 105
 - Keep training Divination, if you are lvl 25, teleport to [[Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix, place it on a [[echo plinth]]
 - Make [[Boon of bright energy]] when you can. Permanent XP boost while div training
 - You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
