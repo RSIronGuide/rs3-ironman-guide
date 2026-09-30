@@ -1799,6 +1799,10 @@
 
 # Bank 110
 - Equip: Weapon and armour (remember runes/ammo)
-- Withdraw: thread, silk, spade (not toolbelt), oak shieldbow, bowl of water, leather gloves, bucket of milk, 3x red dye, 3x blue dye, 3x yellow dye, ghostspeak amulet (equipped), 3x free inventory slots
+- Withdraw: thread, silk, spade (not toolbelt), oak longbow, bowl of water, leather gloves, bucket of milk, 3x red dye, 3x blue dye, 3x yellow dye, ghostspeak amulet (equipped), 3x free inventory slots
+* Optional, grab extra dragon bones, with bucket of slime. I brought 5 dragon bones + 5 Buckets of slime. Free prayer xp
 * If you need dye, pause, go to Aggie and make some. Get onions in Wendlewick at [The Village Grocery], you should be buying redberries in Taverley. Should have woad leaves. 
-- Complete Ghost Ahoy
+- Fill bowl of water at well
+- Complete Ghosts Ahoy
+
+
