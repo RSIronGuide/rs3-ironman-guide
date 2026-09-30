@@ -1672,7 +1672,6 @@
 * By operating the ring on the portal in the Western ruins, 15,000 Farming experience will be acquired.
 * By operating the ring on the portal in the Forgotten Cemetery, 15,000 Prayer experience will be acquired.
 * By operating the ring on the portal near the magic axe hut (North-East of the Ardougne-Wilderness lever inside the wilderness), 11,250 Attack experience will be acquired. (Take a lockpick if you wish to open the hut doors.)
-* Source: RuneScape Wiki - https://runescape.wiki/w/Spirit_of_Summer
 
 # Bank 106
 - Keep training Divination, if you are lvl 25, teleport to [[Wilderness lodestone|Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix, place it on a [[echo plinth]]
@@ -1694,3 +1693,6 @@
 - Withdraw: teleport runes, Yellow Dye, swamp tar, weapon, ardougne cloak
 - Teleport Ardougne Monastery, Talk to [[Charlie]] in [[Ardougne Zoo]]. (💬 1•✓)
 - Complete [[Eagles' Peak]]
+* Drop Metal feather, bird book, fake beak, and eagle cape
+- After quest, go West, talk to [[Larry]] but one large/small xp lamp, put into Summoning (lvl 30 Summoning)
+* If you don't have the Penguin Points go collect them. If you can't complete this just do this when penguin resets. 
