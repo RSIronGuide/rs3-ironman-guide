@@ -1685,4 +1685,10 @@
 - Hunt [[Crimson swift]] in Taverley until level 11.
 - Hunt [[Cerulean twitch]] in Relekka until level 19.
 - Hunt [[Tropical wagtail]] north of Oo'glog until level 29.
-* When you get 27 hunter pause, and complete [[Eagles' Peak]]
+* When you get 27 hunter pause
+- Bank
+
+# Bank 106
+- Withdraw: Yellow Dye, swamp tar, weapon, ardougne cloak
+- Teleport to Eagle's Peak Lodestone
+- Complete [[Eagles' Peak]]
