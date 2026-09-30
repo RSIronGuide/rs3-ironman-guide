@@ -1728,6 +1728,25 @@
 - [[Troll Invasion]]
 - Giant Oyster with Wizard Myrtle (Beneath Cursed Tides)
 
+# Tree and Fruit Tree Run
+* Fruit trees take 16 hours, so do them once a day. Willow trees take 4 hours, maple trees 5 hours 20 minutes
+* At your level: willow trees (30) and curry fruit trees (42). Maple unlocks at 45, pineapple fruit trees at 51
+- Withdraw: teleport runes, 5 tree saplings, 4 fruit tree saplings, 9 supercompost
+* When a tree is grown: check health for the XP, have the gardener clear it (or chop it and dig up the stump), then plant a new sapling
+* Grow saplings ahead of time: put a seed in a filled plant pot and water it
+
+- Teleport to Lumbridge, tree patch north-west of the castle (Fayeth)
+- Teleport to Falador, tree patch in Falador Park (Heskel)
+- Teleport to Taverley Lodestone, tree patch by Head Farmer Jones (Alain)
+- Teleport to Varrock, tree patch in the Varrock Palace courtyard (Treznor)
+- Teleport to Grandexchange, travel to the Tree Gnome Stronghold
+- Tree Gnome Stronghold: tree patch (Prissy Scilla) and fruit tree patch (Bolongo)
+- Spirit tree to Tree Gnome Village, run west to the fruit tree patch (Gileth)
+- Teleport to Karamja Lodestone, run north through Brimhaven to the fruit tree patch (Garth)
+* Weekly: collect your 140 pineapples from [[Dell Monti]] by the house portal on the way. At 57 Farming they pay for papaya trees (10 each)
+- Teleport to Catherby Lodestone, run east to the fruit tree patch (Ellena)
+* The Catherby herb patch is right here, so you can go straight into your herb run
+
 # Herb Run
 * Herbs take about 80 minutes to grow. Do a run whenever you're between tasks
 * Irits are the best to grow early as we can buy eye of newts to make them. 
@@ -1742,4 +1761,3 @@
 - Teleport to Catherby Lodestone, run north to the Catherby herb patch
 - Teleport to Ardougne Lodestone, run north-east to [[Manor Farm]], the herb patch is on the north side
 * End here so you can do your Player-owned farm daily without rushing
-
