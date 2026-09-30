@@ -1794,3 +1794,8 @@
 - Teleport to Canifis Lodestone, run South
 - Catch [[green salamanders]] until 32 hunter
 * Lvl30 Hunter you can trap 3
+- Teleport to Edgeville with Wilderness 1
+
+# Bank 110
+- Equip: Weapon and armour (remember runes/ammo)
+- Withdraw: thread, silk, spade (not toolbelt), oak shieldbow, bowl of water, leather gloves, bucket of milk, 3x red dye, 3x blue dye, 3x yellow dye, ghostspeak amulet (equipped), 3x free inventory slots
