@@ -930,6 +930,11 @@
 - Talk to Orla Fairweather and receive an [[Engram]], read the [[Engram]] and complete the task.
 - Twelve different [[engrams]] can be found scattered in various places across Gielinor. Plinths can be used to get a hint about where to find them. When an engram is picked up a Guthixian butterfly will appear; catching the butterfly will grant experience in the player's lowest skill.
 * Source: RuneScape Wiki - https://runescape.wiki/w/Engram
+
+
+# Bank 54
+- Withdraw: food
+- Teleport to Karamja Lodestone, do Brimhaven agility until 3 tokens, buy two toadflax [Tai Bwo Wannai Trio] 1 agility token [Mourning's End Pt 2]
 - Teleport to Catherby, if you haven't collected supercompost do so now. Herb run
 - Buy buckets from Arhein, buy pots as well. At least 10
 
@@ -1133,7 +1138,8 @@
 - Teleport to Port Sarim, Speak to Brian in Port Sarim (Axe shop north-east of the lodestone). Make sure he takes the blunt hatchet before you leave. (💬 3•2•4)
 - Teleport to Lumbridge
 - Bait fishing spot, catch a pike east of lumbridge castle [Lumbridge Easy Task]
-- Lumbridge Easy Area Task Completed, go to Bob the axe seller to claim reward, reward lamp into prayer we want 35 prayer for quest
+- Congratulations! Lumbridge Easy Area Task Completed, go to Bob the axe seller to claim reward, reward lamp into prayer we want 35 prayer for quest
+* [[Explorer's ring]]: 30 free Low Alchemy casts and 2 run energy restores. They don't carry over
 - Complete [[Another Cook's Quest]]
 - Start [[Recipe for Disaster]] Quest
 
