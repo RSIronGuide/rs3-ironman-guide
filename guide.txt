@@ -1603,7 +1603,7 @@
 * When you go into the [[Miscellania and Etceteria dungeon|Etceteria dungeon]] go to [[The Esoterican Arms]] buy 5x cider
 * Keep Giant snake spine [[Fur 'n Seek/Wish list|Fur 'n Seek Wish list]]
 * After quest drop burnt diary and empty box
-- Deposit 1.3mil into coffer for Kingdom, put max workers on herb, the rest on teak, this will last 7 days before you go below 750k.
+- Deposit 1.3mil into coffer for Kingdom, put max workers on herb, this will last 7 days before you go below 750k.
 - Teleport to Seers' Village Lodestone, go to [[Forester's Arms]] give five locals a glass of cider [Seers' Easy Task]
 - Buy a few beers from the bartender
 - Congratulations! [[Easy Seers' Village Achievements]] completed! Talk to any [[Seer]] in Seers' Village to claim the rewards, use antique lamp on herblore, claim 210 free flax every week from [[Geoffrey]]
@@ -1691,3 +1691,36 @@
 * Drop Metal feather, bird book, fake beak, and eagle cape
 - After quest, go West, talk to [[Larry]] but one large/small xp lamp, put into Summoning (lvl 30 Summoning)
 * If you don't have the Penguin Points go collect them. If you can't complete this just do this when penguin resets.
+- Bank, withdraw 20 teak planks 40 steel nails repair, arch journal, ring of dueling, teleport to Het's Oasis. Build the two baskets on the Northwest side first, teleport to Arch Campus, go to Kharid-et digsite run to the other flower baskets southeast and repair. 
+* You can now start [[cultivating bush]] to collect flowers for hunting [[Whirligig]]. Water filtration system also gives items to fill the flower basket.
+
+
+# Daily Run Friendly Reminder
+* Dailies reset at 00:00 UTC
+- Complete a [[Runesphere]] in the Runespan. One spawns about every 3 hours and lasts about an hour. You can hand in up to 1,000 rune dust per day (25,000 Runecrafting XP)
+* Runesphere call-outs on the Achievement Help Discord: https://discord.gg/ahelp
+- Complete [[Nemi Forest]]. Community tab → Liberation of Mazcab → join queue, run west to the entrance.
+* Daily solves: https://www.reddit.com/r/NemiForest/
+- Claim a [[Bag of lost items]] from any [[Rug Merchant]] 
+* Quickest: house portal → Pollnivneach
+- [[Player-owned farm]] refill the beehives with woad leaves, bank the medicinal honeycombs
+- Use your [[Explorer's ring]] 2 charges: 30 free Low Alchemy casts and 2 run energy restores. They don't carry over
+- Every few days: check the Water Filtration System at Het's Oasis and your rested XP at the Fort Forinthry Town Hall
+* Optional: Daily Challenges, Sinkholes
+
+# Weekly Run
+* Weeklies reset Wednesday 00:00 UTC. Free-item NPCs fill up over 7 days, so one visit a week gets the full amount. If they say come back later, log out and back in
+- Collect 210 flax from [[Geoffrey]] in the flax field south of Seers' Village (Seer's headband 1)
+- Collect 140 noted pineapples from [[Dell Monti]] in Brimhaven, by the house portal north of the Karamja lodestone (Karamja gloves 1)
+- Collect 55 raw bacon from [[Eli]] (Bringing Home the Bacon)
+- [[Tears of Guthix]] (tears go to your lowest skill)
+- [[Penguin Hide and Seek]]
+- [[Herby Werby]]
+- [[Familiarisation]]
+- [[Balthazar Beauregard's Big Top Bonanza|Circus]]
+- [[Agoroth]] x2
+- Top up the [[Managing Miscellania|Miscellania]] coffer
+
+# Monthly
+- [[Troll Invasion]]
+- Giant Oyster with Wizard Myrtle (Beneath Cursed Tides)
