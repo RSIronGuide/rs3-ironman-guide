@@ -1695,7 +1695,7 @@
 * Drop Metal feather, bird book, fake beak, and eagle cape
 - After quest, go West, talk to [[Larry]], buy one large/small XP lamp, put into Summoning (lvl 30 Summoning)
 * If you don't have the Penguin Points go collect them. If you can't complete this just do this when penguin resets.
-- Bank, withdraw 20 teak planks 40 steel nails repair, arch journal, ring of dueling, teleport to Het's Oasis. Build the two baskets on the Northwest side first, teleport to Arch Campus, go to Kharid-et digsite run to the other flower baskets southeast and repair. 
+- Bank, withdraw 20 teak planks 40 steel nails repair, arch journal, ring of dueling, teleport to Het's Oasis. Build the two baskets on the Northwest side first, teleport to Arch Campus, go to Kharid-et digsite run to the other flower baskets southeast and repair.
 * You can now start [[cultivating bush]] to collect flowers for hunting [[Whirligig]]. Water filtration system also gives items to fill the flower basket.
 
 
@@ -1705,7 +1705,7 @@
 * Runesphere call-outs on the Achievement Help Discord: https://discord.gg/ahelp
 - Complete [[Nemi Forest]]. Community tab → Liberation of Mazcab → join queue, run west to the entrance.
 * Daily solves: https://www.reddit.com/r/NemiForest/
-- Claim a [[Bag of lost items]] from any [[Rug Merchant]] 
+- Claim a [[Bag of lost items]] from any [[Rug Merchant]]
 * Quickest: house portal → Pollnivneach
 - [[Player-owned farm]] refill the beehives with woad leaves, bank the medicinal honeycombs
 - Every few days: check the Water Filtration System at Het's Oasis and your rested XP at the Fort Forinthry Town Hall
