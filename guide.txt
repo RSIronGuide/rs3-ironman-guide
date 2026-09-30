@@ -379,7 +379,7 @@
 - Make one bronze med helm [Mourning's End Pt 2]
 - Smith bronze nails 1x [The Fremennik Isles]
 - Smith bronze arrowheads 1x
-- [Note: If you still aren't 10 smithing, just mine a few more tin and copper, keep making bronze arrowheads for fletching] ==g:we need bronze bars for quest==
+- [Note: If you still aren't 10 smithing, just mine a few more tin and copper, keep making bronze arrowheads for fletching] we need bronze bars for quest, summoning training
 - Make two iron bars, make iron ore box at anvil
 - Mine full inventory of iron ore, fill ore box, at lvl 20 mining add steel pickaxe to toolbelt, keep iron pickaxe
 * We need 20 mining and 20 smithing before moving on
@@ -410,7 +410,7 @@
 - Continue, Heart Stealer, talk to Caelyn, (💬 1), Paper and Crayons will go into inventory
 - Climb down the ladder and go west, fill water bucket with water, Complete Perils of Ice Mountain, Quest Completed use lamp
 - Teleport back to Edgeville, go south, mine 20 coal.
-- Teleport to Burthorpe make 12 steel bars (Lumbridge Easy Task), withdraw, ALL bronze bars (upcoming quest), ALL iron bars, all steel bars, Deposit everything into bank.
+- Teleport to Burthorpe make 12 steel bars (Lumbridge Easy Task), withdraw, ==ALL bronze bars (upcoming quest), ALL iron bars, all steel bars==. Deposit everything into bank.
 * Complete one Runesphere every day. I can't stress this enough. After two Runespheres im 44RC, its OP. When a runesphere shows up Talk to a wizard within Runespan and ask for the location, it will tell you above, middle, or on the low level. We can only do the lower level. Middle lvl access 33 Runecrafting, you'll need a higher RC just to reach the runesphere sometimes. Just train
 * The Achievement Help Discord server has a role for it. If you sign up for that role in the #role- sign-up channel, you'll get a notification when someone calls out a runesphere in the #call-outs channel.
 * Then have a ton of such roles, which can be super handy if you want to be notified about various randomly occurring events, spawns, group activities, etc.
@@ -1649,7 +1649,7 @@
 - drop 10th squad sigil, Gnome royal seal
 
 # Bank 104
-- Keep training Divination, if you are lvl 25, teleport to Port Sarim, go to [[Void Knights' Outpost]], collect [[Elder Sword engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix
+- Keep training Divination, if you are lvl 25, teleport to [[Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix, place it on a [[echo plinth]]
 - Make [[Boon of bright energy]] when you can. Permanent XP boost while div training
 - You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
 - Thaw frozen snow impling in inventory - put it on Summoning
