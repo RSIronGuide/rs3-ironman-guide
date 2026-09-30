@@ -1734,7 +1734,8 @@
 # Tree and Fruit Tree Run
 * Fruit trees take 16 hours, so do them once a day. Willow trees take 4 hours, maple trees 5 hours 20 minutes
 * At your level: willow trees (30) and curry fruit trees (42). Maple unlocks at 45, pineapple fruit trees at 51
-- Withdraw: teleport runes, 5 tree saplings, 4 fruit tree saplings, 9 supercompost
+- Withdraw: teleport runes, 5 tree saplings, 4 fruit tree saplings, 9 supercompost(stored in leprechaun)
+* Use sapling first then compost to avoid grass growing and interrupting animation (this triggers me)
 * When a tree is grown: check health for the XP, have the gardener clear it (or chop it and dig up the stump), then plant a new sapling
 * Grow saplings ahead of time: put a seed in a filled plant pot and water it
 
