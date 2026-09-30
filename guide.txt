@@ -1799,9 +1799,11 @@
 
 # Bank 110
 - Equip: Weapon and armour (remember runes/ammo)
-- Withdraw: thread, silk, spade (not toolbelt), oak longbow, bowl of water, leather gloves, bucket of milk, 3x red dye, 3x blue dye, 3x yellow dye, ghostspeak amulet (equipped), 3x free inventory slots
-* Optional, grab extra dragon bones, with bucket of slime. I brought 5 dragon bones + 5 Buckets of slime. Free prayer xp and I got 25 ecto tokens. 
+- Withdraw: thread, silk, spade (not toolbelt), oak longbow, bowl of water, nettles, leather gloves, bucket of milk, 3x red dye, 3x blue dye, 3x yellow dye, ghostspeak amulet (equipped), 3x free inventory slots
+- Use nettles on bowl of water
+* Optional, grab extra dragon bones, with bucket of slime. I brought 5 dragon bones + 5 Buckets of slime. Free prayer xp
 * If you need dye, pause, go to Aggie and make some. Get onions in Wendlewick at [The Village Grocery], you should be buying redberries in Taverley. Should have woad leaves. 
 - Fill bowl of water at well
-- Teleport to [Port Sarim Lodestone], [charter ship] to [Port Phasmatys]
-- Complete [Ghosts Ahoy]
+- Teleport to [Port Sarim Lodestone], [charter ship] to [Port Phasmatys] [Morytania Medium Task]
+- Complete [[Ghosts Ahoy]]
+* On the way to Netty's] house chop a log, burn it, cook the [nettle-water] to make [nettle tea], CAREFUL you can accidentally drink it!
