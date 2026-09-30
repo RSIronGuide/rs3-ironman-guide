@@ -930,6 +930,8 @@
 - Talk to Orla Fairweather and receive an [[Engram]], read the [[Engram]] and complete the task.
 - Twelve different [[engrams]] can be found scattered in various places across Gielinor. Plinths can be used to get a hint about where to find them. When an engram is picked up a Guthixian butterfly will appear; catching the butterfly will grant experience in the player's lowest skill.
 * Source: RuneScape Wiki - https://runescape.wiki/w/Engram
+
+# Bank 54
 - Teleport to Catherby, if you haven't collected supercompost do so now. Herb run
 - Buy buckets from Arhein, buy pots as well. At least 10
 
@@ -1668,6 +1670,7 @@
 * By operating the ring on the portal in the Western ruins, 15,000 Farming experience will be acquired.
 * By operating the ring on the portal in the Forgotten Cemetery, 15,000 Prayer experience will be acquired.
 * By operating the ring on the portal near the magic axe hut (North-East of the Ardougne-Wilderness lever inside the wilderness), 11,250 Attack experience will be acquired. (Take a lockpick if you wish to open the hut doors.)
+* Source: RuneScape Wiki - https://runescape.wiki/w/Spirit_of_Summer
 
 # Bank 106
 - Keep training Divination, if you are lvl 25, teleport to [[Wilderness lodestone|Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at Memorial Guthix, place it on a [[echo plinth]]
@@ -1690,7 +1693,7 @@
 - Teleport Ardougne Monastery, Talk to [[Charlie]] in [[Ardougne Zoo]]. (💬 1•✓)
 - Complete [[Eagles' Peak]]
 * Drop Metal feather, bird book, fake beak, and eagle cape
-- After quest, go West, talk to [[Larry]] but one large/small xp lamp, put into Summoning (lvl 30 Summoning)
+- After quest, go West, talk to [[Larry]], buy one large/small XP lamp, put into Summoning (lvl 30 Summoning)
 * If you don't have the Penguin Points go collect them. If you can't complete this just do this when penguin resets.
 - Bank, withdraw 20 teak planks 40 steel nails repair, arch journal, ring of dueling, teleport to Het's Oasis. Build the two baskets on the Northwest side first, teleport to Arch Campus, go to Kharid-et digsite run to the other flower baskets southeast and repair. 
 * You can now start [[cultivating bush]] to collect flowers for hunting [[Whirligig]]. Water filtration system also gives items to fill the flower basket.
