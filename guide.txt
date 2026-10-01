@@ -1820,3 +1820,4 @@
 - Withdraw: 2 law runes, 2 water runes
 - Teleport to Ardougne
 - Complete Carnillean Rising
+- Take rewards out of chest
