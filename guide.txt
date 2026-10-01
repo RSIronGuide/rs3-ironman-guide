@@ -268,7 +268,7 @@
 - Full Complete Stronghold of Security (Achievement)
 - Perform four emotes from stronghold (Varrock Medium Task)
 - Climb vine to get out
-- Head West, to the Rough stone block, (💬 1), Juna Guthix, (💬 1), Pray at altar, kill enemy [Always select the statue that gives Prayer XP]
+- Head West, to the Rough stone block, (💬 1), God statue, select the statue that gives Prayer XP, Pray at altar, kill enemy
 - Head back to Barbarian Village
 * Optional: complete Player Safety for extra GP
 - Go North to Edgeville, Activate Lodestone
@@ -1036,11 +1036,12 @@
 - Teleport to Canifis, and deposit all
 
 # Bank 63 125 Quest Points
-- Withdraw: decapitated head, teleport runes, ghostspeak amulet, wolfbane dagger
-- Kill a werewolf in its human form using the wolfbane dagger in Canifis [Mory Easy Task]
-- Continue [[Creature of Fenkenstrain]], click the pickled brain on table, buy a pickled brain
+- Withdraw: teleport runes, ghostspeak amulet, wolfbane dagger
+- Start [[Creature of Fenkenstrain]], continue until you get the decapitated head
+- Go to Canifis, kill a werewolf in its human form using the wolfbane dagger [Mory Easy Task]
+- Go to the tavern in Canifis, click the pickled brain on table, buy a pickled brain
 - Use the decapitated head on the pickled brain
-- Continue [[Nature Spirit]] [be sure to have some prayer points to fill druidic pouch, Statue of Juna beside Canifis lodestone is quick]
+- Start [[Nature Spirit]] [be sure to have some prayer points to fill druidic pouch, God statue beside Canifis lodestone is quick]
 - Kill a snail take the loot, click the snail shell and craft it [Mory Easy Task]
 - We cannot make a silver sickle until Grotto request it in the quest [go to a furnace to make it when the time comes]
 - Complete [[Nature Spirit]]
@@ -1104,7 +1105,7 @@
 - Complete Watchtower, grind bat bones, if you don't have a guam, go to Taverley and take the free one at Jatix's shop.
 - Grab jangerberries spawn on small island when you speak with Grew during quest
 - You can safespot the ogres
-- During quest Copernicus Glyph is located just south of Yanille castle, Juna Guthix
+- During quest Copernicus Glyph is located just south of Yanille castle, select the statue that gives Prayer XP
 
 # Bank 69
 - Deposit all, withdraw: ring of kingship, train some dungeoneering if you haven't already we need lvl 17 minimum. Get at least lvl 21 before completing 2nd tears of guthix.
@@ -1453,7 +1454,7 @@
 # Bank 89
 - Equip: Full Mystics, wand and orb, desert amulet 1, Explorer's ring 2
 - Withdraw: ball of wool (to make an extra salve), best food, 6x trout, we may lose some food on the way to Mort'ton. It's okay, we need 6 inventory slots for quest
-- Pray at the Statue of Juna for full prayer
+- Pray at the God statue for full prayer
 - Go down the trapdoor, go through the wooden doors South
 - Take the Swamp Boat
 - Speak to the Zealot, north of the mine west of Burgh de Rott. (💬 1•1•✓•1•3), Accept Quest, Haunted Mine
@@ -1526,7 +1527,7 @@
 - Equip: full rune armour, salve amulet, grimoire, Explorer's ring, silver sickle (b), adamant off hand sword
 - Refer to [In Aid of the Myreque] for item requirements. You should have everything but just make sure, so you don't have to run back. 10 fat snails we can kill during the quest if we get that item
 - Withdraw: 50 nails (any type), 5x buckets, 6x planks, one log, one thin snail, fill the rest of your inventory with trout or a cheap food source
-- Teleport to Canifis, use Statue of Juna if you need prayer points
+- Teleport to Canifis, use God statue if you need prayer points
 - In the hideout behind the Canifis pub, go through the secret wall and squeeze past the stalagmite on the east side of the cave
 - Talk to Veliaf Hurtz. (💬 1•3•✓•1), Accept Quest, In Aid of the Myreque
 - Complete [[In Aid of the Myreque]]
