@@ -1825,4 +1825,5 @@
 # Bank 112
 - Equip: Weapons/armour
 - Withdraw: coal stone spirits and air runes
+- Teleport to Falador Lodestone, go North to [Doric's Hut]
 - Complete Boric's Task I
