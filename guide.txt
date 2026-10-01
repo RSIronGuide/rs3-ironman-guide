@@ -1825,10 +1825,12 @@
 
 # Bank 112
 - Equip: Weapons/armour
-- Withdraw: teleport runes, coal stone spirits, gofannon amulet, and steel ore box
+- Withdraw: teleport runes, coal stone spirits, gofannon amulet, and steel ore box (9 Inventory slots)
 - Complete Boric's Task I 
 * I would use up all your coal spirits minimum
 * You can pick up the coal you mined just north of Seers' Pub, remove coal add it to ore box
 - Teleport to Falador
 - Complete Boric's Task II [Ardougne Medium Task]
 - Mine a full inventory of gold ore when you go to Northwest Karamja during Task, deposit in furnace when you use Lumbridge Teleport
+- After killing the last [Living rock brawler], mine 2 adamant ore 
+- Go Southeast and complete one lap of [Agility Pyramid], use pyramid top on Simon [Desert Medium Task]
