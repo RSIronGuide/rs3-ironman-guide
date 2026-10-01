@@ -1834,3 +1834,5 @@
 - Mine a full inventory of gold ore when you go to Northwest Karamja during Task, deposit in furnace when you use Lumbridge Teleport
 - When you go to the Desert and kill the last brawler, mine two adamant ore
 - Go Southeast to the [Agility Pyramid] complete one lap, use pyramid top on [Simon] [Desert Easy Task]
+- After quest completion, left click "check Gofannon amulet" select Smithing
+- Teleport to Lumbridge, make a [mithril ore box] and then a [adamant ore box]
