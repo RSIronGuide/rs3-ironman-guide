@@ -7,7 +7,7 @@
 - In the settings tab search "notifications", uncheck everything in "Broadcast - Global/Broadcasts - World" (so your chatbox doesn't get spammed)
 * HCIM: be careful going AFK in starter areas, highwaymen will kill you
 * Keep up with repeatable events:
-* Runespheres, Nemi Forest, Herby Werby, Troll Invasion, Memorial to Guthix, Circus, Penguin Hide and Seek, Familiarisation and Evil Tree are all a MUST early game. They will speed up your XP gains tremendously. If you aren't familiar with these minigames, learn them.
+  * Runespheres, Nemi Forest, Herby Werby, Troll Invasion, Memorial to Guthix, Circus, Penguin Hide and Seek, Familiarisation and Evil Tree are all a MUST early game. They will speed up your XP gains tremendously. If you aren't familiar with these minigames, learn them.
 * The beginning of this guide is F2P until a certain point. Without membership you won't see certain items in the shops. Membership is recommended, but it's not necessary for the beginning.
 * The Circus has 13 spawn locations, and where it spawns decides whether you can reach it. If it has a close spawn, go to it while we quest, or run to it now to unlock Surge. If it doesn't, we will finish Death Plateau soon and unlock Surge that way.
 
@@ -1197,35 +1197,7 @@
 - Teleport to Burthorpe Lodestone
 - Trade with Tureal, buy 2 enchanted gems, fishing explosive, 2x facemask and earmuffs
 
-# Bank 74 Necromancy Gear Progression OPTIONAL
-- Deposit all
-* This bank is optional. You can keep following the guide, or stop here and train Necromancy. The guide keeps Magic as the main combat style while questing early, and trains Necromancy later.
-* For early game Necromancy training, you can follow the RS3 Wiki Efficient Ironman Path Guide:
-- Mine 42 iron ore, 14 coal ore, 14 copper ore, and 14 tin ore. Smelt 14 bronze bars, iron bars, and steel bars for Death Skull equipment upgrades.
-- Perform 25 Lesser communion rituals with big bones for 50 souls.
-  * You will need:
-    * 25 Big bones
-    * 46 Basic ghostly ink
-- Unlock the Command Skeleton Warrior talent from the Talent tree
-- Complete 14 lesser ensoul material rituals to obtain lesser ensouled bars to upgrade your necromancy weapons.
-  * You will need:
-    * 14 lesser unensouled bars
-    * 17 Basic ghostly ink
-    * 5 Regular ghostly ink
-    * 5 Ashes
-    * 5 Vial of water
-  * This is enough ensouled bars to upgrade your equipment through level 50.
-- Complete 38 lesser ensoul material rituals to obtain 28 Lesser ensouled cloth and 10 Lesser ensouled thread.
-  * You will need:
-    * 36 Basic ghostly ink
-    * 15 Regular ghostly ink
-    * 15 Ashes
-    * 15 Vial of water
-    * 10 Thread
-    * 28 pieces of spider silk equipment (can be bought from Zaff in Varrock)
-  * This is enough ensouled cloth and thread to upgrade your equipment through level 50.
-
-# Bank 75
+# Bank 74
 * Now is a great time to study [[Revolution/Bars]]. We need to start setting up Revolution bars for our combat styles.
 - Withdraw: feathers, Melancholic bead, Phlegmatic bead, Choleric bead, wicked hood, pet cat, pig, 4 oak planks, make planks at Rimmington if needed
 - Teleport to Rimmington
@@ -1244,7 +1216,7 @@
 - Make one jade necklace, and one emerald ring, enchant both items
 
 
-# Bank 76
+# Bank 75
 - Equip: Full batwing armour
 - Withdraw: teleport runes, 1 thread, 12 coal, Archaeology journal, steel ore box
 - Complete Elemental Workshop I [Earth Elementals are weak to water spells]
@@ -1257,7 +1229,7 @@
 - Teleport to Bank, deposit all
 
 
-# Bank 77
+# Bank 76
 - Withdraw: Excalibur, 12 coal, one soft clay, air runes and water runes for water spells, make a restore potion (harralander with red spider eggs)
 - Complete Elemental Workshop III, read books of knowledge, you should now be 40 smithing
 - When you start the quest, pray at the altar inside the Seers' Village Church [Seers' Village Easy Task]
@@ -1269,7 +1241,7 @@
 - Go to a bank, deposit all
 
 
-# Bank 78
+# Bank 77
 - Withdraw: teleport runes, blue dye, charcoal, gnome spice, fishing bait, bucket, bread, orange slices, and cheese
 * If you don't have orange slices or cheese, teleport to Wendlewick and buy them from The Village Grocery
 - Teleport to Falador
@@ -1288,7 +1260,7 @@
 - Go to bank
 
 
-# Bank 79 150 Quest Points
+# Bank 78 150 Quest Points
 - Equip: adamant armour, adamant sword and off hand sword
 - Withdraw: Excalibur, two Magic whistles, Holy table napkin, Poison chalice, teleport runes, 3 red vine worms, garlic, one limpwurt, red spider eggs, three steel bars, unfired bowl, wizard's mind bomb, silk, crayfish cage
 * If you have no silk go to Varrock and buy some from Thessalia
@@ -1317,7 +1289,7 @@
 * HCIM once you hit 1k total lvl buy an extra life from [[Mr. ex|Mr. Ex]] for 100k. You can buy a third life at 1600 for 10mil later.
 
 
-# Bank 80
+# Bank 79
 - Equip: Desert Robes, Archaeology journal, Traveller's necklace
 - Withdraw: teleport runes, vial (empty), 4 soft clay, papyrus, fire talisman, one pure essence
 - Use Traveller's necklace to Eagles' Eyrie
@@ -1345,7 +1317,7 @@
 * A bag of lost items can be claimed once per day from any rug merchant. You could get your magic logs this way if lucky for Desert Treasure
 - Go to Lumbridge, deposit all
 
-# Bank 81
+# Bank 80
 - Buy 150+ steel nails at the Fort, make 18 willow planks, 6 maple planks (get wood if needed, go to fort/Rimmington if planks needed)
 - Equip: adamant sword and off hand sword, no necklace
 - Withdraw: law, water, and air runes, 6 seaweed, ball of wool, 3 rope, 12 willow planks, 150 steel nails
@@ -1361,7 +1333,7 @@
 - Before crossing the first bridge, repair the dilapidated canoe station
 - Go to bank, deposit all
 
-# Bank 82
+# Bank 81
 - Equip: full black armour, adamant boots and gloves, Silverlight and adamant off hand sword, Grimoire 1, Explorer's ring 2
 - Withdraw: Excalibur, teleport runes, silver bar, vial (empty), Strange implement, Traveller's necklace, some food, 6 free inventory slots
 - Use Traveller's necklace and teleport to Eagles' Eyrie
@@ -1372,7 +1344,7 @@
 - Go to Forester's Arms, trade with bartender, buy 10 stews minimum
 - Go to bank, Deposit all
 
-# Bank 83
+# Bank 82
 - Withdraw: 10 stews, cat (teleport to house and get cat if in Pet House)
 - Complete RFD: Freeing Evil Dave
 * Bring Grimoire 1 to send ashes to bank as well
@@ -1384,7 +1356,7 @@
 - Go to Varrock, buy full green dhide armour from Lowe's Archery Emporium
 - Go to bank, Deposit all
 
-# Bank 84
+# Bank 83
 - Equip: full green dhide armour except boots, maple shortbow, couple food (the guide account survived with no food)
 - Withdraw: light source, 20 limpwurts
 - Complete Temple of Ikov, on the way to talk to Lucien in Ardougne, Cross the River Dougne using the log balance shortcut [Ardougne Medium Task]
@@ -1393,7 +1365,7 @@
 * To check for minigame availability click "Adventures" tab, click "minigames" tab and scroll through the minigames.
 * For Familiarisation minigame also choose "Summoning Ingredients"
 
-# Bank 85
+# Bank 84
 - Equip: full adamant armour, adamant sword, anti-dragon shield, desert amulet, Explorer's ring, grimoire
 - Withdraw: Excalibur, teleport runes, three planks, 90 steel nails (buy at Fort), map part, maze key, 15 food
 - Make sure you have full prayer
@@ -1408,7 +1380,7 @@
 - Rub defence lamp, destroy strength lamp, we will reclaim it @ 40 Strength
 - Go to Shattered Worlds, train magic until you get 50 defence. Always choose Electric and Honourable Mutator
 
-# Bank 86
+# Bank 85
 - Withdraw: law rune, 1 air rune, light source, adamant sword, rope, two thread, maple bow, Traveller's necklace if you have one, little food (we need at least two free inventory slots)
 - Teleport to Al Kharid
 - Go buy an adamant scimitar from Zeke's Superior Scimitars shop
@@ -1418,7 +1390,7 @@
 - Drop Ancestral key and the robes
 - Teleport to Bank
 
-# Bank 87
+# Bank 86
 - Withdraw: law runes, water runes, air runes, 1 super compost, 1 ranarr seed
 - Teleport to Marigold Farm
 - Plant ranarr and thieve farmers until you get at least one limpwurt seed, teleport to Wendlewick to bank, teleport back to Marigold Farm to continue thieving
@@ -1439,7 +1411,7 @@
 - Congratulations! You have completed the Wilderness Easy Achievement, claim your rewards from Mr. Ex in Edgeville. Use antique lamps on prayer, you should now be 45 prayer. We now have full protection prayers.
 * The Wilderness sword is now the best way to the Wilderness herb patch (do it on herb runs), and also a quick teleport to Edgeville
 
-# Bank 88
+# Bank 87
 - Equip: Full Mystics, wand and orb, grimoire, jewellery
 - Withdraw: air runes, two steel bars (if anvil is empty), steel dagger, steel mace, 2x steel sword, steel longsword, 6 regular planks, 75 steel nails, 1 silver sickle (b), 1 druid pouch
 - Teleport to a furnace, make a steel warhammer, make four silver tiaras, deposit silver tiaras (future area tasks)
@@ -1449,7 +1421,7 @@
 - Before talking to Cyreg Paddlehorn fill your druid pouch
 * The boss fight with Skeleton Hellhound is safespottable behind rocks. It also drops 4 big bones and 2 uncut rubies
 
-# Bank 89
+# Bank 88
 - Equip: Full Mystics, wand and orb, desert amulet 1, Explorer's ring 2
 - Withdraw: ball of wool (to make an extra salve), best food, 6x trout, we may lose some food on the way to Mort'ton. It's okay, we need 6 inventory slots for quest
 - Pray at the God statue for full prayer
@@ -1469,7 +1441,7 @@
   * 43 Prayer
 * If you followed the guide up to this point you should meet all the reqs. If you don't, you will need to train them now
 
-# Bank 90
+# Bank 89
 - Withdraw: teleport runes, 15 chaos runes (buy from Ali if needed), bowl, some food, Excalibur, wilderness sword 1, wicked hood (make sure earth talisman is fed into it)
 - Teleport to Fort Forinthry, go South enter Earth Altar [Varrock Easy Task]
 - Teleport to Varrock Lodestone
@@ -1484,7 +1456,7 @@
 * After quest is complete drop the beacon ring, Zaff's instructions, and Sin'keth's diary
 - Teleport to Edgeville and bank
 
-# Bank 91
+# Bank 90
 - Keep everything equipped
 - Withdraw: air runes and water runes, wicked hood, wilderness sword 1, full inventory of trout
 - Go to the abyss, kill abyssal creatures until we get a chaos talisman. Dump 1 talisman into your wicked hood as you get them.
@@ -1493,7 +1465,7 @@
 * Abyss Safespot Location here - https://imgur.com/a/UWwsGYS
 - When done, go to bank
 
-# Bank 92
+# Bank 91
 - Withdraw: air and earth runes (use earth blast), chaos talisman, 3 prayer potions, anti-dragon shield and full inventory of food
 - If no prayer pots, do an herb run, collect ranarrs and plant more ranarrs. Teleport to Rimmington, go Northwest to snape grass spawn and grab as many as you can bear. 20 would be nice.
 - Make some prayer potions
@@ -1505,7 +1477,7 @@
 - House teleport
 * WARNING do not stay in the cave, you will start to take damage, HCIM
 
-# Bank 93
+# Bank 92
 - Deposit inventory, teleport to Varrock Lodestone, mine a full inventory of mithril ore
 - We need at least 1 mithril bar for the upcoming quest, but if you can make 14 we need that many for quest eventually. Deposit them into bank
 - Withdraw: fruit tree, supercompost (start storing supercompost in the tool leprechaun)
@@ -1520,7 +1492,7 @@
 - Cook one tuna
 - Go to bank
 
-# Bank 94
+# Bank 93
 - Equip: full rune armour, salve amulet, grimoire, Explorer's ring, silver sickle (b), adamant off hand sword
 * Check the [[In Aid of the Myreque]] wiki page for item requirements. You should have everything, but make sure so you don't have to run back. The 10 fat snails can be killed during the quest
 - Withdraw: 50 nails (any type), 5x buckets, 6x planks, one log, one thin snail, fill the rest of your inventory with trout or a cheap food source
@@ -1533,7 +1505,7 @@
 - After In Aid of the Myreque is completed, Talk to Veliaf Hurtz again in the Burgh de Rott pub basement. (💬 4•✓•1•2•3•4•5), Accept Quest, [[Darkness of Hallowvale]]
 - Go back up the ladder and go to bank in Burgh de Rott
 
-# Bank 95
+# Bank 94
 - Equip: Full Mystics, wand and orb, salve amulet, Explorer's ring, grimoire
 - Withdraw: air runes (use air blast), three prayer potions, the rest good food (there is a bank in the maze if needed)
 - Complete [[Lair of Tarn Razorlor]]
@@ -1541,7 +1513,7 @@
 * Search for spikes in the walls, adjust camera angle, you can get stacked really quickly in certain areas HCIM, eat up
 * Image of spikes along the wall here - https://imgur.com/a/N6MK9nV
 
-# Bank 96
+# Bank 95
 - Keep armour and weapons on
 - Withdraw: air runes, earth runes (use earth blast), Excalibur, food, (we need 5 free inventory slots)
 - Teleport to Port Sarim, Talk to Gudrik, east of Gerrant's Fishy Business in Port Sarim. (💬 1•✓) Accept Quest [[A Shadow over Ashdale]]
@@ -1556,7 +1528,7 @@
 * Games necklace Agoroth teleport, for getting back each week.
 - Teleport to Bank
 
-# Bank 97 175 Quest Points
+# Bank 96 175 Quest Points
 - Unequip all, deposit all, send follower home
 - Withdraw: Ammo mould, Nulodion's notes, woad leaves, 1 law rune, 1 fire rune, three air runes
 - Teleport to Ardougne Lodestone, check beehives and refill, deposit [[Medicinal honeycomb|medicinal honeycombs]] (use these to heal animals in farms) and woad leaves in deposit box at POF, complete Dwarf Cannon
@@ -1574,7 +1546,7 @@
 - Talk to Aris to complete the quest, use reward XP lamps
 - Congratulations! 175 Quest Points Achieved, go to May's Shop to claim your rewards. We need the money for Kingdom coming up
 
-# Bank 98
+# Bank 97
 - Equip: Full mystics, wand and orb
 - Withdraw: air runes, earth runes, 12 food
 - Complete an Easy [[Temple Trekking]] [Morytania Easy Task]
@@ -1587,7 +1559,7 @@
 * This is a safe death for HCIM, you must be defeated on the 4th fight (you don't actually die)
 * [[Enchanted Lyre]] teleports you to Rellekka
 
-# Bank 99
+# Bank 98
 - Withdraw: three raw sharks, sapphire ring, iron bar, lyre, logs (any kind), cake (should have one if not, [[Ardougne Baker's Stall]] in East Ardougne sells them)
 - House teleport, exit house through Rellekka (4)
 - Go west back to the strange altar, use three raw sharks on the altar, you should now have 60 charges in the [[Enchanted Lyre]]
@@ -1597,7 +1569,7 @@
 * New place to gather teak/mahogany next to a bank. If you need it
 - Teleport to Bank
 
-# Bank 100
+# Bank 99
 - Equip: Full rune armour, adamant sword and off hand sword, BIS jewellery
 - Withdraw: antipoison, Excalibur, enchanted lyre, three food, 13x free inventory slots needed
 * You can collect 5 coal/rope when in the [[Miscellania and Etceteria dungeon]]
@@ -1611,7 +1583,7 @@
 - Buy a few beers from the bartender
 - Congratulations! [[Easy Seers' Village Achievements]] completed! Talk to any [[Seer]] in Seers' Village to claim the rewards, use antique lamp on herblore, claim 210 free flax every week from [[Geoffrey]]
 
-# Bank 101
+# Bank 100
 - Equip: Full mystics, wand and orb, salve amulet(e), Explorer's ring, grimoire (Magic Preset)
 - Withdraw: air runes, earth runes, three prayer potions, 2 waterskins (4), Excalibur, earmuffs, face mask, rope, Catspeak amulet, kitten OR cat, Ghostspeak amulet, plenty of food (10 desert soles is enough)
 - House teleport, exit to Pollnivneach (3), Speak to Sumona in Pollnivneach (💬 ✓) (without a cat pet out) Accept Quest
@@ -1619,7 +1591,7 @@
 - Complete [[Smoking Kills]]
 * Boss fight protect from ranged and eat up
 
-# Bank 102
+# Bank 101
 - Keep equipment on but equip ring of dueling
 - Withdraw: cat, air runes, earth runes, 1 beer, 2 law runes, 2 water runes, unicorn horn, cowhide, one raw swordfish, and one raw chicken if you have it. We can do it later or go to Lumbridge and kill a chicken really quick.
 - Teleport to Ardougne [Ardougne Medium Task]
@@ -1637,7 +1609,7 @@
 * Kandarin Monastery Teleport is now a permanently unlocked spell, you don't need to bring ardy cloak to teleport there
 - Bank
 
-# Bank 103
+# Bank 102
 - Equip: BIS gear or full mystics, wand and orb, BIS jewellery, Explorer's ring 2
 - Withdraw: Air/Earth runes, ball of wool, gold bar, super antipoison, prayer potion, Excalibur, ring of dueling (if you have it), 10 desert soles
 - Teleport to Al Kharid, take the gnome glider with [[Captain Dalbur]] to Ta Quir Priw (1)
@@ -1650,7 +1622,7 @@
 - After the quest, speak to Daero (💬 1•2) Focus Attack and Defence
 - Drop 10th squad sigil, Gnome royal seal
 
-# Bank 104
+# Bank 103
 - Withdraw: 12 bronze bars (make/mine some if you don't have them), make three bronze claws, keep 6 bronze bars
 - Withdraw: teleport runes, clean harralander, clean marrentill, and vial of water, 6 bronze bars, 3 bronze claws, 3 buckets of sand, 3 crimson charms, 3 green charms, 3 gold charms, wolf bones if you have them
 - Teleport to Taverley Lodestone, kill wolves until you have three [[Wolf bone|wolf bones]] total (Odd Old Man's wish list)
@@ -1662,7 +1634,7 @@
 - Community Teleport to Liberation of Mazcab, go South you should see a shiny [[frogburger]] pick it up [[Benedict's World Tour]]
 - Benedict's World Tour quest completed, use small/large lamps on Summoning
 
-# Bank 105
+# Bank 104
 - Withdraw: air/earth runes (if mage), ghostspeak amulet, 4 steel nails, 5 bones, 3 spirit scorpion pouches, 3 spirit wolf pouches, 3 desert wyrm pouches, 2 desert soles
 * You don't need to bring the rest of the items (skull, hammer, bucket, 2 planks), they are on the ground during the quest.
 - Complete Spirit of Summer
@@ -1673,7 +1645,7 @@
 * By operating the ring on the portal near the magic axe hut (North-East of the Ardougne-Wilderness lever inside the wilderness), 11,250 Attack experience will be acquired. (Take a lockpick if you wish to open the hut doors.)
 * Source: RuneScape Wiki - https://runescape.wiki/w/Spirit_of_Summer
 
-# Bank 106
+# Bank 105
 - Keep training Divination, if you are lvl 25, teleport to [[Wilderness lodestone|Wilderness Lodestone]] collect [[Sword of Edicts engram]]. Collect bright wisps West of Arch Campus. Turn it in to [[Orla]] at the Memorial to Guthix, place it on a [[echo plinth]]
 - Make [[Boon of bright energy]] when you can. Permanent XP boost while div training
 - You should be lvl 20 in all non-elite skills, if not do this when you are. Go back to Violet is Blue 1 portal, investigate crate here - https://imgur.com/a/03Vm4ZD
@@ -1689,7 +1661,7 @@
 * When you get 27 hunter pause
 - Bank
 
-# Bank 107
+# Bank 106
 - Withdraw: teleport runes, Yellow Dye, swamp tar, weapon, ardougne cloak
 - Teleport to Ardougne Monastery, Talk to [[Charlie]] in [[Ardougne Zoo]]. (💬 1•✓)
 - Complete [[Eagles' Peak]]
@@ -1767,7 +1739,7 @@
 - Teleport to Ardougne Lodestone, run north-east to [[Manor Farm]], the herb patch is on the north side
 * End here so you can do your Player-owned farm daily without rushing
 
-# Bank 108
+# Bank 107
 - Withdraw: teleport runes, decapitated head, silver bar, 3 bronze wire, needle, 5 thread, ghostspeak amulet (equipped), Wilderness sword 1 (quick teleport to bank), 7 free inventory slots
 - Teleport to Catherby Lodestone, talk to [[Arhein]] on the docks, south of the lodestone (💬 3•1) [One Small Favour]
 - Buy seaweed and pineapples from Arhein
@@ -1791,14 +1763,14 @@
 * After quest is completed, drop extended brush, conductor mould, and cavern key
 - Teleport to Lumbridge, bank
 
-# Bank 109
+# Bank 108
 - Withdraw: 3 rope, 3 small fishing nets
 - Teleport to Canifis Lodestone, run South
 - Catch [[green salamanders]] until 32 hunter
 * At lvl 30 Hunter you can set 3 traps
 - Teleport to Edgeville with Wilderness sword 1
 
-# Bank 110
+# Bank 109
 - Equip: Weapon and armour (remember runes/ammo)
 - Withdraw: thread, silk, spade (not toolbelt), oak longbow, bowl of water, leather gloves, bucket of milk, 3x red dye, 3x blue dye, 3x yellow dye, ghostspeak amulet (equipped), 3x free inventory slots
 * Optional: bring extra dragon bones and buckets of slime. 5 of each gives free Prayer XP and about 25 ecto tokens.
@@ -1811,7 +1783,7 @@
 * After quest is complete drop treasure map, bed sheets, and bone key
 - Go to bank in Port Phasmatys
 
-# Bank 111
+# Bank 110
 - Equip: BIS gear, BIS jewellery
 - Withdraw: Teleport runes, ectophial, prayer potion, 10 food
 - Complete Rum Deal
@@ -1822,7 +1794,7 @@
 - Complete Carnillean Rising put both XP lamps into Summoning
 - Destroy philips note, and the treasure chest after you deposit everything
 
-# Bank 112
+# Bank 111
 - Equip: Weapons/armour
 - Withdraw: teleport runes, coal stone spirits, gofannon amulet, and steel ore box
 - Complete Boric's Task I
@@ -1836,7 +1808,7 @@
 - After quest completion, left click "check Gofannon amulet" select Smithing
 - Teleport to Lumbridge, make a mithril ore box and then an adamant ore box
 
-# Bank 113
+# Bank 112
 - Equip: Gofannon amulet, Wilderness sword 1, ardougne cloak
 - Withdraw: adamant ore box, have in anvil: 10 steel bars, 8 mithril bars, 2 bronze bars, withdraw them at the anvil at Doric's Hut if you need them
 - Teleport to Falador Lodestone, Speak to Doric in his hut north of Falador. (💬 1•✓) Accept Quest
