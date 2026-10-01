@@ -1056,7 +1056,7 @@
 - Complete [[Jungle Potion]]
 - During quest:
 - Take three snake weeds [[Zogre Flesh Eaters]]/ [[Legends' Quest]]
-- Take two valencia moss [[Legends' Quest]]
+- Take two ardrigal [[Legends' Quest]]
 - Take two Grimy rogue's purse [[Zogre Flesh Eaters]]
 - Kill a jogre, take jogre bones [Karamja Easy Task] [[Tai Bwo Wannai Trio]]
 - Complete [[Shilo Village]] (all enemies are safespottable)
