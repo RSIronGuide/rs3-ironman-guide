@@ -1836,3 +1836,9 @@
 - Go Southeast to the [Agility Pyramid] complete one lap, use pyramid top on [Simon] [Desert Easy Task]
 - After quest completion, left click "check Gofannon amulet" select Smithing
 - Teleport to Lumbridge, make a [mithril ore box] and then a [adamant ore box]
+
+# Bank 113
+- Equip: Gofannon amulet, wilderness 1
+- Withdraw: adamant ore box, 10 steel bars, 2 bronze bars, 8 mithril bars
+- Teleport to Falador Lodestone, Speak to Doric in his hut north of Falador. (Chat 1•✓) Accept Quest
+- Complete Doric's Task II
