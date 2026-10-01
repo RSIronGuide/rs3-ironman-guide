@@ -993,7 +993,7 @@
 - Withdraw: Archaeology journal, charcoal, cup of tea, vial, 2 rope, opal
 - If you don't have a cup of tea steal another in Varrock
 - Complete [[The Dig Site]]
-- You can trade in your level 3 certificate for a free fruit blast
+- You can trade in your level 3 certificate for a free fruit blast [[RFD: Cook's Assisant]]
 
 # Bank 59
 - Teleport to Taverley and keep collecting 5 limpwurts, 5 whiteberries, and 5 unicorn dust from Jatix's Herblore Shop. Buy 5 vial of water and 5 eye of newts packs
@@ -1041,7 +1041,6 @@
 - Start [[Creature of Fenkenstrain]], continue until you get the decapitated head
 - Go to the tavern in Canifis, click the pickled brain on table, buy a pickled brain
 - Use the decapitated head on the pickled brain
-- Talk to [Drezel], who is located underground near Paterdomus. If you have Wolfbane in your bank or backpack: (Chat 2•✓•4•1)
 - Start [[Nature Spirit]] [be sure to have some prayer points to fill druidic pouch, God statue beside Canifis lodestone is quick]
 - Kill a snail take the loot, click the snail shell and craft it [Mory Easy Task]
 - Chop any tree in the swamp, light it and cook the thin snail on the fire [Mory Easy Task]
