@@ -1009,7 +1009,7 @@
 - Teleport to Bank
 
 # Bank 61
-- Withdraw: Bar Crawl car, 3 planks, bronze bar, molten glass
+- Withdraw: 3 planks, bronze bar, molten glass
 - Complete [[Observatory Quest]] (use Yanille Lodestone to get there)
 - When passing castle wars go up the castle wall thru the north entrance, grab sweet [[Benedict's World Tour]]
 - When you enter the Observatory Building, Read the "Shooting Star noticeboard" [Easy Ardougne Task]
@@ -1415,7 +1415,7 @@
 - Go buy an adamant scimitar from Zeke's Superior Scimitars shop
 - Teleport to Varrock, buy 20 adamant arrows
 - Complete Spirits of the Elid, to get to Nardah quickly, use house teleport, teleport to Pollnivneach House Teleport and take carpet ride to Nardah.
-* After quest pray at the [Elidinis Statuette] [Desert Medium Task]
+* After quest pray at the Elidinis Statuette [Desert Medium Task]
 - Drop Ancestral key and the robes
 - Teleport to Bank
 
@@ -1636,7 +1636,7 @@
 - Pick up cat, deposit all at bank chest
 - Enter the [[Castle Wars]] waiting room [Ardougne Easy Task]
 * Congratulations! Easy Ardougne Achievements Completed! Talk to [[Doctor Orbon]], who is located in the East Ardougne church, to claim the rewards
-* [Kandarin Monastery Teleport] is now permanantly unlocked spell, you don't need to bring ardy cloak to teleport there
+* Kandarin Monastery Teleport is now a permanently unlocked spell, you don't need to bring ardy cloak to teleport there
 - Bank
 
 # Bank 103
@@ -1733,7 +1733,7 @@
 # Monthly
 - [[Troll Invasion]]
 - Giant Oyster with Wizard Myrtle (Beneath Cursed Tides)
-- Troll Invansion
+- Troll Invasion
 
 # Tree and Fruit Tree Run
 * Fruit trees take 16 hours, so do them once a day. Willow trees take 4 hours, maple trees 5 hours 20 minutes
@@ -1815,41 +1815,41 @@
 - Go to bank in Port Phasmatys
 
 # Bank 111
-- Equip: BIS gear, BIS jewlery
+- Equip: BIS gear, BIS jewellery
 - Withdraw: Teleport runes, ectophial, prayer potion, 10 food
 - Complete Rum Deal
-- When you plant blindweed, kill zombies while you wait, pick up [Zombie bone] [[Rag and Bone Wishlist]]
+- When you plant blindweed, kill zombies while you wait, pick up Zombie bone [[Rag and bone wishlist|Rag and Bone Wishlist]]
 - Go to bank, unequip all, deposit all
 - Withdraw: 2 law runes, 2 water runes
 - Teleport to Ardougne
-- Complete Carnillean Rising put both xp lamps into Summoning
+- Complete Carnillean Rising put both XP lamps into Summoning
 - Destroy philips note, and the treasure chest after you deposit everything
 
 # Bank 112
 - Equip: Weapons/armour
 - Withdraw: teleport runes, coal stone spirits, gofannon amulet, and steel ore box
-- Complete Boric's Task I 
+- Complete Boric's Task I
 * I would use up all your coal spirits minimum
 * You can pick up the coal you mined just north of Seers' Pub, remove coal add it to ore box
 - Teleport to Falador
 - Complete Boric's Task II [Ardougne Medium Task]
 - Mine a full inventory of gold ore when you go to Northwest Karamja during Task, deposit in furnace when you use Lumbridge Teleport
 - When you go to the Desert and kill the last brawler, mine two adamant ore
-- Go Southeast to the [Agility Pyramid] complete one lap, use pyramid top on [Simon] [Desert Easy Task]
+- Go Southeast to the Agility Pyramid complete one lap, use pyramid top on Simon [Desert Easy Task]
 - After quest completion, left click "check Gofannon amulet" select Smithing
-- Teleport to Lumbridge, make a [mithril ore box] and then a [adamant ore box]
+- Teleport to Lumbridge, make a mithril ore box and then an adamant ore box
 
 # Bank 113
 - Equip: Gofannon amulet, wilderness 1, ardougne cloak
 - Withdraw: adamant ore box, have in anvil: 10 steel bars, 8 mithril bars, 2 bronze bars, withdraw them at the anvil at Doric's Hut if you need them
-- Teleport to Falador Lodestone, Speak to Doric in his hut north of Falador. (Chat 1•✓) Accept Quest
+- Teleport to Falador Lodestone, Speak to Doric in his hut north of Falador. (💬 1•✓) Accept Quest
 - Complete Doric's Task II
 - Teleport to Falador Lodestone
 - Complete Doric's Task III
-- check Gofannon amulet use on smithing
+- Check Gofannon amulet use on smithing
 - House teleport, exit thru Rimmington (1)
-- Go to [Rimmington Mine] we need 48 adamant ore, if you need gold ore for jewelery grab some here too. 
-- Teleport to [Kandarin Monastery] go West to [Ourania Battlefield mine], mine 48 luminite ore
+- Go to Rimmington Mine we need 48 adamant ore, if you need gold ore for jewellery grab some here too.
+- Teleport to Kandarin Monastery go West to Ourania Battlefield mine, mine 48 luminite ore
 - Teleport to Fort Forinthry, make 48 adamant bars, full adamant armour +2 for Doric's Task IV
 - Teleport to Falador
-- Complete Doric's Task IV - check Gofannon amulet, put bonus xp into smithing
+- Complete Doric's Task IV - check Gofannon amulet, put bonus XP into smithing
