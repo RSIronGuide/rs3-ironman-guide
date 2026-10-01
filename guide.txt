@@ -1716,6 +1716,7 @@
 - [[Player-owned farm]] refill the beehives with woad leaves, bank the medicinal honeycombs
 - Every few days: check the Water Filtration System at Het's Oasis and your rested XP at the Fort Forinthry Town Hall
 * Optional: Daily Challenges, Sinkholes
+- Buy herblore secondaries from Jatix's Herblore Shop
 
 # Weekly Run
 * Weeklies reset Wednesday 00:00 UTC
