@@ -1415,6 +1415,7 @@
 - Go buy an adamant scimitar from Zeke's Superior Scimitars shop
 - Teleport to Varrock, buy 20 adamant arrows
 - Complete Spirits of the Elid, to get to Nardah quickly, use house teleport, teleport to Pollnivneach House Teleport and take carpet ride to Nardah.
+* After quest pray at the [Elidinis Statuette] [Desert Medium Task]
 - Drop Ancestral key and the robes
 - Teleport to Bank
 
@@ -1830,4 +1831,4 @@
 * You can pick up the coal you mined just north of Seers' Pub, remove coal add it to ore box
 - Teleport to Falador
 - Complete Boric's Task II [Ardougne Medium Task]
-- Mine a full inventory of gold ore when you go to Northwest Karamja during Task, deposit when you use Lumbridge Teleport
+- Mine a full inventory of gold ore when you go to Northwest Karamja during Task, deposit in furnace when you use Lumbridge Teleport
