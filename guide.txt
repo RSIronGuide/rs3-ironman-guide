@@ -1819,4 +1819,10 @@
 - Go to bank, unequip all, deposit all
 - Withdraw: 2 law runes, 2 water runes
 - Teleport to Ardougne
-- Complete Carnillean Rising
+- Complete Carnillean Rising put both xp lamps into Summoning
+- Destroy philips note, and the treasure chest after you deposit everything
+
+# Bank 112
+- Equip: Weapons/armour
+- Withdraw: coal stone spirits and air runes
+- Complete Boric's Task I
