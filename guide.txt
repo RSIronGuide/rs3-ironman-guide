@@ -1636,6 +1636,7 @@
 - Pick up cat, deposit all at bank chest
 - Enter the [[Castle Wars]] waiting room [Ardougne Easy Task]
 * Congratulations! Easy Ardougne Achievements Completed! Talk to [[Doctor Orbon]], who is located in the East Ardougne church, to claim the rewards
+* [Kandarin Monastery Teleport] is now permanantly unlocked spell, you don't need to bring ardy cloak to teleport there
 - Bank
 
 # Bank 103
@@ -1851,7 +1852,3 @@
 - Teleport to Fort Forinthry, make 48 adamant bars, full adamant armour +2 for Doric's Task IV
 - Teleport to Falador
 - Complete Doric's Task IV - check Gofannon amulet, put bonus xp into smithing
-
-
-
-
