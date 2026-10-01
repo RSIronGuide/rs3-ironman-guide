@@ -1037,8 +1037,8 @@
 
 # Bank 63 125 Quest Points
 - Withdraw: teleport runes, ghostspeak amulet, wolfbane dagger
+- Kill a werewolf in its human form using the wolfbane dagger in Canifis [Mory Easy Task]
 - Start [[Creature of Fenkenstrain]], continue until you get the decapitated head
-- Go to Canifis, kill a werewolf in its human form using the wolfbane dagger [Mory Easy Task]
 - Go to the tavern in Canifis, click the pickled brain on table, buy a pickled brain
 - Use the decapitated head on the pickled brain
 - Start [[Nature Spirit]] [be sure to have some prayer points to fill druidic pouch, God statue beside Canifis lodestone is quick]
