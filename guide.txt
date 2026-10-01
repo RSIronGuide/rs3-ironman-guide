@@ -1041,6 +1041,7 @@
 - Start [[Creature of Fenkenstrain]], continue until you get the decapitated head
 - Go to the tavern in Canifis, click the pickled brain on table, buy a pickled brain
 - Use the decapitated head on the pickled brain
+- Talk to [Drezel], who is located underground near Paterdomus. If you have Wolfbane in your bank or backpack: (Chat 2•✓•4•1)
 - Start [[Nature Spirit]] [be sure to have some prayer points to fill druidic pouch, God statue beside Canifis lodestone is quick]
 - Kill a snail take the loot, click the snail shell and craft it [Mory Easy Task]
 - Chop any tree in the swamp, light it and cook the thin snail on the fire [Mory Easy Task]
