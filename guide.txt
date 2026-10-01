@@ -1824,6 +1824,10 @@
 
 # Bank 112
 - Equip: Weapons/armour
-- Withdraw: coal stone spirits and air runes
-- Teleport to Falador Lodestone, go North to [Doric's Hut]
-- Complete Boric's Task I
+- Withdraw: teleport runes, coal stone spirits, gofannon amulet, and steel ore box
+- Complete Boric's Task I 
+* I would use up all your coal spirits minimum
+* You can pick up the coal you mined just north of Seers' Pub, remove coal add it to ore box
+- Teleport to Falador
+- Complete Boric's Task II [Ardougne Medium Task]
+- Mine a full inventory of gold ore when you go to Northwest Karamja during Task, deposit when you use Lumbridge Teleport
