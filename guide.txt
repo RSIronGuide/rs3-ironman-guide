@@ -1816,4 +1816,7 @@
 - Withdraw: Teleport runes, ectophial, prayer potion, 10 food
 - Complete Rum Deal
 - When you plant blindweed, kill zombies while you wait, pick up [Zombie bone] [[Rag and Bone Wishlist]]
-* Drop fishbow and net after quest is complete
+- Go to bank, unequip all, deposit all
+- Withdraw: 2 law runes, 2 water runes
+- Teleport to Ardougne
+- Complete Carnillean Rising
