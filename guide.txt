@@ -1457,7 +1457,7 @@
 - Go down the trapdoor, go through the wooden doors South
 - Take the Swamp Boat
 - Speak to the Zealot, north of the mine west of Burgh de Rott. (💬 1•1•✓•1•3), Accept Quest, Haunted Mine
-- Complete Haunted Mine, you need three free inventory slots at the end to fully complete the quest
+- Complete Haunted Mine, you need three free inventory slots at the end to fully complete the quest (collect two luminite ore while down there drop food if you need to)
 * Treus Dayth boss fight, activate Excalibur before fight
 * Use Mystic Might: raises your Magic accuracy as if you had 6 more Magic levels.
 * Use Overcharge: +6% Magic damage. It only clashes with other Magic damage prayers, so it works fine alongside Mystic Might.
@@ -1825,12 +1825,10 @@
 
 # Bank 112
 - Equip: Weapons/armour
-- Withdraw: teleport runes, coal stone spirits, gofannon amulet, and steel ore box (9 Inventory slots)
+- Withdraw: teleport runes, coal stone spirits, gofannon amulet, and steel ore box
 - Complete Boric's Task I 
 * I would use up all your coal spirits minimum
 * You can pick up the coal you mined just north of Seers' Pub, remove coal add it to ore box
 - Teleport to Falador
 - Complete Boric's Task II [Ardougne Medium Task]
 - Mine a full inventory of gold ore when you go to Northwest Karamja during Task, deposit in furnace when you use Lumbridge Teleport
-- After killing the last [Living rock brawler], mine 2 adamant ore 
-- Go Southeast and complete one lap of [Agility Pyramid], use pyramid top on Simon [Desert Medium Task]
