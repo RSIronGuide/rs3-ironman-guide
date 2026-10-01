@@ -1841,4 +1841,4 @@
 - Equip: Gofannon amulet, wilderness 1
 - Withdraw: adamant ore box, 10 steel bars, 2 bronze bars, 8 mithril bars
 - Teleport to Falador Lodestone, Speak to Doric in his hut north of Falador. (Chat 1•✓) Accept Quest
-- Complete Doric's Task II
+- Complete Doric's Task II - READ task list to know what to make
