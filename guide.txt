@@ -1506,8 +1506,8 @@
 * WARNING do not stay in the cave, you will start to take damage, HCIM
 
 # Bank 93
-- Deposit inventory, teleport to Varrock Lodestone, mine 11 mithril ore
-- We need at least 1 mithril bar for the upcoming quest, but if you can make 10 we need that many for quest eventually. Deposit them into bank
+- Deposit inventory, teleport to Varrock Lodestone, mine a full inventory mithril ore
+- We need at least 1 mithril bar for the upcoming quest, but if you can make 14 we need that many for quest eventually. Deposit them into bank
 - Withdraw: fruit tree, supercompost [I would start storing supercompost in the Tool leprechaun]
 - Teleport to Catherby, trade with Harry, buy a Big fishing net
 - Plant the fruit tree, drop the bucket and pot plant
@@ -1820,4 +1820,3 @@
 - Withdraw: 2 law runes, 2 water runes
 - Teleport to Ardougne
 - Complete Carnillean Rising
-- Take rewards out of chest
