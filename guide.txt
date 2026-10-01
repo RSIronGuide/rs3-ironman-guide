@@ -7,7 +7,7 @@
 - In the settings tab search "notifications", uncheck everything in "Broadcast - Global/Broadcasts - World" (so your chatbox doesn't get spammed)
 * HCIM: be careful going AFK in starter areas, highwaymen will kill you
 * Keep up with repeatable events:
-  * Runespheres, Nemi Forest, Herby Werby, Troll Invasion, Memorial to Guthix, Circus, Penguin Hide and Seek, Familiarisation and Evil Tree are all a MUST early game. They will speed up your XP gains tremendously. If you aren't familiar with these minigames, learn them.
+* Runespheres, Nemi Forest, Herby Werby, Troll Invasion, Memorial to Guthix, Circus, Penguin Hide and Seek, Familiarisation and Evil Tree are all a MUST early game. They will speed up your XP gains tremendously. If you aren't familiar with these minigames, learn them.
 * The beginning of this guide is F2P until a certain point. Without membership you won't see certain items in the shops. Membership is recommended, but it's not necessary for the beginning.
 * The Circus has 13 spawn locations, and where it spawns decides whether you can reach it. If it has a close spawn, go to it while we quest, or run to it now to unlock Surge. If it doesn't, we will finish Death Plateau soon and unlock Surge that way.
 
