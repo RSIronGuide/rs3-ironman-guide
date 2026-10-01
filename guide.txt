@@ -1838,7 +1838,20 @@
 - Teleport to Lumbridge, make a [mithril ore box] and then a [adamant ore box]
 
 # Bank 113
-- Equip: Gofannon amulet, wilderness 1
-- Withdraw:teleport runes, have in anvil: 10 steel bars, 8 mithril bars, 2 bronze bars, withdraw then at the anvil at Doric's Hut if you need them
+- Equip: Gofannon amulet, wilderness 1, ardougne cloak
+- Withdraw: adamant ore box, have in anvil: 10 steel bars, 8 mithril bars, 2 bronze bars, withdraw them at the anvil at Doric's Hut if you need them
 - Teleport to Falador Lodestone, Speak to Doric in his hut north of Falador. (Chat 1•✓) Accept Quest
 - Complete Doric's Task II
+- Teleport to Falador Lodestone
+- Complete Doric's Task III
+- check Gofannon amulet use on smithing
+- House teleport, exit thru Rimmington (1)
+- Go to [Rimmington Mine] we need 48 adamant ore, if you need gold ore for jewelery grab some here too. 
+- Teleport to [Kandarin Monastery] go West to [Ourania Battlefield mine], mine 48 luminite ore
+- Teleport to Fort Forinthry, make 48 adamant bars, full adamant armour +2 for Doric's Task IV
+- Teleport to Falador
+- Complete Doric's Task IV - check Gofannon amulet, put bonus xp into smithing
+
+
+
+
