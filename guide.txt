@@ -1832,3 +1832,5 @@
 - Teleport to Falador
 - Complete Boric's Task II [Ardougne Medium Task]
 - Mine a full inventory of gold ore when you go to Northwest Karamja during Task, deposit in furnace when you use Lumbridge Teleport
+- When you go to the Desert and kill the last brawler, mine two adamant ore
+- Go Southeast to the [Agility Pyramid] complete one lap, use pyramid top on [Simon] [Desert Easy Task]
