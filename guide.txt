@@ -1828,4 +1828,34 @@
 - Withdraw: climbing boots (or buy during the quest), food
 - Teleport to Burthorpe Lodestone, Talk to Commander Denulth in Burthorpe, east of the castle. (Chat 1•2•✓)
 - Complete Troll Stronghold, put both xp lamps int Agility. 
-* Once you hit 48 agility you get triple loot from master farmers at 58 Thieving
+* 48 Agility you get triple loot from master farmers at 58 Thieving
+* 50 Agility you get triple loot from guards at 60 Thieving
+
+# Slayer 45 and 60 Magic
+- Get a slayer task from Raptor. Train Slayer to 45 using Magic only. Search "combat XP" in settings and turn off Defence XP for Magic
+- Train Magic to 60. You can AFK this or do it now
+
+# Reaper Assignments (45 Slayer)
+* Unlocks at 45 Slayer and 50 Combat
+- Go to Death's office and talk to Death, turn OFF skilling boss assignments before taking your first task
+* We don't want Croesus this early. It's slow, needs high gathering levels
+- Get a reaper assignment from Death
+* Check which boss you got BEFORE you go. If you can't kill it comfortably, don't attempt it on a hardcore, boss deaths are NOT safe deaths. HCIM
+* Bring your best gear, prayer potions and plenty of food. Always have a teleport ready
+- Complete reaper assignments for Slayer XP
+* You can earn up to 300 Reaper points per week (resets Wednesday 00:00 UTC), so keep doing them weekly
+* Tasks also give Slayer reward points with no weekly cap
+* Treat reaper tasks as a weekly. Add them to your Weekly Run once you start
+
+# 60 Magic: Mage Arena
+* The Mage Arena is deep in the Wilderness. Bring food and a teleport, don't bring anything you can't afford to lose. HCIM
+- Complete the [[Mage Arena]] miniquest
+- Enter the [[Sparkling Pool]] and claim the [[Guthix cape]] and [[Guthix staff]]
+- Pray at the [[Statue of Guthix]] for the Guthix cape
+- Talk to the [[Chamber guardian]] for the Guthix staff
+- Cast the [[Divine Storm]] spell 100 times on a [[Battle mage]] inside the Mage Arena (Wilderness)
+  * Switch to Full Manual
+  * Equip Mystic wand and Mystic orb
+  * Withdraw 500 Air runes and food
+  * Set your Magic to autocast Divine Storm on both weapons
+  * Attack a Battle mage until you run out of runes
