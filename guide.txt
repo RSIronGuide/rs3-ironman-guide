@@ -1831,7 +1831,7 @@
 * 48 Agility you get triple loot from master farmers at 58 Thieving
 * 50 Agility you get triple loot from guards at 60 Thieving
 
-# Slayer 45 and 60 Magic
+# Bank 114
 - Get a slayer task from Raptor. Train Slayer to 45 using Magic only. Search "combat XP" in settings and turn off Defence XP for Magic
 - Train Magic to 60. You can AFK this or do it now
 
