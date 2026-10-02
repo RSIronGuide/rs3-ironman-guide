@@ -1833,8 +1833,7 @@
 
 # Bank 114
 - Get a slayer task from Raptor. Train Slayer to 45 using Magic only. Search "combat XP" in settings and turn off Defence XP for Magic
-- Train Magic to 60. You can AFK this or do it now
-
+- Train Magic to 60. 
 # Reaper Assignments (45 Slayer)
 * Unlocks at 45 Slayer and 50 Combat
 - Go to Death's office and talk to Death, turn OFF skilling boss assignments before taking your first task
