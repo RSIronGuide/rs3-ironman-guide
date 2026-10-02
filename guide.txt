@@ -1791,7 +1791,7 @@
 - Go to bank, unequip all, deposit all
 - Withdraw: 2 law runes, 2 water runes
 - Teleport to Ardougne
-- Complete Carnillean Rising put both XP lamps into Summoning
+- Complete Carnillean Rising put both XP lamps into Crafting
 - Destroy philips note, and the treasure chest after you deposit everything
 
 # Bank 111
