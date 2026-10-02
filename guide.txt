@@ -1848,9 +1848,9 @@
 # Bank 114
 - Get a slayer task from Raptor. Train Slayer to 45 using Magic only. Search "combat XP" in settings and turn off Defence XP for Magic
 - Train Magic to 60. 
-# Reaper Assignments (45 Slayer)
+# 45 Slayer Reaper Assignments
 * Unlocks at 45 Slayer and 50 Combat
-- Go to Death's office and talk to Death, turn OFF skilling boss assignments before taking your first task
+- Go to Death's office and talk to Death, turn OFF skilling boss assignments/group bossing, under "gameplay", search "slayer" before taking your first task
 * We don't want Croesus this early. It's slow, needs high gathering levels
 - Get a reaper assignment from Death
 * Check which boss you got BEFORE you go. If you can't kill it comfortably, don't attempt it on a hardcore, boss deaths are NOT safe deaths. HCIM
