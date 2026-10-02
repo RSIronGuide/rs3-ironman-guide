@@ -1827,4 +1827,5 @@
 - Equip - BIS gear, trolls are weak to water spells
 - Withdraw: climbing boots (or buy during the quest), food
 - Teleport to Burthorpe Lodestone, Talk to Commander Denulth in Burthorpe, east of the castle. (Chat 1•2•✓)
-- Complete Troll Stronghold
+- Complete Troll Stronghold, put both xp lamps int Agility. 
+* Once you hit 48 agility you get triple loot from master farmers at 58 Thieving
