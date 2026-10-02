@@ -1822,3 +1822,9 @@
 - Teleport to Fort Forinthry, make 48 adamant bars, full adamant armour +2 for Doric's Task IV
 - Teleport to Falador
 - Complete Doric's Task IV - check Gofannon amulet, put bonus XP into smithing
+
+# Bank 113
+- Equip - BIS gear, trolls are weak to water spells
+- Withdraw: climbing boots (or buy during the quest), food
+- Teleport to Burthorpe Lodestone, Talk to Commander Denulth in Burthorpe, east of the castle. (Chat 1•2•✓)
+- Complete Troll Stronghold
