@@ -1793,6 +1793,15 @@
 - Teleport to Ardougne
 - Complete Carnillean Rising put both XP lamps into Crafting
 - Destroy philips note, and the treasure chest after you deposit everything
+* Additional rewards/activities - after quest you can collect xp lamps from Phillip around Geilinor
+- Combat Training Camp (found northwest of Ardougne) - 2,000 skills experience (Skill must be level 30 or higher) - use on agility
+* You should now be 48 agility, we can now afk Master Farmers for seeds efficiently. 
+- West of the Mountain Camp entrance - 5,000 skills experience (Skill must be level 40 or higher)  - use on herblore
+- Top level of Shilo Village, in Paramaya inn Dormitory. -  	5,000 skills experience (Skill must be level 40 or higher) - use on herblore
+- @ 200 Quest points - Port Phasmatys's Inn, called: The Green Ghost - 10,000 skills experience (Skill must be level 55 or higher)
+- Continues up to 450 quest points. 
+- Talk to Claus the chef and then defeat the wolf matriarch to obtain her skull.
+
 
 # Bank 111
 - Equip: Weapons/armour
