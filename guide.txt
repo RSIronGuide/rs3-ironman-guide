@@ -620,7 +620,7 @@
 - Withdraw: 25 pure essence, empty bucket and Archaeology journal
 - Teleport to Archaeology Campus/Fort Forinthry Lodestone
 - Complete Priest In Peril, Quest Completed
-- Activate Canifis Lodestone, to the east Talk to Copernicus Glyph and sculpt the rock for XP, choose the statue that gives Prayer XP.
+- Activate Canifis Lodestone, to the east Talk to Copernicus Glyph and sculpt the rock for XP, Build the Statue of K'ril Tsutsaroth (Zamorak).
 - Pick 2 nettles
 - Go back and Complete Missing, Presumed Death (put the combat XP lamp into Magic)
 - Do a farm run, check Anachronia base camp
