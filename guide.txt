@@ -1666,6 +1666,7 @@
 - Teleport to Ardougne Monastery, Talk to [[Charlie]] in [[Ardougne Zoo]]. (💬 1•✓)
 - Complete [[Eagles' Peak]]
 * Drop Metal feather, bird book, fake beak, and eagle cape
+* KEEP your ferret for Jackalope hunter training
 - After quest, go West, talk to [[Larry]], buy one large/small XP lamp, put into Summoning (lvl 30 Summoning)
 * If you don't have the Penguin Points go collect them. If you can't complete this just do this when penguin resets.
 - Go to Karamja, talk to [[Pirate Jackie the Fruit]] at the Brimhaven Agility Arena. Claim rewards, use lamp on Summoning
