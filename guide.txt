@@ -1914,12 +1914,12 @@
 - Go south, Travel Canoe Station at the dock, Option 3 Wendlewick (Grotto)
 - Go North to the Eastfold Farm and talk to Farmer Rachel.(💬 1)
 - Investigate the bloodsplatter to the north at the broken fence.
-- Follow the blood trail to the north-east and enter the cave entrance, Talk to Anya. (Chat 4•2)
-- Teleport to the Wendlewick lodestone, go to the lighthouse, and talk to Esther. (Chat 1•2)
+- Follow the blood trail to the north-east and enter the cave entrance, Talk to Anya. (💬 4•2)
+- Teleport to the Wendlewick lodestone, go to the lighthouse, and talk to Esther. (💬 1•2)
 - Be sure to finish the second set of dialogue with Esther before continuing.
 - Go south-east, then west up the hill and pick the poppies next to the cardinal marker at the top of the cliff to obtain a Wendlewick poppy.
 
-# Bank
+# Bank 115
 - Equip: BIS gear
 - Withdraw: rabbit snares, ferret
 - To the south-west, near the jackalope burrows, kill a hedgehog and pick up the hedgehog spines.
@@ -1933,4 +1933,19 @@
 - Bank before fight
 - Equip: rune armour, haven greatsword, BIS jewelery, prayer pot, super attack pot, full inventory of food
 * HCIM this is a safe death
-- After you kill the boss, go back out the cave, and kill sanguine crawlers until you run out of food or get 5 sanguine matter. If you dont get 5 we will come back for them. 
+- After you kill the boss, go back out the cave, and kill sanguine crawlers until you run out of food or get 6 sanguine matter. If you dont get 6 we will come back for them.
+- Complete [[Sanguine Hearts]]
+
+# Bank 116
+- Keep gear on
+- Make a Antisanguine, with vial of water, marrentil, sanguine matter
+- Withdraw: air/water/law runes, 2x rope, 10x log, 40 steel, butterfly net, ferret, empty vial, 5 cooked fish, 6 maple planks
+- Take Canoe Transportation to Wendlewick (Farm) Option 2
+- Talk to the ranger next to the bridge south of Hollow Hill. (💬 1•✓) Accept Quest
+- Teleport to Wendlewick, Take the S.O.S. note to Adam in Wendlewick. (💬 1)
+- Bank runes, withdraw 6 maple planks
+- Take Canoe Transportation to Wendlewick (Farm) Option 2
+- Head to the bridge and talk to the ranger with 2 ropes, 20 nails and 10 logs to repair the bridge. (💬 1)
+- Talk to Adam to report the findings. (💬 1), Be sure to complete the second set of dialogue when Anya spawns in to continue the quest.
+- Complete [[Secrets of Amberfell]]
+
