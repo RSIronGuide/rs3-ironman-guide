@@ -1875,6 +1875,7 @@
   * Attack a Battle mage until you run out of runes
 
 # 50 Prayer
+* If you aren't 50 prayer yet, stop and get it you should be close 
 - Equip: armour adamant sword, jennicas ring
 - Withdraw:  teleport runes, few food, wicked hood, 30 iron nails (must be iron)
 - Teleport to Wilderness Lodestone, go to the Western Ruins, walk into the white portal, Operate ring, Option 1, 15k farming xp. Teleport back
@@ -1917,4 +1918,8 @@
 - Teleport to the Wendlewick lodestone, go to the lighthouse, and talk to Esther. (Chat 1•2)
 - Be sure to finish the second set of dialogue with Esther before continuing.
 - Go south-east, then west up the hill and pick the poppies next to the cardinal marker at the top of the cliff to obtain a Wendlewick poppy.
-- Go to the bank southeast, deposit all
+
+# Bank
+- Withdraw: rabbit snares, ferret
+- To the south-west, near the jackalope burrows, kill a hedgehog and pick up the hedgehog spines.
+- East of the shrine, pick the wolf's tongue mushrooms beside the fairy ring to obtain wolf's tongue
