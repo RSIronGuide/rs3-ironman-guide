@@ -1904,9 +1904,8 @@
 - Talk to Bartender Gefen. (Chat 1)
 - Travel Canoe Station at the dock, Option 2 Wendlewick (Farm)
 - Walk across the bridge and head Northeast, along the river "push Maya's boat" into the water
-- Find and push Maya's boat located along the river between Hollow Hill and the Wendlewick (Farm) canoe station. 
 - Teleport to Wendlewick Lodestone
 - Inspect Maya's boat, which can be found on the beach east of where Maya was originally spoken to. 
 - Use 30 iron nails (Must be iron, better will not work) to repair Maya's boat.
 - Talk to Maya.
-- Talk to Nathan at the bank in Wendlewick.
+- Talk to Nathan at the bank in Wendlewick. Trader Woes completed
