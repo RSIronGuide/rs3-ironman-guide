@@ -1933,13 +1933,13 @@
 - Bank before fight - melee revo bar setup - https://imgur.com/a/GwaoD5t
 - Equip: rune armour, haven greatsword, BIS jewelery, prayer pot, super attack pot, full inventory of food
 * HCIM this is a safe death
-- After you kill the boss, go back out the cave, and kill sanguine crawlers until you run out of food or get 6 sanguine matter. If you dont get 6 we will come back for them.
+- After you kill the boss, go back out the cave, and kill sanguine crawlers until you run out of food or get 7 sanguine matter. If you dont get 7 we will come back for them.
 - Complete [[Sanguine Hearts]]
 
 # Bank 116
 - Keep gear on
-- Make a Antisanguine, with vial of water, marrentil, sanguine matter
-- Withdraw: air/water/law runes, 2x rope, 10x log, 40 steel, butterfly net, ferret, empty vial, 5 cooked fish (24 inventory slots)
+- Make a two Antisanguine, with vial of water, marrentil, sanguine matter. make a 4 dose 
+- Withdraw: antisanguine pot (4), air/water/law runes, 2x rope, 10x log, 40 steel, butterfly net, ferret, empty vial, 5 cooked fish (25 inventory slots)
 - Take Canoe Transportation to Wendlewick (Farm) Option 2
 - Talk to the ranger next to the bridge south of Hollow Hill. (💬 1•✓) Accept Quest
 - Teleport to Wendlewick, Take the S.O.S. note to Adam in Wendlewick. (💬 1)
@@ -1950,3 +1950,5 @@
 - Complete [[Secrets of Amberfell]]
 * Repair Canoe Station during quest
 * Before combat section of the quest, stop at the Amberfell bank grab super attack pot, full inventory of desert soles
+* Drink Antisanguine potion if you are taking a lot of damage
+* When you go to Anya's camp, take the Canoe Station in Amberfell
