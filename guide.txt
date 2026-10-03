@@ -1948,8 +1948,14 @@
 - Take Canoe Transportation to Wendlewick (Farm) Option 2
 - Head to the bridge and talk to the ranger with 2 ropes, 20 nails and 10 logs to repair the bridge. (💬 1)
 - Talk to Adam to report the findings. (💬 1), Be sure to complete the second set of dialogue when Anya spawns in, to continue the quest.
-- Complete [[Secrets of Amberfell]]
+- Complete [[Secrets of Amberfell]] - use combat xp lamp on prayer
 * Repair Canoe Station during quest
 * Before combat section of the quest, stop at the Amberfell bank grab super attack pot, full inventory of desert soles
 * Drink Antisanguine potion if you are taking a lot of damage
-* Utilize the canoe stations for transporation during this quest
+* When you go to Anya's camp, take the Canoe Station in Amberfell
+* After quest is complete drop deduction notes, blessed rabbit snare, vial of blood, Inanna's gift
+
+# Bank 117
+- Equip: rune armour with havensilver greatsword
+- Withdraw: antisanguine potion, super attack pot, inventory of food
+- Go to sanguine crawlers, get a total of 5 sanguines for greatsword upgrade
