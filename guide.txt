@@ -1952,4 +1952,4 @@
 * Repair Canoe Station during quest
 * Before combat section of the quest, stop at the Amberfell bank grab super attack pot, full inventory of desert soles
 * Drink Antisanguine potion if you are taking a lot of damage
-* When you go to Anya's camp, take the Canoe Station in Amberfell
+* Utilize the canoe stations for transporation during this quest
