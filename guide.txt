@@ -1929,3 +1929,6 @@
 - Teleport to Wendlewick Lodestone
 - Return to Esther. (💬 1), make the anti sanguine, Continue [[Hearts of Sanguine]]
 * Note when you go to the Southern Lake, Teleport to Wendlewick Lodestone and take the Canoe station, Wendlewick (Grotto) Option 3
+* Mine 12 total havensilver ore
+- Bank before fight
+- Equip: rune armour, haven greatsword, BIS jewelery, prayer pot, some food
