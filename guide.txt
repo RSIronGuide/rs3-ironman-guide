@@ -1876,7 +1876,7 @@
 
 # 50 Prayer
 - Equip: armour, jennicas ring
-- Withdraw:  teleport runes, few food, wicked hood, 30 iron nails or better
+- Withdraw:  teleport runes, few food, wicked hood, 30 iron nails (must be iron)
 - Teleport to Wilderness Lodestone, go to the Western Ruins, walk into the white portal, Operate ring, Option 1, 15k farming xp. Teleport back
 - Head north to Forgotten Cemetery, step into the portal, Operate Ring, Option 1, 15k prayer xp
 - Teleport to Wizards Tower
@@ -1902,7 +1902,10 @@
 - Talk to Miriam, the musician outside
 - Talk to Jacob, sitting alone outside. (Chat 1)
 - Talk to Bartender Gefen. (Chat 1)
+- Travel Canoe Station at the dock, Option 2 Wendlewick (Farm)
+- Walk across the bridge and head Northeast, along the river "push Maya's boat" into the water
 - Find and push Maya's boat located along the river between Hollow Hill and the Wendlewick (Farm) canoe station. 
+- Teleport to Wendlewick Lodestone
 - Inspect Maya's boat, which can be found on the beach east of where Maya was originally spoken to. 
 - Use 30 iron nails (Must be iron, better will not work) to repair Maya's boat.
 - Talk to Maya.
