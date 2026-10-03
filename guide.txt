@@ -1892,8 +1892,18 @@
 - Light the beacon at the peak north of Geva.
 - Teleport to Wendlewick, talk to [Adam] (💬 2)
 - Talk to [Maya] at the Wendlewick fish farm.
-- Find and push Maya's boat located along the river between Hollow Hill and the Wendlewick (Farm) canoe station. (See Location 1)
-- Inspect Maya's boat, which can be found on the beach east of where Maya was originally spoken to. (See Location 2)
+- Teleport to Wendlewick, Go north-east into the Highweald Forest and talk to [Raz] in her cabin at the bottom of the river. (💬 1)
+- Go north along the east side of the river and inspect the dead bear [cutscene]
+- Talk to Raz. (Chat 1)
+- Teleport to Wendlewick Lodestone
+- Go to the Burnt Lobster Tavern, buy one wendlewick ale from Bartender
+- Talk to Bartender Gefen (💬 1)
+- Talk to Matthew and give him a Wendlewick ale. He is sitting alone at the table in the north-western corner of the tavern. (Chat 1•1)
+- Talk to Miriam, the musician outside
+- Talk to Jacob, sitting alone outside. (Chat 1)
+- Talk to Bartender Gefen. (Chat 1)
+- Find and push Maya's boat located along the river between Hollow Hill and the Wendlewick (Farm) canoe station. 
+- Inspect Maya's boat, which can be found on the beach east of where Maya was originally spoken to. 
 - Use 30 iron nails (Must be iron, better will not work) to repair Maya's boat.
 - Talk to Maya.
 - Talk to Nathan at the bank in Wendlewick.
