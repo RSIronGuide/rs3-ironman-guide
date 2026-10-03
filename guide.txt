@@ -1876,7 +1876,7 @@
 
 # 50 Prayer
 - Equip: armour, jennicas ring
-- Withdraw:  few food, wicked hood
+- Withdraw:  teleport runes, few food, wicked hood, 30 iron nails or better
 - Teleport to Wilderness Lodestone, go to the Western Ruins, walk into the white portal, Operate ring, Option 1, 15k farming xp. Teleport back
 - Head north to Forgotten Cemetery, step into the portal, Operate Ring, Option 1, 15k prayer xp
 - Teleport to Wizards Tower
@@ -1885,3 +1885,16 @@
 - Complete Rune Memories
 - Drop robers, diary, and document fragments after quest completion
 - Talk to the lesser demon in the Wizards' Tower, select prayer for 10k bonus xp.
+- Teleport to Wendlewick, Talk to Banker Nathan at the bank in Wendlewick. Convince Adam by lighting the beacon above Geva's house.
+- Talk to Adam in Wendlewick. (Chat [Varies])
+- Go far north of Wendlewick and talk to Geva.
+- Light the beacon at the peak north of Geva.
+- Talk to Adam. (Chat [Varies])
+- Convince Maya by returning her boat from the riverbank.
+- Talk to Maya at the Wendlewick fish farm.
+- Find and push Maya's boat located along the river between Hollow Hill and the Wendlewick (Farm) canoe station. (See Location 1)
+- Inspect Maya's boat, which can be found on the beach east of where Maya was originally spoken to. (See Location 2)
+- Use 30 iron nails (Must be iron, better will not work) to repair Maya's boat.
+- Talk to Maya.
+- Talk to Nathan at the bank in Wendlewick.
+
