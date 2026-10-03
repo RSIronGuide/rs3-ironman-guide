@@ -1874,7 +1874,7 @@
   * Set your Magic to autocast Divine Storm on both weapons
   * Attack a Battle mage until you run out of runes
 
-50 Prayer
+# 50 Prayer
 - Equip: armour, jennicas ring
 - Withdraw:  few food, wicked hood
 - Teleport to Wilderness Lodestone, go to the Western Ruins, walk into the white portal, Operate ring, Option 1, 15k farming xp. Teleport back
@@ -1884,4 +1884,4 @@
 - Pass through the first door, cross the fallen statue then pass through the second door. In the ruins and talk to Ariane. (Chat 2•2•✓•3•3)
 - Complete Rune Memories
 - Drop robers, diary, and document fragments after quest completion
-- Talk to the lesser demon in the Wizards' Tower, select prayer for 10k bonus xp. 
+- Talk to the lesser demon in the Wizards' Tower, select prayer for 10k bonus xp.
