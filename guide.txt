@@ -1949,3 +1949,4 @@
 - Talk to Adam to report the findings. (💬 1), Be sure to complete the second set of dialogue when Anya spawns in, to continue the quest.
 - Complete [[Secrets of Amberfell]]
 * Repair Canoe Station during quest
+* Before combat section of the quest, stop at the Amberfell bank grab super attack pot, full inventory of desert soles
