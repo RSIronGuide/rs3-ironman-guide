@@ -1920,7 +1920,10 @@
 - Go south-east, then west up the hill and pick the poppies next to the cardinal marker at the top of the cliff to obtain a Wendlewick poppy.
 
 # Bank
+- Equip: BIS gear
 - Withdraw: rabbit snares, ferret
 - To the south-west, near the jackalope burrows, kill a hedgehog and pick up the hedgehog spines.
 - East of the shrine, pick the wolf's tongue mushrooms beside the fairy ring to obtain wolf's tongue
-- Go back to Jackalope burrows, catch jackalope until 45 hunter. bank everything, raw rabbit is optional
+- Go back to Jackalope burrows, catch jackalope until 45 hunter. bank everything at nearby bank, raw rabbit is optional
+- Bank at Dalia's Tree nursery, withdraw: wendlewick poppy, hedgehog spines, wolf's tongue, 10 copper spirit, 10 tin spirit
+- Return to Esther. (💬 1), make the anti sanguine, Continue [[Hearts of Sanguine]] 
