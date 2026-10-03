@@ -1939,13 +1939,13 @@
 # Bank 116
 - Keep gear on
 - Make a Antisanguine, with vial of water, marrentil, sanguine matter
-- Withdraw: air/water/law runes, 2x rope, 10x log, 40 steel, butterfly net, ferret, empty vial, 5 cooked fish, 6 maple planks
+- Withdraw: air/water/law runes, 2x rope, 10x log, 40 steel, butterfly net, ferret, empty vial, 5 cooked fish (24 inventory slots)
 - Take Canoe Transportation to Wendlewick (Farm) Option 2
 - Talk to the ranger next to the bridge south of Hollow Hill. (💬 1•✓) Accept Quest
 - Teleport to Wendlewick, Take the S.O.S. note to Adam in Wendlewick. (💬 1)
-- Bank runes, withdraw 6 maple planks
+- Bank runes, withdraw 6 maple planks (full inventory)
 - Take Canoe Transportation to Wendlewick (Farm) Option 2
 - Head to the bridge and talk to the ranger with 2 ropes, 20 nails and 10 logs to repair the bridge. (💬 1)
-- Talk to Adam to report the findings. (💬 1), Be sure to complete the second set of dialogue when Anya spawns in to continue the quest.
+- Talk to Adam to report the findings. (💬 1), Be sure to complete the second set of dialogue when Anya spawns in, to continue the quest.
 - Complete [[Secrets of Amberfell]]
-
+* Repair Canoe Station during quest
