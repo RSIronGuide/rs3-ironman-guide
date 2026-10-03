@@ -1933,3 +1933,4 @@
 - Bank before fight
 - Equip: rune armour, haven greatsword, BIS jewelery, prayer pot, super attack pot, full inventory of food
 * HCIM this is a safe death
+- After you kill the boss, go back out the cave, and kill sanguine crawlers until you run out of food or get 5 sanguine matter. If you dont get 5 we will come back for them. 
