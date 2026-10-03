@@ -741,7 +741,7 @@
 - Teleport to Taverley Lodestone, enter house portal, go to Yanille House Portal
 - Activate Yanille Lodestone
 - Buy a Greenman's Ale from the Bartender in Dragon Inn [Recipe for Disaster]
-- Trade Aleck [Ardougne Easy Task] and buy Butterfly Net, 10x Butterfly Jar, 3x Bird Snare, 1x Teasing Stick, 8x Box Traps, 10x rabbit snares
+- Trade Aleck [Ardougne Easy Task] and buy Butterfly Net, 10x Butterfly Jar, 3x Bird Snare, 1x Teasing Stick, 8x Box Traps
 - Head North and take Jug of water inside Frenita's Cookery Shop [Monk's Friend]
 - Buy 2x Rotten tomato at Pelters' Veg Stall [Recipe for Disaster] [Mourning's End Pt 2]
 - Deposit all
@@ -1836,7 +1836,7 @@
 # Bank 113
 - Equip - BIS gear, trolls are weak to water spells
 - Withdraw: climbing boots (or buy during the quest), food
-- Teleport to Burthorpe Lodestone, Talk to Commander Denulth in Burthorpe, east of the castle. (Chat 1•2•✓)
+- Teleport to Burthorpe Lodestone, Talk to Commander Denulth in Burthorpe, east of the castle. (💬 1•2•✓)
 - Complete Troll Stronghold, put both xp lamps int Agility. 
 * 48 Agility you get triple loot from master farmers at 58 Thieving
 * 50 Agility you get triple loot from guards at 60 Thieving
@@ -1881,17 +1881,17 @@
 - Head north to Forgotten Cemetery, step into the portal, Operate Ring, Option 1, 15k prayer xp
 - Teleport to Wizards Tower
 - Enter the ruins beneath the Wizards' Tower.
-- Pass through the first door, cross the fallen statue then pass through the second door. In the ruins and talk to Ariane. (Chat 2•2•✓•3•3)
+- Pass through the first door, cross the fallen statue then pass through the second door. In the ruins and talk to Ariane. (💬 2•2•✓•3•3)
 - Complete Rune Memories
-- Drop robers, diary, and document fragments after quest completion
+- Drop robes, diary, and document fragments after quest completion
 - Talk to the lesser demon in the Wizards' Tower, select prayer for 10k bonus xp.
 - Teleport to Wendlewick, Talk to Banker Nathan at the bank in Wendlewick. Convince Adam by lighting the beacon above Geva's house.
-- Talk to Adam in Wendlewick. (Chat [Varies])
+- Talk to Adam. (💬 2) [[Trader Woes]]
+- Talk to Adam again, (💬 1•✓) Accept Quest [[Hearts of Sanguine]]
 - Go far north of Wendlewick and talk to Geva.
 - Light the beacon at the peak north of Geva.
-- Talk to Adam. (Chat [Varies])
-- Convince Maya by returning her boat from the riverbank.
-- Talk to Maya at the Wendlewick fish farm.
+- Teleport to Wendlewick, talk to [Adam] (💬 2)
+- Talk to [Maya] at the Wendlewick fish farm.
 - Find and push Maya's boat located along the river between Hollow Hill and the Wendlewick (Farm) canoe station. (See Location 1)
 - Inspect Maya's boat, which can be found on the beach east of where Maya was originally spoken to. (See Location 2)
 - Use 30 iron nails (Must be iron, better will not work) to repair Maya's boat.
