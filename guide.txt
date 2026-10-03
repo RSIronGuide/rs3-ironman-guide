@@ -1867,7 +1867,7 @@
 - Pray at the [[Statue of Guthix]] for the Guthix cape
 - Talk to the [[Chamber guardian]] for the Guthix staff
 - Cast the [[Divine Storm]] spell 100 times on a [[Battle mage]] inside the Mage Arena (Wilderness)
-  * Switch to Full Manual
+  * Switch to Full Manual, keybind "divine storm" and press the button manually. 
   * Equip Mystic wand and Mystic orb
   * Withdraw 500 Air runes and food
   * Set your Magic to autocast Divine Storm on both weapons
