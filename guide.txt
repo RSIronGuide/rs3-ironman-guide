@@ -741,7 +741,7 @@
 - Teleport to Taverley Lodestone, enter house portal, go to Yanille House Portal
 - Activate Yanille Lodestone
 - Buy a Greenman's Ale from the Bartender in Dragon Inn [Recipe for Disaster]
-- Trade Aleck [Ardougne Easy Task] and buy Butterfly Net, 10x Butterfly Jar, 3x Bird Snare, 1x Teasing Stick, 8x Box Traps
+- Trade Aleck [Ardougne Easy Task] and buy Butterfly Net, 10x Butterfly Jar, 3x Bird Snare, 1x Teasing Stick, 8x Box Traps, 10x rabbit snares
 - Head North and take Jug of water inside Frenita's Cookery Shop [Monk's Friend]
 - Buy 2x Rotten tomato at Pelters' Veg Stall [Recipe for Disaster] [Mourning's End Pt 2]
 - Deposit all
@@ -1897,4 +1897,3 @@
 - Use 30 iron nails (Must be iron, better will not work) to repair Maya's boat.
 - Talk to Maya.
 - Talk to Nathan at the bank in Wendlewick.
-
