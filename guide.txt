@@ -1875,7 +1875,7 @@
   * Attack a Battle mage until you run out of runes
 
 # 50 Prayer
-- Equip: armour, jennicas ring
+- Equip: armour adamant sword, jennicas ring
 - Withdraw:  teleport runes, few food, wicked hood, 30 iron nails (must be iron)
 - Teleport to Wilderness Lodestone, go to the Western Ruins, walk into the white portal, Operate ring, Option 1, 15k farming xp. Teleport back
 - Head north to Forgotten Cemetery, step into the portal, Operate Ring, Option 1, 15k prayer xp
@@ -1909,3 +1909,12 @@
 - Use 30 iron nails (Must be iron, better will not work) to repair Maya's boat.
 - Talk to Maya.
 - Talk to Nathan at the bank in Wendlewick. Trader Woes completed
+- Go North, talk to Adam (💬 1)
+- Go south, Travel Canoe Station at the dock, Option 3 Wendlewick (Grotto)
+- Go North to the Eastfold Farm and talk to Farmer Rachel.(💬 1)
+- Investigate the bloodsplatter to the north at the broken fence.
+- Follow the blood trail to the north-east and enter the cave entrance, Talk to Anya. (Chat 4•2)
+- Teleport to the Wendlewick lodestone, go to the lighthouse, and talk to Esther. (Chat 1•2)
+- Be sure to finish the second set of dialogue with Esther before continuing.
+- Go south-east, then west up the hill and pick the poppies next to the cardinal marker at the top of the cliff to obtain a Wendlewick poppy.
+- Go to the bank southeast, deposit all
