@@ -1973,7 +1973,6 @@
 
 # Bank 119
 - Nothing equipped in the main hand, off-hand and back slots
-- Withdraw: clockwork suit, 8x silk, 4x planks, 1 thread
-- Talk to Larry in the south-west of the Ardougne Zoo and agree to help. (Chat 1•✓) Accept Quest
+- Withdraw: teleport runes, clockwork suit, 8x silk, 4x planks, 1 thread
+- Use Kandarin Monastery Teleport, Talk to Larry in the south-west of the Ardougne Zoo and agree to help. (💬 1•✓) Accept Quest
 - Complete Hunt for Red Raktuber
-
