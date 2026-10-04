@@ -1578,7 +1578,7 @@
 * When you go into the [[Miscellania and Etceteria dungeon|Etceteria dungeon]] go to [[The Esoterican Arms]] buy 5x cider
 * Keep Giant snake spine [[Fur 'n Seek/Wish list|Fur 'n Seek Wish list]]
 * After quest drop burnt diary and empty box
-- Deposit 1.3mil into coffer for Kingdom, put max workers on herb, add the remaining workers to mahogany (1,176 planks needed for the fort), this will last 7 days before you go below 750k.
+- Deposit 1.3mil into coffer for Kingdom, put max workers on herb, add the remaining workers to mahogany (for the fort), this will last 7 days before you go below 750k.
 - Teleport to Seers' Village Lodestone, go to [[Forester's Arms]] give five locals a glass of cider [Seers' Easy Task]
 - Buy a few beers from the bartender
 - Congratulations! [[Easy Seers' Village Achievements]] completed! Talk to any [[Seer]] in Seers' Village to claim the rewards, use antique lamp on herblore, claim 210 free flax every week from [[Geoffrey]]
@@ -1842,6 +1842,8 @@
 * 50 Agility you get triple loot from guards at 60 Thieving
 
 # 62 Thieving Milestone
+- Thieve master farmers until 62 Thieiving
+* You will get a ton of herb seeds. We want to hard push 57 herblore. Do your herb runs. Use all your irit seeds, make as many super attacks as you can. Use all bonus xp into herblore. We want fairy rings ASAP. 
 - Complete A Guild of Our Own, you can now start safecracking. 
 - Lvl 62-90, train theiving by safecracking.
 - Consider spending Pilfer Points on the Master thief's lockpick for Desert Treasure.
