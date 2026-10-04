@@ -1935,7 +1935,7 @@
 - Equip: rune armour, haven greatsword, BIS jewelery, prayer pot, super attack pot, full inventory of food
 * HCIM this is a safe death
 - After you kill the boss, go back out the cave, and kill sanguine crawlers until you run out of food or get 7 sanguine matter. If you dont get 7 we will come back for them.
-- Complete [[Sanguine Hearts]]
+- Complete [[Hearts of Sanguine]]
 
 # Bank 116
 - Keep gear on
@@ -1957,5 +1957,7 @@
 
 # Bank 117
 - Equip: rune armour with havensilver greatsword
-- Withdraw: antisanguine potion, super attack pot, inventory of food
+- Withdraw: antisanguine potion, super attack pot, herb bag, inventory of food
 - Go to sanguine crawlers, get a total of 5 sanguines for greatsword upgrade
+- Teleport to Wendlewick, go to Liats House, go upstairs, search the bookcase, read Metals: A musing
+furnace and make a havensilver greatsword +1
