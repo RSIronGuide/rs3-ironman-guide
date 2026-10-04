@@ -1966,7 +1966,14 @@
 - Place clockmaker's bench 3 in POH
 - Click the clockmaker bench, craft 2x penguin suits
 - Complete Cold War
+- After quest drop clockwork book
 - Go south to Mountain camp- West of the Mountain Camp entrance find Phillip - 5,000 skills experience (Skill must be level 40 or higher)  - use on herblore
 - Teleport to Karamja Lodestone/House teleport, take travel cart to Shilo Village
-- Top level in the Paramaya Inn, talk to Kaleb Paramaya ( 💬2•3) receive ticket
-- climb up the ladder, Find Phillip. - 5,000 skills experience (Skill must be level 40 or higher) - use on herblore
+- Top level of Shilo Village, in [Paramaya Inn], find Phillip. - 5,000 skills experience (Skill must be level 40 or higher) - use on herblore
+
+# Bank 119
+- Nothing equipped in the main hand, off-hand and back slots
+- Withdraw: clockwork suit, 8x silk, 4x planks, 1 thread
+- Talk to Larry in the south-west of the Ardougne Zoo and agree to help. (Chat 1•✓) Accept Quest
+- Complete Hunt for Red Raktuber
+
