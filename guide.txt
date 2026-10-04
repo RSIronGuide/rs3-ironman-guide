@@ -1837,10 +1837,10 @@
 * 50 Agility you get triple loot from guards at 60 Thieving
 
 # 62 Thieving Milestone
-- Thieve master farmers until 62 Thieiving
+- Thieve master farmers until 62 Thieving
 * You will get a ton of herb seeds. We want to hard push 57 herblore. Do your herb runs. Use all your irit seeds, buy eye of newts, chocolate bars,  make as many super attacks/energy potions as you can. Use all bonus xp into herblore. We want fairy rings ASAP. 
 - Complete A Guild of Our Own, you can now start safecracking. 
-- Lvl 62-90, train theiving by safecracking.
+- Lvl 62-90, train thieving by safecracking.
 - Consider spending Pilfer Points on the Master thief's lockpick for Desert Treasure.
 
 # Bank 114
@@ -1933,8 +1933,8 @@
 
 # Bank 116
 - Keep gear on
-- Make a two Antisanguine, with vial of water, marrentil, sanguine matter. make a 4 dose 
-- Withdraw: antisanguine pot (4), air/water/law runes, 2x rope, 10x log, 40 steel, butterfly net, ferret, empty vial, 5 cooked fish (25 inventory slots)
+- Make a two Antisanguine, with vial of water, marrentil, sanguine matter. turn one into a 4 dose 
+- Withdraw: antisanguine pot (4), air/water/law runes, 2x rope, 10x log, 40 steel nails, butterfly net, ferret, empty vial, 5 cooked fish (25 inventory slots)
 - Take Canoe Transportation to Wendlewick (Farm) Option 2
 - Talk to the ranger next to the bridge south of Hollow Hill. (💬 1•✓) Accept Quest
 - Teleport to Wendlewick, Take the S.O.S. note to Adam in Wendlewick. (💬 1)
