@@ -961,11 +961,6 @@
     - Plant jute seeds in the hop patch north of the bar [Seers' Village Easy Task]
 
 # Bank 56
-- If you haven't done a birdhouse run yet, start doing them.
-- Grab seeds for farm run if you want, with birdhouse seeds
-- Teleport to Wendlewick, go south just past the bridge there is an oak tree, we can only do 2 birdhouses until lvl 29.
-- Trade with groundskeeper and buy two clockwork mechanisms. With oak logs in your inventory, click the clockwork and craft birdhouses. Use the birdhouse plot directly East, and the plot at the farming patches. Do your farm runs with the birdhouse run.
-* They catch birds in 30 seconds, much faster than OSRS. Bird nests will be great early game
 - Chop down 768 Acadia Logs giving reputation to Imperial Faction.
 - Make sure to right click Imperial faction (overlay in Menaphos) and set active!
 * Squash the beetles if they appear. Free slayer XP
