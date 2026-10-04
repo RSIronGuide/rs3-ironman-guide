@@ -1834,31 +1834,31 @@
 - Thieve master farmers until 62 Thieving
 * You will get a ton of herb seeds. We want to hard push 57 herblore. Do your herb runs. Use all your irit seeds, buy eye of newts, chocolate bars,  make as many super attacks/energy potions as you can. Use all bonus xp into herblore. We want fairy rings ASAP. 
 - Complete A Guild of Our Own, you can now start safecracking. 
-- Go talk to the [Safecracking trainer] in the Thieves' Guild. He gives you advice, a stethoscope and a small loot bag, and you need both
-- Lvl 62-90, train thieving by [safecracking]
-- Pilfer points purchase order:
-- 1. Medium loot bag 500
-- 2. Large loot bag 2,000
-- 3. One–Five finger discount 1,000 each, +2% Thieving success each (up to +10%)
-- 4. Master thief's lockpick and stethoscope 2,500 each
-- 5. Huge loot bag 5,000
+- Go talk to the [[Safecracking trainer]] in the [[Thieves' Guild]]. He gives you advice, a stethoscope and a small loot bag, and you need both
+- Lvl 62-90, train thieving by [[safecracking]]
+- [[Pilfer points]] purchase order:
+- 1. [[Medium loot bag]] 500
+- 2. [[Large loot bag]] 2,000
+- 3. [[One–Five finger discount]] 1,000 each, +2% Thieving success each (up to +10%)
+- 4. [[Master thief's lockpick]] and [[stethoscope]] 2,500 each
+- 5. [[Huge loot bag]] 5,000
 
 # Bank 114
 - Get 5 slayer task from Jacquelyn. Then start training with Raptor for undead task, use salve amulet. Train Slayer till 60 Magic. Search "combat XP" in settings and turn off Defence XP for Magic
 - Train Magic to 60
-* You can also do reaper task
+* You can also do [[reaper task]]
 
 # Reaper Assignments (45 Slayer)
 * Unlocks at 45 Slayer and 50 Combat
 - It might be a good idea to grind some reaper task before we level up Necro and our combat lvl shoots up really high. 
-- Go to Death's office and talk to Death, turn OFF skilling boss assignments before taking your first task
-* We don't want Croesus this early. It's slow, needs high gathering levels
+- Go to [[Death's office]] and talk to [[Death]], turn OFF skilling boss assignments before taking your first task
+* We don't want [[Croesus]] this early. It's slow, needs high gathering levels
 - Get a reaper assignment from Death
 * Check which boss you got BEFORE you go. If you can't kill it comfortably, don't attempt it on a hardcore, boss deaths are NOT safe deaths. HCIM
 * Bring your best gear, prayer potions and plenty of food. Always have a teleport ready
-- Complete reaper assignments for Slayer XP
+- Complete [[reaper assignments ]]for Slayer XP
 * You can earn up to 300 Reaper points per week (resets Wednesday 00:00 UTC), so keep doing them weekly
-* Tasks also give Slayer reward points with no weekly cap
+* Tasks also give [[Slayer reward points]] with no weekly cap
 * Treat reaper tasks as a weekly. Add them to your Weekly Run once you start
 
 # 60 Magic: Mage Arena
@@ -1875,7 +1875,7 @@
 - Equip: armour adamant sword, jennicas ring
 - Withdraw:  teleport runes, few food, wicked hood, 30 iron nails (must be iron)
 - Teleport to Wilderness Lodestone, go to the Western Ruins, walk into the white portal, Operate ring, Option 1, 15k farming xp. Teleport back
-- Head north to Forgotten Cemetery, step into the portal, Operate Ring, Option 1, 15k prayer xp
+- Head north to [[Forgotten Cemetery]], step into the portal, Operate Ring, Option 1, 15k prayer xp
 - Teleport to Wizards Tower
 - Enter the ruins beneath the Wizards' Tower.
 - Pass through the first door, cross the fallen statue then pass through the second door. In the ruins and talk to Ariane. (💬 2•2•✓•3•3)
@@ -1887,28 +1887,28 @@
 - Talk to Adam again, (💬 1•✓) Accept Quest [[Hearts of Sanguine]]
 - Go far north of Wendlewick and talk to Geva.
 - Light the beacon at the peak north of Geva.
-- Teleport to Wendlewick, talk to [Adam] (💬 2)
+- Teleport to [[Wendlewick]], talk to [Adam] (💬 2)
 - Talk to [Maya] at the Wendlewick fish farm.
-- Teleport to Wendlewick, Go north-east into the Highweald Forest and talk to [Raz] in her cabin at the bottom of the river. (💬 1)
+- Teleport to Wendlewick, Go north-east into the [[Highweald Forest]] and talk to [[Raz]] in her cabin at the bottom of the river. (💬 1)
 - Go north along the east side of the river and inspect the dead bear [cutscene]
-- Talk to Raz. (Chat 1)
+- Talk to [[Raz]]. (Chat 1)
 - Teleport to Wendlewick Lodestone
-- Go to the Burnt Lobster Tavern, buy one wendlewick ale from Bartender
-- Talk to Bartender Gefen (💬 1)
-- Talk to Matthew and give him a Wendlewick ale. He is sitting alone at the table in the north-western corner of the tavern. (💬 1•1)
-- Talk to Miriam, the musician outside
-- Talk to Jacob, sitting alone outside. (💬 1)
-- Talk to Bartender Gefen. (💬 1)
-- Travel Canoe Station at the dock, Option 2 Wendlewick (Farm)
+- Go to the [[Burnt Lobster Tavern]], buy one [[wendlewick ale]] from Bartender
+- Talk to [[Bartender Gefen]] (💬 1)
+- Talk to [[Matthew]] and give him a Wendlewick ale. He is sitting alone at the table in the north-western corner of the tavern. (💬 1•1)
+- Talk to [[Miriam]], the musician outside
+- Talk to [[Jacob]], sitting alone outside. (💬 1)
+- Talk to [[Bartender Gefen]]. (💬 1)
+- Travel [[Canoe Station]] at the dock, Option 2 Wendlewick (Farm)
 - Walk across the bridge and head Northeast, along the river "push Maya's boat" into the water
 - Teleport to Wendlewick Lodestone
-- Inspect Maya's boat, which can be found on the beach east of where Maya was originally spoken to. 
+- Inspect [[Maya's boat]], which can be found on the beach east of where [[Maya]] was originally spoken to. 
 - Use 30 iron nails (Must be iron, better will not work) to repair Maya's boat.
 - Talk to Maya.
 - Talk to Nathan at the bank in Wendlewick. Trader Woes completed
-- Go North, talk to Adam (💬 1)
+- Go North, talk to [[Adam]] (💬 1)
 - Go south, Travel Canoe Station at the dock, Option 3 Wendlewick (Grotto)
-- Go North to the Eastfold Farm and talk to Farmer Rachel.(💬 1)
+- Go North to the [[Eastfold Farm]] and talk to [[Farmer Rachel]].(💬 1)
 - Investigate the bloodsplatter to the north at the broken fence.
 - Follow the blood trail to the north-east and enter the cave entrance, Talk to Anya. (💬 4•2)
 - Teleport to the Wendlewick lodestone, go to the lighthouse, and talk to Esther. (💬 1•2)
@@ -1919,28 +1919,28 @@
 # Bank 115
 - Equip: BIS gear
 - Withdraw: rabbit snares, ferret
-- To the south-west, near the jackalope burrows, kill a hedgehog and pick up the hedgehog spines.
+- To the south-west, near the [[jackalope burrows]], kill a [[hedgehog]] and pick up the hedgehog spines.
 - East of the shrine, pick the wolf's tongue mushrooms beside the fairy ring to obtain wolf's tongue
-- Go back to Jackalope burrows, catch jackalope until 45 hunter. bank everything at nearby bank, raw rabbit is optional
+- Go back to [[Jackalope burrows], catch [[jackalope]] until 45 hunter. bank everything at nearby bank, raw rabbit is optional
 * How I tick manipulate Jackalopes - https://www.reddit.com/r/runescape/comments/1www1mt/tick_manip_jackalopes/
 - Bank at Dalia's Tree nursery, withdraw: wendlewick poppy, hedgehog spines, wolf's tongue, 5 copper spirit, 5 tin spirit
 - Teleport to Wendlewick Lodestone
 - Return to Esther. (💬 1), make the anti sanguine, Continue [[Hearts of Sanguine]]
-* Note when you go to the Southern Lake, Teleport to Wendlewick Lodestone and take the Canoe station, Wendlewick (Grotto) Option 3
-* Mine 12 total havensilver ore
+* Note when you go to the [[Southern Lake]], Teleport to Wendlewick Lodestone and take the Canoe station, Wendlewick (Grotto) Option 3
+* Mine 12 total [[havensilver ore]]
 - Bank before fight - melee revo bar setup - https://imgur.com/a/GwaoD5t
 - Equip: rune armour, haven greatsword, BIS jewelery, prayer pot, super attack pot, full inventory of food
 * HCIM this is a safe death
-- After you kill the boss, go back out the cave, and kill sanguine crawlers until you run out of food or get 7 sanguine matter. If you dont get 7 we will come back for them.
+- After you kill the boss, go back out the cave, and kill [[sanguine crawlers]] until you run out of food or get 7 [[sanguine matter]]. If you dont get 7 we will come back for them.
 - Complete [[Hearts of Sanguine]]
 
 # Bank 116
 - Keep gear on
-- Make a two Antisanguine, with vial of water, marrentil, sanguine matter. turn one into a 4 dose 
+- Make a two [[Antisanguine]] with vial of water, marrentil, sanguine matter. turn one into a 4 dose 
 - Withdraw: antisanguine pot (4), air/water/law runes, 2x rope, 10x log, 40 steel nails, butterfly net, ferret, empty vial, 5 cooked fish (25 inventory slots)
 - Take Canoe Transportation to Wendlewick (Farm) Option 2
-- Talk to the ranger next to the bridge south of Hollow Hill. (💬 1•✓) Accept Quest
-- Teleport to Wendlewick, Take the S.O.S. note to Adam in Wendlewick. (💬 1)
+- Talk to the ranger next to the bridge south of [[Hollow Hill]]. (💬 1•✓) Accept Quest
+- Teleport to Wendlewick, Take the S.O.S. note to [[Adam]] in Wendlewick. (💬 1)
 - Bank runes, withdraw 6 maple planks (full inventory)
 - Take Canoe Transportation to Wendlewick (Farm) Option 2
 - Head to the bridge and talk to the ranger with 2 ropes, 20 nails and 10 logs to repair the bridge. (💬 1)
@@ -1956,17 +1956,17 @@
 - Equip: rune armour with havensilver greatsword
 - Withdraw: antisanguine potion, super attack pot, herb bag, inventory of food
 - Go to sanguine crawlers, get a total of 5 sanguines for greatsword upgrade
-- Teleport to Wendlewick, go to Liats House, go upstairs, search the bookcase, read Metals: A musing
+- Teleport to Wendlewick, go to [[Liats House]], go upstairs, search the bookcase, read Metals: A musing
 - Take Canoe Transportation to Wendlewick (Farm) Option 2
-- use the old key on the locked chest behind the waterfall east of Hollow Hill to get the havensilver schematic, then bring it back to Liat.
-- make a havensilver greatsword +1
+- use the [[old key] on the locked chest behind the waterfall east of [[Hollow Hill]] to get the [[havensilver schematic]], then bring it back to Liat.
+- make a [[havensilver greatsword +1]]
 - drop metals book, schematic, torn scroll pieces
 
 # Bank 118
 - Equip: BIS melee
 - Withdraw: 14x oak planks, 10x steel nails, 2x plank, mahogany plank, 2x silk, 2x clockwork, swamp tar, leather (not hard), 3x molten glass, raw cod
 * Make molten glass and leather if you need it. Swamp tar is in Lumbridge Swamp.
-- Teleport to Kandarin Monastery, Talk to Larry near the penguin enclosure in the Ardougne Zoo. (💬 1•✓) Accept Quest
+- Teleport to [[Kandarin Monastery]], Talk to [[Larry]] near the penguin enclosure in the Ardougne Zoo. (💬 1•✓) Accept Quest
 - Continue Cold War
 - During quest, make [clockmaker's bench 1] at the [furniture workbench] in Rimmington
 - Then make [clockmaker's bench 2], and then [clockmaker's bench 3], grab additional oak planks at bank
