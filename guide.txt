@@ -1965,7 +1965,5 @@
 
 # Bank 118
 - Equip: BIS melee
-- Withdraw: 14 oak planks, 10 steel nails, plank, mahogany plank, silk, clockwork, swamp tar, leather (not hard), 3x molten glass, raw cod
+- Withdraw: 14x oak planks, 10x steel nails, 2x plank, mahogany plank, 2x silk, 2x clockwork, swamp tar, leather (not hard), 3x molten glass, raw cod
 * Make molten glass and leather if you need it. Swamp tar is in Lumbridge Swamp.
-- Talk to Larry near the penguin enclosure in the Ardougne Zoo. (Chat 1•✓) Accept Quest
-- Complete Cold War
