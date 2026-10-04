@@ -1840,8 +1840,10 @@
 # Bank 114
 - Get 5 slayer task from Jacquelyn. Then start training with Raptor for undead task, use salve amulet. Train Slayer to 45 using Magic only. Search "combat XP" in settings and turn off Defence XP for Magic
 - Train Magic to 60. 
+
 # Reaper Assignments (45 Slayer)
 * Unlocks at 45 Slayer and 50 Combat
+- It might be a good idea to grind some reaper task before we level up Necro and our combat lvl shoots up really high. 
 - Go to Death's office and talk to Death, turn OFF skilling boss assignments before taking your first task
 * We don't want Croesus this early. It's slow, needs high gathering levels
 - Get a reaper assignment from Death
