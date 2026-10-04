@@ -1702,7 +1702,7 @@
 - Top up the [[Managing Miscellania|Miscellania]] coffer
 
 # Monthly
-- Do [[Troll Invasion]]
+- Do [[Troll Invasion]] do combat, use lamps on agility always
 - Giant Oyster with Wizard Myrtle [Beneath Cursed Tides]
 
 # Tree and Fruit Tree Run
