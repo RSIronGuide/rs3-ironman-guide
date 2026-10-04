@@ -213,7 +213,7 @@
 - While following the debris cut down tree for a log, light the log, make a bowl of hot water
 - Go to the mining site at the south end of Lumbridge Swamp, mine three iron ore [Lumbridge Easy Task]
 - Go to the water altar, Talk to Phlegmatic Imp, (💬 3), Talk to Imp again, (💬 1), pick up Phlegmatic bead [Imp Catcher]
-- Pick up some swamp tar when running through Lumbridge Swamp
+- Pick up some swamp tar when running through Lumbridge Swamp, grab 5-10 pieces
 - PAUSE Duck Quest, after grabbing nest debris in cemetery
 - When you get to Lumbridge Cemetery, open coffin, (💬 1) (Restless Ghost)
 - Go south search rocks for skull (beside mining location east) do not attack skeleton run away
@@ -1966,4 +1966,4 @@
 # Bank 118
 - Equip: BIS melee
 - Withdraw: 14 oak planks, 10 steel nails, plank, mahogany plank, silk, clockwork, swamp tar, leather (not hard), 3x molten glass, raw cod
-* Make molten glass and leather if you need it. Swamp tar is in Lumbridge Swamp. 
+* Make molten glass and leather if you need it. Swamp tar is in Lumbridge Swamp.
