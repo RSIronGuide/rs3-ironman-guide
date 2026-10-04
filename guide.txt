@@ -1962,3 +1962,5 @@
 - Teleport to Wendlewick, go to Liats House, go upstairs, search the bookcase, read Metals: A musing
 - Take Canoe Transportation to Wendlewick (Farm) Option 2
 - use the old key on the locked chest behind the waterfall east of Hollow Hill to get the havensilver schematic, then bring it back to Liat.
+- make a havensilver greatsword +1
+- drop metals book, schematic, torn scroll pieces
