@@ -1859,17 +1859,13 @@
 * Treat reaper tasks as a weekly. Add them to your Weekly Run once you start
 
 # 60 Magic: Mage Arena
-* The Mage Arena is deep in the Wilderness. Bring food and a teleport, don't bring anything you can't afford to lose. HCIM
+* The Mage Arena is deep in the Wilderness. Wear BIS gear, Bring food and a teleport
 - Complete the [[Mage Arena]] miniquest
 - Enter the [[Sparkling Pool]] and claim the [[Guthix cape]] and [[Guthix staff]]
 - Pray at the [[Statue of Guthix]] for the Guthix cape
 - Talk to the [[Chamber guardian]] for the Guthix staff
 - Cast the [[Divine Storm]] spell 100 times on a [[Battle mage]] inside the Mage Arena (Wilderness)
   * Switch to Full Manual, keybind "divine storm" and press the button manually. 
-  * Equip Mystic wand and Mystic orb
-  * Withdraw 500 Air runes and food
-  * Set your Magic to autocast Divine Storm on both weapons
-  * Attack a Battle mage until you run out of runes
 
 # 50 Prayer
 * If you aren't 50 prayer yet, stop and get it you should be close 
