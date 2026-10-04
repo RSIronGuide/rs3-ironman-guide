@@ -1967,6 +1967,7 @@
 - Continue Cold War
 - During quest, make [clockmaker's bench 1] at the [furniture workbench] in Rimmington
 - Then make [clockmaker's bench 2], and then [clockmaker's bench 3], grab additional oak planks at bank
+- Withdraw 5 feathers before moving forward
 - Add [clockmaker's bench 3] to [furniture storage]
 - Place clockmaker's bench 3 in POH
 - Click the clockmaker bench, craft 2x penguin suits
