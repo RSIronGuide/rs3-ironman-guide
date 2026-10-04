@@ -1835,13 +1835,13 @@
 * You will get a ton of herb seeds. We want to hard push 57 herblore. Do your herb runs. Use all your irit seeds, buy eye of newts, chocolate bars,  make as many super attacks/energy potions as you can. Use all bonus xp into herblore. We want fairy rings ASAP. 
 - Complete A Guild of Our Own, you can now start safecracking. 
 - Go talk to the [Safecracking trainer] in the Thieves' Guild. He gives you advice, a stethoscope and a small loot bag, and you need both
-- Lvl 62-90, train thieving by safecracking.
+- Lvl 62-90, train thieving by [safecracking]
 - Pilfer points purchase order:
-1. Medium loot bag 500
-2. Large loot bag 2,000
-3. One–Five finger discount 1,000 each, +2% Thieving success each (up to +10%)
-4. Master thief's lockpick and stethoscope 2,500 each
-5. Huge loot bag 5,000
+- 1. Medium loot bag 500
+- 2. Large loot bag 2,000
+- 3. One–Five finger discount 1,000 each, +2% Thieving success each (up to +10%)
+- 4. Master thief's lockpick and stethoscope 2,500 each
+- 5. Huge loot bag 5,000
 
 # Bank 114
 - Get 5 slayer task from Jacquelyn. Then start training with Raptor for undead task, use salve amulet. Train Slayer till 60 Magic. Search "combat XP" in settings and turn off Defence XP for Magic
