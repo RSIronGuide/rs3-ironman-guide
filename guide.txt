@@ -1834,12 +1834,11 @@
 - Thieve master farmers until 62 Thieving
 * You will get a ton of herb seeds. We want to hard push 57 herblore. Do your herb runs. Use all your irit seeds, buy eye of newts, chocolate bars,  make as many super attacks/energy potions as you can. Use all bonus xp into herblore. We want fairy rings ASAP. 
 - Complete A Guild of Our Own, you can now start safecracking. 
-- Buy a lockpick, and stethoscope in the Thieves Guild from [Dodgy Derek]
 - Lvl 62-90, train thieving by safecracking.
 - Consider spending Pilfer Points on the Master thief's lockpick for Desert Treasure.
 
 # Bank 114
-- Get 5 slayer task from Jacquelyn. Then start training with Raptor for undead task, use salve amulet. Train Slayer to 45 using Magic only. Search "combat XP" in settings and turn off Defence XP for Magic
+- Get 5 slayer task from Jacquelyn. Then start training with Raptor for undead task, use salve amulet. Train Slayer till 60 Magic. Search "combat XP" in settings and turn off Defence XP for Magic
 - Train Magic to 60. 
 
 # Reaper Assignments (45 Slayer)
