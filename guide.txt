@@ -1913,7 +1913,7 @@
 - Go south-east, trade with groundskeeper, buy all clockworks
 - Then South pick the poppies next to the cardinal marker at the top of the cliff to obtain a Wendlewick poppy.
 
-# Bank 115
+# Bank 115 200 Quest Points
 - Equip: BIS gear
 - Withdraw: rabbit snares, ferret
 - To the south-west, near the jackalope burrows, kill a hedgehog and pick up the hedgehog spines.
@@ -1930,6 +1930,7 @@
 * HCIM this is a safe death
 - After you kill the boss, go back out the cave, and kill sanguine crawlers until you run out of food or get 7 sanguine matter. If you dont get 7 we will come back for them.
 - Complete [[Hearts of Sanguine]]
+- Congratulations! 200 Quest Points Achieved! Grab your rewards from May's shop anytime
 
 # Bank 116
 - Keep gear on
