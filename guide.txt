@@ -1962,3 +1962,8 @@
 - use the old key on the locked chest behind the waterfall east of Hollow Hill to get the havensilver schematic, then bring it back to Liat.
 - make a havensilver greatsword +1
 - drop metals book, schematic, torn scroll pieces
+
+# Bank 118
+- Equip: BIS melee
+- Withdraw: 14 oak planks, 10 steel nails, plank, mahogany plank, silk, clockwork, swamp tar, leather (not hard), 3x molten glass, raw cod
+* Make molten glass and leather if you need it. Swamp tar is in Lumbridge Swamp. 
