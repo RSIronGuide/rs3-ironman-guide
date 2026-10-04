@@ -1792,12 +1792,6 @@
 * Additional rewards/activities - after quest you can collect xp lamps from Phillip around Geilinor
 - Combat Training Camp (found northwest of Ardougne) - 2,000 skills experience (Skill must be level 30 or higher) - use on agility
 * You should now be 48 agility, we can now afk Master Farmers for seeds efficiently. 
-- West of the Mountain Camp entrance - 5,000 skills experience (Skill must be level 40 or higher)  - use on herblore
-- Top level of Shilo Village, in Paramaya inn Dormitory. -  	5,000 skills experience (Skill must be level 40 or higher) - use on herblore
-- @ 200 Quest points - Port Phasmatys's Inn, called: The Green Ghost - 10,000 skills experience (Skill must be level 55 or higher)
-- Continues up to 450 quest points. 
-- Talk to Claus the chef and then defeat the wolf matriarch to obtain her skull.
-
 
 # Bank 111
 - Equip: Weapons/armour
@@ -1913,7 +1907,7 @@
 - Go south-east, trade with groundskeeper, buy all clockworks
 - Then South pick the poppies next to the cardinal marker at the top of the cliff to obtain a Wendlewick poppy.
 
-# Bank 115 200 Quest Points
+# Bank 115
 - Equip: BIS gear
 - Withdraw: rabbit snares, ferret
 - To the south-west, near the jackalope burrows, kill a hedgehog and pick up the hedgehog spines.
@@ -1930,7 +1924,6 @@
 * HCIM this is a safe death
 - After you kill the boss, go back out the cave, and kill sanguine crawlers until you run out of food or get 7 sanguine matter. If you dont get 7 we will come back for them.
 - Complete [[Hearts of Sanguine]]
-- Congratulations! 200 Quest Points Achieved! Grab your rewards from May's shop anytime
 
 # Bank 116
 - Keep gear on
@@ -1973,3 +1966,6 @@
 - Place clockmaker's bench 3 in POH
 - Click the clockmaker bench, craft 2x penguin suits
 - Complete Cold War
+- Go south to Mountain camp- West of the Mountain Camp entrance find Phillip - 5,000 skills experience (Skill must be level 40 or higher)  - use on herblore
+- Teleport to Karamja Lodestone/House teleport, take travel cart to Shilo Village
+- Top level of Shilo Village, in [Paramaya Inn Dormitory], find Phillip. - 5,000 skills experience (Skill must be level 40 or higher) - use on herblore
