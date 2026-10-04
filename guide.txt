@@ -1832,7 +1832,7 @@
 - Equip - BIS gear, trolls are weak to water spells
 - Withdraw: climbing boots (or buy during the quest), food
 - Teleport to Burthorpe Lodestone, Talk to Commander Denulth in Burthorpe, east of the castle. (💬 1•2•✓)
-- Complete Troll Stronghold, put both xp lamps int Agility. 
+- Complete Troll Stronghold, put both xp lamps into Agility. 
 * 48 Agility you get triple loot from master farmers at 58 Thieving
 * 50 Agility you get triple loot from guards at 60 Thieving
 
@@ -1892,10 +1892,10 @@
 - Teleport to Wendlewick Lodestone
 - Go to the Burnt Lobster Tavern, buy one wendlewick ale from Bartender
 - Talk to Bartender Gefen (💬 1)
-- Talk to Matthew and give him a Wendlewick ale. He is sitting alone at the table in the north-western corner of the tavern. (Chat 1•1)
+- Talk to Matthew and give him a Wendlewick ale. He is sitting alone at the table in the north-western corner of the tavern. (💬 1•1)
 - Talk to Miriam, the musician outside
-- Talk to Jacob, sitting alone outside. (Chat 1)
-- Talk to Bartender Gefen. (Chat 1)
+- Talk to Jacob, sitting alone outside. (💬 1)
+- Talk to Bartender Gefen. (💬 1)
 - Travel Canoe Station at the dock, Option 2 Wendlewick (Farm)
 - Walk across the bridge and head Northeast, along the river "push Maya's boat" into the water
 - Teleport to Wendlewick Lodestone
@@ -1919,7 +1919,7 @@
 - To the south-west, near the jackalope burrows, kill a hedgehog and pick up the hedgehog spines.
 - East of the shrine, pick the wolf's tongue mushrooms beside the fairy ring to obtain wolf's tongue
 - Go back to Jackalope burrows, catch jackalope until 45 hunter. bank everything at nearby bank, raw rabbit is optional
-* How I tick manipulate Jackalops - https://www.reddit.com/r/runescape/comments/1www1mt/tick_manip_jackalopes/
+* How I tick manipulate Jackalopes - https://www.reddit.com/r/runescape/comments/1www1mt/tick_manip_jackalopes/
 - Bank at Dalia's Tree nursery, withdraw: wendlewick poppy, hedgehog spines, wolf's tongue, 5 copper spirit, 5 tin spirit
 - Teleport to Wendlewick Lodestone
 - Return to Esther. (💬 1), make the anti sanguine, Continue [[Hearts of Sanguine]]
