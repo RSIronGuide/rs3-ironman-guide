@@ -1839,7 +1839,8 @@
 
 # Bank 114
 - Get 5 slayer task from Jacquelyn. Then start training with Raptor for undead task, use salve amulet. Train Slayer till 60 Magic. Search "combat XP" in settings and turn off Defence XP for Magic
-- Train Magic to 60. 
+- Train Magic to 60
+* You can also do reaper task
 
 # Reaper Assignments (45 Slayer)
 * Unlocks at 45 Slayer and 50 Combat
